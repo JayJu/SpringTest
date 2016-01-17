@@ -45,12 +45,13 @@ public class UserDaoTest {
         else{
             System.out.println("조회 테스트 성공!");
         }*/
-        user2.setName("1");
         assertThat(user2.getName(), is(user.getName()));
         assertThat(user2.getPassword(), is(user.getPassword()));
     }
 
+
     public static void main(String args[]) {
         JUnitCore.main("ex2.UserDaoTest");
     }
+
 }

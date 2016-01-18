@@ -1,6 +1,4 @@
-package ex3;
-
-import org.springframework.context.annotation.Bean;
+package ex4;
 
 import java.sql.Connection;
 import java.sql.SQLException;

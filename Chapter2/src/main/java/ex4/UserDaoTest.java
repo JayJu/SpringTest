@@ -31,10 +31,9 @@ public class UserDaoTest {
 
     @Before
     public void setup() {
-//        ApplicationContext context = new AnnotationConfigApplicationContext(DaoFactory.class);
         System.out.println(this.context);
         System.out.println(this);
-        dao = context.getBean("userDao", UserDao.class);
+        //dao = context.getBean("userDao", UserDao.class);
 
         this.user1 = new User("jiny", "주희진", "12345");
         this.user2 = new User("yuchi", "지혜", "456");

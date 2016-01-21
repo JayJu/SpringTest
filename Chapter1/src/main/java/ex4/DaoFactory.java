@@ -8,15 +8,6 @@ public class DaoFactory {
         return new UserDao(connectionMaker());
     }
 
-    /*
-    public UserDao accountDao() {
-        return new UserDao(new DConnectionMaker());
-    }
-
-    public UserDao messageDao() {
-        return new UserDao(new DConnectionMaker());
-    }
-    */
     public ConnectionMaker connectionMaker() {
         return new DConnectionMaker();
     }

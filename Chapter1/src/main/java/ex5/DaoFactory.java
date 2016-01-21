@@ -14,16 +14,6 @@ public class DaoFactory {
         return new UserDao(connectionMaker());
     }
 
-    /*
-    public UserDao accountDao() {
-        return new UserDao(new DConnectionMaker());
-    }
-
-    public UserDao messageDao() {
-        return new UserDao(new DConnectionMaker());
-    }
-    */
-
     @Bean
     public ConnectionMaker connectionMaker() {
         return new DConnectionMaker();

@@ -29,10 +29,7 @@ public class DaoFactory {
     }
     */
 
-    @Bean
-    public ConnectionMaker connectionMaker() {
-        return new DConnectionMaker();
-    }
+
 
     @Bean
     public DataSource dataSource() {

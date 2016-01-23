@@ -1,4 +1,4 @@
-package ex3;
+package ex4.p1;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -7,9 +7,6 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.GenericApplicationContext;
-import org.springframework.context.support.GenericXmlApplicationContext;
 import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
@@ -22,13 +19,18 @@ import static org.junit.Assert.assertThat;
 /**
  * Created by 1015331 on 2016-01-16.
  */
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(classes = {DaoFactory.class})
 public class UserDaoTest {
+    @Autowired
+    private ApplicationContext context;
     private UserDao dao;
 
     @Before
     public void setup() {
-        ApplicationContext context = new AnnotationConfigApplicationContext(DaoFactory.class);
-        dao = context.getBean("userDao", UserDao.class);
+        System.out.println(this.context); //테스트 3번 모두 동일한 주소값
+        System.out.println(this); //테스트마다 다른 주소값
+        this.dao = context.getBean("userDao", UserDao.class);
     }
 
     @Test
@@ -82,7 +84,7 @@ public class UserDaoTest {
 
     }
     public static void main(String args[]) {
-        JUnitCore.main("ex3.UserDaoTest");
+        JUnitCore.main("ex4.p1.UserDaoTest");
     }
 
 }

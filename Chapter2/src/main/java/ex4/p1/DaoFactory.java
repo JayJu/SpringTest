@@ -1,4 +1,4 @@
-package ex2;
+package ex4.p1;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

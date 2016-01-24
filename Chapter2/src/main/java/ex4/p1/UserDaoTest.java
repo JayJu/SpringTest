@@ -7,9 +7,12 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.dao.EmptyResultDataAccessException;
+import org.springframework.jdbc.datasource.SingleConnectionDataSource;
+import org.springframework.test.annotation.DirtiesContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import javax.sql.DataSource;
 import java.sql.SQLException;
 
 import static org.hamcrest.CoreMatchers.is;
@@ -19,7 +22,9 @@ import static org.junit.Assert.assertThat;
  * Created by 1015331 on 2016-01-16.
  */
 @RunWith(SpringJUnit4ClassRunner.class) //스프링의 테스트 컨텍스트 프레임워크의 JUnit 확장기능 지정
-@ContextConfiguration(locations = "../applicationContext.xml") //테스트 컨텍스트가 자동으로 만들어 줄 애플리케이션 컨텍스트의 위치 지정
+@ContextConfiguration(locations = "applicationContext.xml") //테스트 컨텍스트가 자동으로 만들어 줄 애플리케이션 컨텍스트의 위치 지정
+@DirtiesContext //테스트 메서드에서 어플리케이션 컨텍스트의 구성이나 상태를 변경한다는 것을 테스트 컨텍스트에게 알려준다.
+                //테스트 컨텍스트는 이 애노테이션이 붙은 테스트 클래스에는 애플리케이션 컨텍스트를 공유하지 않는다. 메서드 레벨도 사용 가능.
 public class UserDaoTest {
     @Autowired //테스트 오브젝트가 만들어지고 나면 스프링 테스트 컨텍스트에 의해 자동으로 값이 주입된다.
     private ApplicationContext context;
@@ -34,6 +39,10 @@ public class UserDaoTest {
     public void setup() {
         System.out.println(this.context); //테스트 3번 모두 동일한 주소값
         System.out.println(this); //테스트마다 다른 주소값
+
+        //테스트에서 UserDao가 사용 할 Datasource오브젝트를 직접 생성.
+        DataSource dataSource = new SingleConnectionDataSource("jdbc:h2:tcp://localhost/~/test", "sa", "", true);
+        dao.setDataSource(dataSource);
 
         this.user1 = new User("jiny", "주희진", "12345");
         this.user2 = new User("yuchi", "지혜", "456");

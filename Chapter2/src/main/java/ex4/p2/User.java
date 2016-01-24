@@ -1,4 +1,4 @@
-package ex4;
+package ex4.p2;
 
 /**
  * Created by 1015331 on 2016-01-12.

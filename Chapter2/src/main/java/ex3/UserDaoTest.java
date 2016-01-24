@@ -3,16 +3,9 @@ package ex3;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.JUnitCore;
-import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.context.support.GenericApplicationContext;
-import org.springframework.context.support.GenericXmlApplicationContext;
 import org.springframework.dao.EmptyResultDataAccessException;
-import org.springframework.test.context.ContextConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.sql.SQLException;
 
@@ -24,18 +17,25 @@ import static org.junit.Assert.assertThat;
  */
 public class UserDaoTest {
     private UserDao dao;
+    private User user1;
+    private User user2;
+    private User user3;
 
-    @Before
+    @Before //@Test 메서드가 실행되기 전에 먼저 실행되어야 하는 메서드를 정의한다.
     public void setup() {
         ApplicationContext context = new AnnotationConfigApplicationContext(DaoFactory.class);
         dao = context.getBean("userDao", UserDao.class);
+
+        this.user1 = new User("jiny", "주희진", "12345");
+        this.user2 = new User("yuchi", "지혜", "456");
+        this.user3 = new User("ywoo", "연우", "789");
     }
 
-    @Test
+    @Test //JUnit에게 테스트메서드임을 알려준다 테스트메서드는 public 이어야 한다
     public void addAndGet() throws ClassNotFoundException,SQLException {
 
-        User user1 = new User("jiny", "주희진", "12345");
-        User user2 = new User("yuchi", "지혜", "456");
+        user1 = new User("jiny", "주희진", "12345");
+        user2 = new User("yuchi", "지혜", "456");
 
         dao.deleteAll();
         assertThat(dao.getCount(), is(0));
@@ -56,9 +56,9 @@ public class UserDaoTest {
 
     @Test
     public void count() throws ClassNotFoundException, SQLException {
-        User user1 = new User("jin", "희진", "123");
-        User user2 = new User("yuchi", "지혜", "456");
-        User user3 = new User("ywoo", "연우", "789");
+        user1 = new User("jin", "희진", "123");
+        user2 = new User("yuchi", "지혜", "456");
+        user3 = new User("ywoo", "연우", "789");
 
         dao.deleteAll();
         assertThat(dao.getCount(), is(0));
@@ -82,7 +82,7 @@ public class UserDaoTest {
 
     }
     public static void main(String args[]) {
-        JUnitCore.main("ex3.UserDaoTest");
+        JUnitCore.main("ex3.UserDaoTest"); //JUnit을 이용해 테스트를 실행해주는 main()메서드
     }
 
 }

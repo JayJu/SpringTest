@@ -15,7 +15,7 @@ import static org.junit.Assert.assertThat;
  */
 public class UserDaoTest {
 
-    @Test
+    @Test //JUnit에게 테스트메서드임을 알려준다 테스트메서드는 public 이어야 한다
     public void addAndGet() throws ClassNotFoundException,SQLException {
         ApplicationContext context = new AnnotationConfigApplicationContext(DaoFactory.class);
         UserDao dao = context.getBean("userDao", UserDao.class);
@@ -37,7 +37,7 @@ public class UserDaoTest {
 
 
     public static void main(String args[]) {
-        JUnitCore.main("ex2.UserDaoTest");
+        JUnitCore.main("ex2.UserDaoTest"); //JUnit을 이용해 테스트를 실행해주는 main()메서드
     }
 
 }

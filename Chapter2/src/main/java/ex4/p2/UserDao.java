@@ -1,4 +1,4 @@
-package ex4;
+package ex4.p2;
 
 
 import org.springframework.dao.EmptyResultDataAccessException;
@@ -82,6 +82,4 @@ public class UserDao {
         return user;
     }
 
-    public void setConnectionMaker(DConnectionMaker connectionMaker) {
-    }
 }

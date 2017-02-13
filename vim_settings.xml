@@ -2,14 +2,60 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.component.ts" timestamp="1486964271123">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5nT25Jbml0KCkgewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxncj5kZDwvZ3I+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>wq</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>

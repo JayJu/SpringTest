@@ -3,47 +3,77 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486966783807">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.module.ts" timestamp="1486966948544">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.component.ts" timestamp="1486964271123">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="15" />
         <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="15" />
       </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486966656942">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486967856268">
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="32" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5nT25Jbml0KCkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkgewo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxncj5kZDwvZ3I+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vZHVsZUlkOiBtb2R1bGUuaWQsCg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>i</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsgaWQ6MSwgbmFtZToidXNlcl8xIiwgdGl0bGU6ICJ0ZXN0X3RpdGxlMSJ9LAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQk9BUkRfSVRFTV9MSVNULmZpbHRlcihpdGVtID0+IHJldHVybiBpdGVtLmlkID09IGlkKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5nZXRCb2FyZEl0ZW1MaXN0ZGQoKS5mb3JFYWNoKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRkCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">bmcyc2VyCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -52,13 +82,19 @@
     </search>
     <history>
       <history-cmd>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

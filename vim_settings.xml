@@ -3,29 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486966783807">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.module.ts" timestamp="1486968400767">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.html" timestamp="1486969039761">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="72" />
+        <mark key="." line="3" column="72" />
+        <mark key="^" line="3" column="72" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.component.ts" timestamp="1486964271123">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486966656942">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-        <mark key="^" line="10" column="16" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/01_complete/step01_router_페이지이동/app/app.module.ts" timestamp="1486970304723" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486968141465">
         <mark key="[" line="14" column="60" />
@@ -33,50 +27,86 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486968488379">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="13" column="53" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486970913903">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app-routing.module.ts" timestamp="1486970982892">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.module.ts" timestamp="1486970874469">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.component.ts" timestamp="1486970529135">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/01_complete/step01_router_페이지이동/app/app.component.ts" timestamp="1486970487255" />
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486970122563">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="63" />
+        <mark key="." line="14" column="63" />
+        <mark key="^" line="14" column="63" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.ts" timestamp="1486970788781">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486968915985">
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="16" column="65" />
+        <mark key="." line="16" column="65" />
+        <mark key="^" line="16" column="65" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>N</text>
       </register>
       <register name="-" type="4">
-        <text>K</text>
+        <text>N</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgaWQ6MSwgbmFtZToidXNlcl8xIiwgdGl0bGU6ICJ0ZXN0X3RpdGxlMSJ9LAo=</text>
+        <text encoding="base64">ICAgIHsgcGF0aDonbGlzdCcsIGNvbXBvbmVudDogQm9hcmRMaXN0Q29tcG9uZW50IH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZDxkaXYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcyI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmcyY29tCg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi4vLi4vLi4vbm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2Owo=</text>
+        <text encoding="base64">YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodi5pZCA9PSBpZCkgewo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBCT0FSRF9JVEVNX0xJU1QubWFwKCh2KSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -89,6 +119,7 @@
     <history>
       <history-cmd>
         <entry>wq</entry>
+        <entry>w@</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -101,6 +132,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

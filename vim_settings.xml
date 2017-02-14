@@ -9,6 +9,9 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
+      <file name="/Dummy.txt" timestamp="1487060729123">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -21,7 +24,6 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/01_complete/step01_router_페이지이동/app/app.module.ts" timestamp="1486970304723" />
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -56,7 +58,6 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/01_complete/step01_router_페이지이동/app/app.component.ts" timestamp="1486970487255" />
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486973737257">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="11" />
@@ -129,12 +130,15 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>wq</entry>
         <entry>w@</entry>
         <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">

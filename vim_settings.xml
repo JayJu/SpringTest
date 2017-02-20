@@ -86,10 +86,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pringT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pringT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHsgcGF0aDonbm9wYWdlJywgY29tcG9uZW50OiBOb1BhZ2VDb21wb25lbnR9LAo=</text>

@@ -22,6 +22,10 @@
           <option name="url" value="https://gitlab.com/JayJu/hvcs1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JayJu/hvcs1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Biz\05.Project\17.HVCS\Source" />

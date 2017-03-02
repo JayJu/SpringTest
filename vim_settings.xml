@@ -106,10 +106,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pringT</text>
+        <text>https://gitlab.com/JayJu/hvcs1.git</text>
       </register>
       <register name="-" type="4">
-        <text>pringT</text>
+        <text>https://gitlab.com/JayJu/hvcs1.git</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>

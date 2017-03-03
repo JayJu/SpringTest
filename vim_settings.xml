@@ -24,6 +24,12 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1488528524360">
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="5" column="77" />
+        <mark key="^" line="5" column="78" />
+        <mark key="." line="5" column="77" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -106,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://gitlab.com/JayJu/hvcs1.git</text>
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>https://gitlab.com/JayJu/hvcs1.git</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>
@@ -145,7 +151,7 @@
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -171,8 +177,8 @@
         <entry>w@</entry>
         <entry>0</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

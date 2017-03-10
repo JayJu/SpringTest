@@ -25,11 +25,11 @@
         <mark key="." line="3" column="72" />
         <mark key="^" line="3" column="72" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1488528524360">
-        <mark key="[" line="5" column="77" />
-        <mark key="]" line="5" column="77" />
-        <mark key="^" line="5" column="78" />
-        <mark key="." line="5" column="77" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1489114193039">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+        <mark key="." line="3" column="74" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
         <mark key="[" line="7" column="0" />
@@ -52,6 +52,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/ko/home.json" timestamp="1489114153376">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486973695289">
         <mark key="[" line="11" column="10" />
@@ -95,6 +101,12 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/en/home.json" timestamp="1489114125326">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
       </file>
@@ -119,10 +131,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>
@@ -131,31 +143,31 @@
         <text encoding="base64">ICAgIHsgcGF0aDonbm9wYWdlJywgY29tcG9uZW50OiBOb1BhZ2VDb21wb25lbnR9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJob21lLmxpa2UiPklmIHlvdSBsaWtlIEpIaXBzdGVyLCBkb24ndCBmb3JnZXQgdG8gZ2l2ZSB1cyBhIHN0YXIgb248L3NwYW4+IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9qaGlwc3Rlci9nZW5lcmF0b3ItamhpcHN0ZXIiIHRhcmdldD0iX2JsYW5rIiBqaGlUcmFuc2xhdGU9ImhvbWUuZ2l0aHViIj5HaXRodWI8L2E+IQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlbS5pZCA9PSBpZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbmQoKGl0ZW06Qm9hcmRJdGVtKT0+IHsKICAgICAgICAgICAgcmV0dXJuIGl0ZW0uaWQgPT0gaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHA6Ly9qaGlwc3Rlci5naXRodWIuaW8vIiB0YXJnZXQ9Il9ibGFuayIgamhpVHJhbnNsYXRlPSJob21lLmxpbmsuaG9tZXBhZ2UiPkpIaXBzdGVyIGhvbWVwYWdlPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vdGFncy9qaGlwc3Rlci9pbmZvIiB0YXJnZXQ9Il9ibGFuayIgamhpVHJhbnNsYXRlPSJob21lLmxpbmsuc3RhY2tvdmVyZmxvdyI+SkhpcHN0ZXIgb24gU3RhY2sgT3ZlcmZsb3c8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9qaGlwc3Rlci9nZW5lcmF0b3ItamhpcHN0ZXIvaXNzdWVzP3N0YXRlPW9wZW4iIHRhcmdldD0iX2JsYW5rIiBqaGlUcmFuc2xhdGU9ImhvbWUubGluay5idWd0cmFja2VyIj5KSGlwc3RlciBidWcgdHJhY2tlcjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXR0ZXIuaW0vamhpcHN0ZXIvZ2VuZXJhdG9yLWpoaXBzdGVyIiB0YXJnZXQ9Il9ibGFuayIgamhpVHJhbnNsYXRlPSJob21lLmxpbmsuY2hhdCI+SkhpcHN0ZXIgcHVibGljIGNoYXQgcm9vbTwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly90d2l0dGVyLmNvbS9qYXZhX2hpcHN0ZXIiIHRhcmdldD0iX2JsYW5rIiAgamhpVHJhbnNsYXRlPSJob21lLmxpbmsuZm9sbG93Ij5mb2xsb3cgQGphdmFfaGlwc3RlciBvbiBUd2l0dGVyPC9hPjwvbGk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1vcHJ0IGZyb20K</text>
+        <text encoding="base64">ICAgICAgICA8dWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvdQo=</text>
+        <text encoding="base64">CiAgICAgICAgPHAgamhpVHJhbnNsYXRlPSJob21lLnF1ZXN0aW9uIj4KICAgICAgICAgICAgSWYgeW91IGhhdmUgYW55IHF1ZXN0aW9uIG9uIEpIaXBzdGVyOgogICAgICAgIDwvcD4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImRpc3BsYXktNCIgamhpVHJhbnNsYXRlPSJob21lLnRpdGxlIj5XZWxjb21lLCBKYXZhIEhpcHN0ZXIhPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

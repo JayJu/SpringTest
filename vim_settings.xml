@@ -9,7 +9,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492596140588">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492643940005">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
@@ -162,10 +162,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>navbar-collapse</text>
@@ -201,7 +201,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -229,8 +229,8 @@
         <entry>w@</entry>
         <entry>0</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

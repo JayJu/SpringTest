@@ -9,7 +9,7 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1489451251136">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492596140588">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
@@ -100,6 +100,12 @@
         <mark key="." line="16" column="4" />
         <mark key="^" line="16" column="4" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/planE/src/main/resources/kurento-room-demo.conf.json" timestamp="1492596191817">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app-routing.module.ts" timestamp="1486973364040">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="49" />
@@ -156,10 +162,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>navbar-collapse</text>
@@ -167,32 +173,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0ibm9ta2NhYiIvPgo=</text>
+      <register name="1" type="8">
+        <text>ws://ec2-52-78-163-9.ap-northeast-2.compute.amazonaws.com:8888/kurento&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0iYmFja21vbiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0ibm9ta2NhYiIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ1cmwiIHZhbHVlPSJqZGJjOnNxbHNlcnZlcjovLzEwLjEwLjIyMy4xNDM6MTQzMztEYXRhYmFzZU5hbWU9YmFja21vbiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0iYmFja21vbiIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRyaXZlciIgdmFsdWU9ImNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ1cmwiIHZhbHVlPSJqZGJjOnNxbHNlcnZlcjovLzEwLjEwLjIyMy4xNDM6MTQzMztEYXRhYmFzZU5hbWU9YmFja21vbiIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRyaXZlciIgdmFsdWU9ImNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4K</text>
+        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJob21lLmxpa2UiPklmIHlvdSBsaWtlIEpIaXBzdGVyLCBkb24ndCBmb3JnZXQgdG8gZ2l2ZSB1cyBhIHN0YXIgb248L3NwYW4+IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9qaGlwc3Rlci9nZW5lcmF0b3ItamhpcHN0ZXIiIHRhcmdldD0iX2JsYW5rIiBqaGlUcmFuc2xhdGU9ImhvbWUuZ2l0aHViIj5HaXRodWI8L2E+IQo=</text>
+        <text encoding="base64">ICAgICAgICA8cD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJob21lLmxpa2UiPklmIHlvdSBsaWtlIEpIaXBzdGVyLCBkb24ndCBmb3JnZXQgdG8gZ2l2ZSB1cyBhIHN0YXIgb248L3NwYW4+IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9qaGlwc3Rlci9nZW5lcmF0b3ItamhpcHN0ZXIiIHRhcmdldD0iX2JsYW5rIiBqaGlUcmFuc2xhdGU9ImhvbWUuZ2l0aHViIj5HaXRodWI8L2E+IQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>

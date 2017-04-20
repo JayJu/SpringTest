@@ -154,6 +154,9 @@
       <file name="/fragment.java" timestamp="1489974291230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1492646876643">
+        <mark key="'" line="54" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" />
@@ -165,6 +168,11 @@
       <jump line="15" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
       <jump line="56" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
       <jump line="10" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="27" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="45" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="46" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="51" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="54" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -174,7 +182,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>navbar-collapse</text>
+        <text>module</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -211,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search>navbar-collapse</last-search>
+      <last-search>module</last-search>
       <last-offset />
-      <last-pattern>navbar-collapse</last-pattern>
+      <last-pattern>module</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -230,6 +238,7 @@
         <entry>vendor</entry>
         <entry>home</entry>
         <entry>navbar-collapse</entry>
+        <entry>module</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>

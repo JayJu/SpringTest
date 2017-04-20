@@ -48,6 +48,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/.gitignore" timestamp="1492654198363">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" timestamp="1487565253779">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="29" column="5" />
@@ -69,6 +75,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492653684480">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1489114193039">
         <mark key="[" line="3" column="74" />
@@ -130,6 +142,7 @@
         <mark key="]" line="23" column="17" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/login/login.html" timestamp="1492653738613" />
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486973737257">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="11" />
@@ -185,10 +198,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -251,9 +264,9 @@
       </history-search>
       <history-cmd>
         <entry>w@</entry>
-        <entry>0</entry>
         <entry>q!</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

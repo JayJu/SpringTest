@@ -61,7 +61,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489120729311">
+      <file name="/Dummy.txt" timestamp="1492645989102">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
@@ -111,6 +111,12 @@
         <mark key="]" line="14" column="49" />
         <mark key="^" line="14" column="49" />
         <mark key="." line="14" column="49" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492646259823">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1489119800472">
         <mark key="'" line="10" column="16" />
@@ -162,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>navbar-collapse</text>

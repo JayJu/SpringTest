@@ -3,6 +3,107 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492643940005">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/tsconfig.json" timestamp="1487567689211">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/en/home.json" timestamp="1489114125326">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/RoomDemoApp.java" timestamp="1492670543682">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/call/call.html" timestamp="1492671299278" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492669500988">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="6" />
+        <mark key="^" line="52" column="6" />
+        <mark key="." line="52" column="6" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1489114193039">
+        <mark key="[" line="3" column="74" />
+        <mark key="]" line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" timestamp="1492671176062">
+        <mark key="[" line="151" column="6" />
+        <mark key="]" line="152" column="5" />
+        <mark key="^" line="152" column="5" />
+        <mark key="." line="152" column="5" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/banner.txt" timestamp="1492671394596" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/css/room.css" timestamp="1492669683015">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="238" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/main/main.component.html" timestamp="1489110906482">
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/ko/home.json" timestamp="1489114153376">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486973695289">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
+        <mark key="^" line="16" column="4" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/DemoController.java" timestamp="1492670295718">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="6" />
+        <mark key="^" line="87" column="6" />
+        <mark key="." line="87" column="6" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486973737257">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.ts" timestamp="1486970788781">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/FixedNKmsManager.java" timestamp="1492670465067">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="107" column="0" />
+      </file>
+      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486974127379">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+        <mark key="^" line="19" column="14" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" timestamp="1492668419600" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/DemoJsonRpcUserControl.java" timestamp="1492670377768">
         <mark key="[" line="29" column="0" />
@@ -17,12 +118,6 @@
         <mark key="." line="8" column="30" />
         <mark key="^" line="8" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492643940005">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.html" timestamp="1486969039761">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="72" />
@@ -34,16 +129,6 @@
         <mark key="]" line="21" column="61" />
         <mark key="^" line="21" column="61" />
         <mark key="." line="21" column="61" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/tsconfig.json" timestamp="1487567689211">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hvcs/room/demo/DemoJsonRpcUserControl.java" timestamp="1492670354281" />
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.module.ts" timestamp="1486973195896">
@@ -69,20 +154,23 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/en/home.json" timestamp="1489114125326">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/RoomDemoApp.java" timestamp="1492670543682">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/index.html" timestamp="1492669481082" />
+      <file name="/Dummy.txt" timestamp="1492670951653">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/index.html" timestamp="1492669481082" />
-      <file name="/Dummy.txt" timestamp="1492669784869">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/banner.txt" timestamp="1492671405002">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492671463447">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="7" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
         <mark key="[" line="0" column="0" />
@@ -90,56 +178,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492669500988">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="6" />
-        <mark key="^" line="52" column="6" />
-        <mark key="." line="52" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
-        <mark key="'" line="39" column="35" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1489114193039">
-        <mark key="[" line="3" column="74" />
-        <mark key="]" line="3" column="74" />
-        <mark key="^" line="3" column="74" />
-        <mark key="." line="3" column="74" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" timestamp="1492667763326">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="93" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/css/room.css" timestamp="1492669683015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="238" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="47" />
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/main/main.component.html" timestamp="1489110906482">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/ko/home.json" timestamp="1489114153376">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486973695289">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="16" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/planE/src/main/resources/kurento-room-demo.conf.json" timestamp="1492596191817">
         <mark key="[" line="2" column="16" />
@@ -160,52 +203,19 @@
         <mark key="^" line="2" column="34" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/login/login.html" timestamp="1492669550117" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/DemoController.java" timestamp="1492670295718">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="6" />
-        <mark key="^" line="87" column="6" />
-        <mark key="." line="87" column="6" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486973737257">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.ts" timestamp="1486970788781">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/FixedNKmsManager.java" timestamp="1492670465067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="107" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/css/room.css" timestamp="1492669670420" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hvcs/room/demo/RoomDemoApp.java" timestamp="1492670602629" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
-        <mark key="'" line="92" column="8" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486974127379">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="19" column="14" />
-      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.write.component.ts" timestamp="1486973132148">
         <mark key="[" line="26" column="35" />
         <mark key="]" line="26" column="35" />
         <mark key="." line="26" column="35" />
         <mark key="^" line="26" column="37" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1492667735659">
-        <mark key="'" line="54" column="38" />
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/call.html" timestamp="1492671290781">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="5" />
+        <mark key="." line="69" column="5" />
+        <mark key="^" line="69" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -242,10 +252,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgIC4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0uCiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgIHwgICB8IHwvIC8gIF8gXyBfIF9fXyBfIF98IHxfIF9fXyAgICB8CiAgIHwgICB8ICcgPCB8fCB8ICdfLyAtXykgJyBcICBfLyBfIFwgICB8CiAgIHwgICB8X3xcX1xfLF98X3wgXF9fX3xffHxfXF9fXF9fXy8gICB8CiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgICAgICAgICAgICAgICAgdmVyc2lvbiAke3Byb2plY3QudmVyc2lvbn0K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>runtime</text>
@@ -254,31 +264,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CiAgIC4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0uCiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgIHwgICB8IHwvIC8gIF8gXyBfIF9fXyBfIF98IHxfIF9fXyAgICB8CiAgIHwgICB8ICcgPCB8fCB8ICdfLyAtXykgJyBcICBfLyBfIFwgICB8CiAgIHwgICB8X3xcX1xfLF98X3wgXF9fX3xffHxfXF9fXF9fXy8gICB8CiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgICAgICAgICAgICAgICAgdmVyc2lvbiAke3Byb2plY3QudmVyc2lvbn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtPgogICAgICAgICAgICAgICAgICAgIDxseC10ZXh0LWZpZWxkIGxhYmVsPSJNZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJpbnB1dE1lc3NhZ2UiIHR5cGU9InRleHQiIG5nLW1vZGVsPSJtZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgICA8L2x4LXRleHQtZmllbGQ+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLS1tIGJ0bi0tZ3JlZW4gYnRuLS1yYWlzZWQiIGx4LXJpcHBsZSBuZy1jbGljaz0ic2VuZE1lc3NhZ2UoKSI+U2VuZDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBvcmcua3VyZW50by5yb29tLmRlbW87CgovKioKICogQ3JlYXRlZCBieSAxMDE1MzMxIG9uIDIwMTctMDQtMjAuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJwYXJ0aWNpcGFudHMiPgoKICAgICAgICAgICAgPCEtLXNtYWxsIHZpZGVvcy0tPgoKICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKCiAgICA8IS0tQ0hBVC0tPiAKCiAgICA8ZGl2IGNsYXNzPSJ0b2dnbGVyIiBzdHlsZT0id2lkdGg6IDIwJTtoZWlnaHQ6IDEwMCU7ZmxvYXQ6IHJpZ2h0IiA+CiAgICAgICAgPGRpdiBpZD0iZWZmZWN0IiBzdHlsZT0iZGlzcGxheTpub25lIj4KICAgICAgICAgICAgPCEtLWhlYWQtLT4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxzdHJvbmc+Q2hhdDwvc3Ryb25nPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0tcyBidG4tLWJsdWUgYnRuLS1pY29uIG1kaSBtZC1jbG9zZSIgbHgtcmlwcGxlIG5nLWNsaWNrPSJ0b2dnbGVDaGF0KCkiIGlkPSJidXR0b24iPjwvYnV0dG9uPiA8IS0tY2xvc2UtLT4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGlkPSJjaGF0RGl2IiBzdHlsZT0iaGVpZ2h0OiAzMGVtOyAgb3ZlcmZsb3c6IHNjcm9sbDsiPgogICAgICAgICAgICAJPGRpdiBpZD0ibWVzc2FnZXMiPgoJICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdCIgPgoJCgkgICAgICAgICAgICAgICAgICAgIDwhLS1jaGF0IG1lc3NhZ2VzIHdpdGggc2Nyb2xsLS0+CgkKCSAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPCEtLW1lc3NhZ2UgYW5kIGJ1dHRvbiB0byBzZW5kLS0+CiAgICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKICogKEMpIENvcHlyaWdodCAyMDE1IEt1cmVudG8gKGh0dHA6Ly9rdXJlbnRvLm9yZy8pCiAqCiAqIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiB5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCiAqIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAogKgogKiAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmt1cmVudG8ucm9vbS5kZW1vOwoKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLnJlZ2V4Lk1hdGNoZXI7CmltcG9ydCBqYXZhLnV0aWwucmVnZXguUGF0dGVybjsKCmltcG9ydCBvcmcua3VyZW50by5jbGllbnQuS3VyZW50b0NsaWVudDsKaW1wb3J0IG9yZy5rdXJlbnRvLmpzb25ycGMuU2Vzc2lvbjsKaW1wb3J0IG9yZy5rdXJlbnRvLnJvb20uZXhjZXB0aW9uLlJvb21FeGNlcHRpb247CmltcG9ydCBvcmcua3VyZW50by5yb29tLmludGVybmFsLkRlZmF1bHRLdXJlbnRvQ2xpZW50U2Vzc2lvbkluZm87CmltcG9ydCBvcmcua3VyZW50by5yb29tLmttcy5LbXM7CmltcG9ydCBvcmcua3VyZW50by5yb29tLmttcy5LbXNNYW5hZ2VyOwppbXBvcnQgb3JnLmt1cmVudG8ucm9vbS5rbXMuTWF4V2ViUnRjTG9hZE1hbmFnZXI7CmltcG9ydCBvcmcua3VyZW50by5yb29tLnJwYy5Kc29uUnBjTm90aWZpY2F0aW9uU2VydmljZTsKaW1wb3J0IG9yZy5rdXJlbnRvLnJvb20ucnBjLlBhcnRpY2lwYW50U2Vzc2lvbjsKaW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKCi8qKgogKiBLTVMgbWFuYWdlciBmb3IgdGhlIHJvb20gZGVtbyBhcHAuCiAqCiAqIEBhdXRob3IgUmFkdSBUb20gVmxhZCAocnZsYWRAbmFldmF0ZWMuY29tKQogKiBAc2luY2UgNi4wLjAKICovCnB1YmxpYyBjbGFzcyBGaXhlZE5LbXNNYW5hZ2VyIGV4dGVuZHMgS21zTWFuYWdlciB7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIGxvZyA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEZpeGVkTkttc01hbmFnZXIuY2xhc3MpOwoKICBwcml2YXRlIFN0cmluZyBhdXRoUmVnZXg7CiAgcHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBhdXRoUGF0dGVybiA9IG51bGw7CgogIEBBdXRvd2lyZWQKICBwcml2YXRlIEpzb25ScGNOb3RpZmljYXRpb25TZXJ2aWNlIG5vdGlmaWNhdGlvblNlcnZpY2U7CgogIHB1YmxpYyBGaXhlZE5LbXNNYW5hZ2VyKExpc3Q8U3RyaW5nPiBrbXNXc1VyaSkgewogICAgZm9yIChTdHJpbmcgdXJpIDoga21zV3NVcmkpIHsKICAgICAgdGhpcy5hZGRLbXMobmV3IEttcyhLdXJlbnRvQ2xpZW50LmNyZWF0ZSh1cmkpLCB1cmkpKTsKICAgIH0KICB9CgogIHB1YmxpYyBGaXhlZE5LbXNNYW5hZ2VyKExpc3Q8U3RyaW5nPiBrbXNXc1VyaSwgaW50IGttc0xvYWRMaW1pdCkgewogICAgZm9yIChTdHJpbmcgdXJpIDoga21zV3NVcmkpIHsKICAgICAgS21zIGttcyA9IG5ldyBLbXMoS3VyZW50b0NsaWVudC5jcmVhdGUodXJpKSwgdXJpKTsKICAgICAga21zLnNldExvYWRNYW5hZ2VyKG5ldyBNYXhXZWJSdGNMb2FkTWFuYWdlcihrbXNMb2FkTGltaXQpKTsKICAgICAgdGhpcy5hZGRLbXMoa21zKTsKICAgIH0KICB9CgogIHB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCBzZXRBdXRoUmVnZXgoU3RyaW5nIHJlZ2V4KSB7CiAgICB0aGlzLmF1dGhSZWdleCA9IHJlZ2V4ICE9IG51bGwgPyByZWdleC50cmltKCkgOiBudWxsOwogICAgaWYgKGF1dGhSZWdleCAhPSBudWxsICYmICFhdXRoUmVnZXguaXNFbXB0eSgpKSB7CiAgICAgIGF1dGhQYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKGF1dGhSZWdleCwgUGF0dGVybi5VTklDT0RFX0NBU0UgfCBQYXR0ZXJuLkNBU0VfSU5TRU5TSVRJVkUpOwogICAgfQogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHN5bmNocm9uaXplZCBLbXMgZ2V0S21zKERlZmF1bHRLdXJlbnRvQ2xpZW50U2Vzc2lvbkluZm8gc2Vzc2lvbkluZm8pIHsKICAgIFN0cmluZyB1c2VyTmFtZSA9IG51bGw7CiAgICBTdHJpbmcgcGFydGljaXBhbnRJZCA9IHNlc3Npb25JbmZvLmdldFBhcnRpY2lwYW50SWQoKTsKICAgIFNlc3Npb24gc2Vzc2lvbiA9IG5vdGlmaWNhdGlvblNlcnZpY2UuZ2V0U2Vzc2lvbihwYXJ0aWNpcGFudElkKTsKICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHsKICAgICAgT2JqZWN0IHNlc3Npb25WYWx1ZSA9IHNlc3Npb24uZ2V0QXR0cmlidXRlcygpLmdldChQYXJ0aWNpcGFudFNlc3Npb24uU0VTU0lPTl9LRVkpOwogICAgICBpZiAoc2Vzc2lvblZhbHVlICE9IG51bGwpIHsKICAgICAgICBQYXJ0aWNpcGFudFNlc3Npb24gcGFydGljaXBhbnRTZXNzaW9uID0gKFBhcnRpY2lwYW50U2Vzc2lvbikgc2Vzc2lvblZhbHVlOwogICAgICAgIHVzZXJOYW1lID0gcGFydGljaXBhbnRTZXNzaW9uLmdldFBhcnRpY2lwYW50TmFtZSgpOwogICAgICB9CiAgICB9CiAgICBpZiAodXNlck5hbWUgPT0gbnVsbCkgewogICAgICBsb2cud2FybigiVW5hYmxlIHRvIGZpbmQgdXNlciBuYW1lIGluIHNlc3Npb24ge30iLCBwYXJ0aWNpcGFudElkKTsKICAgICAgdGhyb3cgbmV3IFJvb21FeGNlcHRpb24oUm9vbUV4Y2VwdGlvbi5Db2RlLlJPT01fQ0FOTk9UX0JFX0NSRUFURURfRVJST1JfQ09ERSwKICAgICAgICAgICJOb3QgZW5vdWdoIGluZm9ybWF0aW9uIik7CiAgICB9CiAgICBpZiAoIWNhbkNyZWF0ZVJvb20odXNlck5hbWUpKSB7CiAgICAgIHRocm93IG5ldyBSb29tRXhjZXB0aW9uKFJvb21FeGNlcHRpb24uQ29kZS5ST09NX0NBTk5PVF9CRV9DUkVBVEVEX0VSUk9SX0NPREUsCiAgICAgICAgICAiVXNlciBjYW5ub3QgY3JlYXRlIGEgbmV3IHJvb20iKTsKICAgIH0KICAgIEttcyBrbXMgPSBudWxsOwogICAgU3RyaW5nIHR5cGUgPSAiIjsKICAgIGJvb2xlYW4gaHEgPSBpc1VzZXJIUSh1c2VyTmFtZSk7CiAgICBpZiAoaHEpIHsKICAgICAga21zID0gZ2V0TGVzc0xvYWRlZEttcygpOwogICAgfSBlbHNlIHsKICAgICAga21zID0gZ2V0TmV4dExlc3NMb2FkZWRLbXMoKTsKICAgICAgaWYgKCFrbXMuYWxsb3dNb3JlRWxlbWVudHMoKSkgewogICAgICAgIGttcyA9IGdldExlc3NMb2FkZWRLbXMoKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0eXBlID0gIm5leHQgIjsKICAgICAgfQogICAgfQogICAgaWYgKCFrbXMuYWxsb3dNb3JlRWxlbWVudHMoKSkgewogICAgICBsb2cuZGVidWcoIldhcyB0cnlpbmcgS21zIHdoaWNoIGhhcyBubyByZXNvdXJjZXMgbGVmdDogaGlnaFE9e30sICIKICAgICAgICAgICsgInt9bGVzcyBsb2FkZWQgS01TLCB1cmk9e30iLCBocSwgdHlwZSwga21zLmdldFVyaSgpKTsKICAgICAgdGhyb3cgbmV3IFJvb21FeGNlcHRpb24oUm9vbUV4Y2VwdGlvbi5Db2RlLlJPT01fQ0FOTk9UX0JFX0NSRUFURURfRVJST1JfQ09ERSwKICAgICAgICAgICJObyByZXNvdXJjZXMgbGVmdCB0byBjcmVhdGUgbmV3IHJvb20iKTsKICAgIH0KICAgIGxvZy5kZWJ1ZygiT2ZmZXJpbmcgS21zOiBoaWdoUT17fSwge31sZXNzIGxvYWRlZCBLTVMsIHVyaT17fSIsIGhxLCB0eXBlLCBrbXMuZ2V0VXJpKCkpOwogICAgcmV0dXJuIGttczsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBpc1VzZXJIUShTdHJpbmcgdXNlck5hbWUpIHsKICAgIHJldHVybiB1c2VyTmFtZS50b0xvd2VyQ2FzZSgpLnN0YXJ0c1dpdGgoInNwZWNpYWwiKTsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBjYW5DcmVhdGVSb29tKFN0cmluZyB1c2VyTmFtZSkgewogICAgaWYgKGF1dGhQYXR0ZXJuID09IG51bGwpIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICBNYXRjaGVyIG0gPSBhdXRoUGF0dGVybi5tYXRjaGVyKHVzZXJOYW1lKTsKICAgIHJldHVybiBtLm1hdGNoZXMoKTsKICB9Cn0K</text>
+        <text encoding="base64">CjxkaXYgaWQ9InJvb20iPgoKICAgIDxkaXYgaWQ9ImNvbnRlbnQiPgoKICAgICAgICA8ZGl2IGlkPSJtYWluLXZpZGVvIj4KCiAgICAgICAgICAgIDwhLS1iaWcgdmlkZW9zLS0+CgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IGlkPSJsb2dvIj4KICAgICAgICAgICAgPGltZyBzcmM9ImltZy9rdXJlbnRvLnBuZyIgLz4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGRpdiBpZD0icm9vbS1uYW1lIj57e3Jvb21OYW1lfX08L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJtYiIgYWxpZ249InJpZ2h0IiBzdHlsZT0ibWFyZ2luOiAxZW07IHBhZGRpbmctYm90dG9tOiA1cHgiIGlkPSJidXR0b25BY3Rpb25zIj4gCiAgICAgICAgICAgIDwhLS1lbGltaW5hZG8gY2xhc3MgYWN0aW9uIGRlIGxvcyBib3RvbmVzIHBhcmEgY2FtYmlhciBlbCBjc3MtLT4KICAgICAgICAgICAgPCEtLWF1bWVudGFkbyBlbCB0YW1hP28gZGUgbG9zIGljb25vcyBjb24gY3NzIChyb29tLmNzcyktLT4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0teGwgYnRuLS1icm93biBidG4tLWZhYiBtZGkgbWQtcmVjZW50LWFjdG9ycyIgbHgtcmlwcGxlIG5nLWNsaWNrPSJkaXNhYmxlTWFpblNwZWFrZXIoKSIgaWQ9ImJ1dHRvbk1haW5TcGVha2VyIiB0aXRsZT0iTWFpbiBTcGVha2VyIHRvZ2dsZSI+PC9idXR0b24+IDwhLS1kaXNhYmxlIE1haW4gU3BlYWtlci0tPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLS14bCBidG4tLXRlYWwgYnRuLS1mYWIgbWRpIG1kLXZvbHVtZS11cCIgbHgtcmlwcGxlIG5nLWNsaWNrPSJvbk9mZlZvbHVtZSgpIiBpZD0iYnV0dG9uVm9sdW1lIiB0aXRsZT0iQXVkaW8gdG9nZ2xlIj48L2J1dHRvbj4gPCEtLW11dGUgYXVkaW8tLT4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0teGwgYnRuLS1ncmV5IGJ0bi0tZmFiIG1kaSBtZC12aWRlb2NhbSIgbHgtcmlwcGxlIG5nLWNsaWNrPSJvbk9mZlZpZGVvY2FtKCkiIGlkPSJidXR0b25WaWRlb2NhbSIgdGl0bGU9IlZpZGVvIHRvZ2dsZSI+PC9idXR0b24+IDwhLS1tdXRlIHZpZGVvLS0+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tLXhsIGJ0bi0tYmx1ZS1ncmV5IGJ0bi0tZmFiIG1kaSBtZC1ub3QtaW50ZXJlc3RlZCIgbHgtcmlwcGxlIG5nLWNsaWNrPSJkaXNjb25uZWN0U3RyZWFtKCkiIGlkPSJidXR0b25EaXNjb25uZWN0IiB0aXRsZT0iRGlzY29ubmVjdCBtZWRpYSBzdHJlYW0iPjwvYnV0dG9uPiA8IS0tdW5wdWJsaXNoIG9yIHVuc3Vic2NyaWJlIG1lZGlhLS0+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tLXhsIGJ0bi0tZGVlcC1wdXJwbGUgYnRuLS1mYWIgbWRpIG1kLW1vb2QiIGx4LXJpcHBsZSBuZy1jbGljaz0ic2hvd0hhdCgpIiBpZD0iaGF0QnV0dG9uIiB0aXRsZT0iSGF0IHRvZ2dsZSI+PC9idXR0b24+IDwhLS1oYXQtLT4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0teGwgYnRuLS1vcmFuZ2UgYnRuLS1mYWIgbWRpIG1kLWRlc2t0b3AtbWFjICIgbHgtcmlwcGxlIG5nLWNsaWNrPSIiIHRpdGxlPSJEZXNrdG9wIHNoYXJpbmciPjwvYnV0dG9uPiA8IS0tY29tcGFydGlyIGVzY3JpdG9yaW8tLT4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0teGwgYnRuLS1yZWQgYnRuLS1mYWIgbWRpIG1kLWNhbGwtZW5kICIgbHgtcmlwcGxlIG5nLWNsaWNrPSJsZWF2ZVJvb20oKSIgaWQ9ImJ1dHRvbkxlYXZlUm9vbSIgdGl0bGU9IkxlYXZlIHJvb20iPjwvYnV0dG9uPiA8IS0tY29sZ2FyLS0+CiAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tLXhsIGJ0bi0tZ3JlZW4gYnRuLS1mYWIgbWRpIG1kLWZ1bGxzY3JlZW4iIGx4LXJpcHBsZSBuZy1jbGljaz0iZ29GdWxsc2NyZWVuKCkiIHRpdGxlPSJGdWxsc2NyZWVuIj48L2J1dHRvbj4gPCEtLWZ1bGxzY3JlZW4tLT4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0teGwgYnRuLS1ibHVlIGJ0bi0tZmFiIG1kaSBtZC1jaGF0IiBseC1yaXBwbGUgbmctY2xpY2s9InRvZ2dsZUNoYXQoKSIgdGl0bGU9IkNoYXQgdG9nZ2xlIj48L2J1dHRvbj4gPCEtLWNoYXQtLT4KICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJVbmFibGUgdG8gaGFuZGxlIGN1c3RvbSByZXF1ZXN0IiwgZSk7CiAgICAgIHRyeSB7CiAgICAgICAgdHJhbnNhY3Rpb24uc2VuZEVycm9yKGUpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlMSkgewogICAgICAgIGxvZy53YXJuKCJVbmFibGUgdG8gc2VuZCBlcnJvciByZXNwb25zZSIsIGUxKTsKICAgICAgfQogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRyYW5zYWN0aW9uLmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGVzKCkuY29udGFpbnNLZXkoU0VTU0lPTl9BVFRSSUJVVEVfSEFUX0ZJTFRFUikpIHsKICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJUaGlzIHVzZXIgaGFzIG5vIGhhdCBmaWx0ZXIgeWV0Iik7CiAgICAgICAgfQogICAgICAgIGxvZy5pbmZvKCJSZW1vdmluZyBmYWNlIG92ZXJsYXkgZmlsdGVyIGZyb20gc2Vzc2lvbiB7fSIsIHBpZCk7CiAgICAgICAgcm9vbU1hbmFnZXIucmVtb3ZlTWVkaWFFbGVtZW50KHBpZCwgKE1lZGlhRWxlbWVudCkgdHJhbnNhY3Rpb24uZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZXMoKQogICAgICAgICAgICAuZ2V0KFNFU1NJT05fQVRUUklCVVRFX0hBVF9GSUxURVIpKTsKICAgICAgICB0cmFuc2FjdGlvbi5nZXRTZXNzaW9uKCkuZ2V0QXR0cmlidXRlcygpLnJlbW92ZShTRVNTSU9OX0FUVFJJQlVURV9IQVRfRklMVEVSKTsKICAgICAgfQogICAgICB0cmFuc2FjdGlvbi5zZW5kUmVzcG9uc2UobmV3IEpzb25PYmplY3QoKSk7CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChoYXRDb29yZHMuZ2V0KCJoZWlnaHRQZXJjZW50IikgIT0gbnVsbCkgewogICAgICBoZWlnaHRQZXJjZW50ID0gaGF0Q29vcmRzLmdldCgiaGVpZ2h0UGVyY2VudCIpLmdldEFzRmxvYXQoKTsKICAgIH0KICAgIGxvZy5pbmZvKCJIYXQgY29vcmRzOlxuXHRvZmZzZXRYUGVyY2VudCA9IHt9XG5cdG9mZnNldFlQZXJjZW50ID0ge30iCiAgICAgICAgKyAiXG5cdHdpZHRoUGVyY2VudCA9IHt9XG5cdGhlaWdodFBlcmNlbnQgPSB7fSIsIG9mZnNldFhQZXJjZW50LCBvZmZzZXRZUGVyY2VudCwKICAgICAgICB3aWR0aFBlcmNlbnQsIGhlaWdodFBlcmNlbnQpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgY3VzdG9tUmVxdWVzdChUcmFuc2FjdGlvbiB0cmFuc2FjdGlvbiwgUmVxdWVzdDxKc29uT2JqZWN0PiByZXF1ZXN0LAogICAgICBQYXJ0aWNpcGFudFJlcXVlc3QgcGFydGljaXBhbnRSZXF1ZXN0KSB7CiAgICB0cnkgewogICAgICBpZiAocmVxdWVzdC5nZXRQYXJhbXMoKSA9PSBudWxsIHx8IHJlcXVlc3QuZ2V0UGFyYW1zKCkuZ2V0KENVU1RPTV9SRVFVRVNUX0hBVF9QQVJBTSkgPT0gbnVsbCkgewogICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJSZXF1ZXN0IGVsZW1lbnQgJyIgKyBDVVNUT01fUkVRVUVTVF9IQVRfUEFSQU0gKyAiJyBpcyBtaXNzaW5nIik7CiAgICAgIH0KICAgICAgYm9vbGVhbiBoYXRPbiA9IHJlcXVlc3QuZ2V0UGFyYW1zKCkuZ2V0KENVU1RPTV9SRVFVRVNUX0hBVF9QQVJBTSkuZ2V0QXNCb29sZWFuKCk7CiAgICAgIFN0cmluZyBwaWQgPSBwYXJ0aWNpcGFudFJlcXVlc3QuZ2V0UGFydGljaXBhbnRJZCgpOwogICAgICBpZiAoaGF0T24pIHsKICAgICAgICBpZiAodHJhbnNhY3Rpb24uZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZXMoKS5jb250YWluc0tleShTRVNTSU9OX0FUVFJJQlVURV9IQVRfRklMVEVSKSkgewogICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkhhdCBmaWx0ZXIgYWxyZWFkeSBvbiIpOwogICAgICAgIH0KICAgICAgICBsb2cuaW5mbygiQXBwbHlpbmcgZmFjZSBvdmVybGF5IGZpbHRlciB0byBzZXNzaW9uIHt9IiwgcGlkKTsKICAgICAgICBGYWNlT3ZlcmxheUZpbHRlciBmYWNlT3ZlcmxheUZpbHRlciA9IG5ldyBGYWNlT3ZlcmxheUZpbHRlci5CdWlsZGVyKAogICAgICAgICAgICByb29tTWFuYWdlci5nZXRQaXBlbGluZShwaWQpKS5idWlsZCgpOwogICAgICAgIGZhY2VPdmVybGF5RmlsdGVyLnNldE92ZXJsYXllZEltYWdlKHRoaXMuaGF0VXJsLCB0aGlzLm9mZnNldFhQZXJjZW50LCB0aGlzLm9mZnNldFlQZXJjZW50LAogICAgICAgICAgICB0aGlzLndpZHRoUGVyY2VudCwgdGhpcy5oZWlnaHRQZXJjZW50KTsKICAgICAgICByb29tTWFuYWdlci5hZGRNZWRpYUVsZW1lbnQocGlkLCBmYWNlT3ZlcmxheUZpbHRlcik7CiAgICAgICAgdHJhbnNhY3Rpb24uZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZXMoKQogICAgICAgIC5wdXQoU0VTU0lPTl9BVFRSSUJVVEVfSEFUX0ZJTFRFUiwgZmFjZU92ZXJsYXlGaWx0ZXIpOwogICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">cGFja2FnZSBvcmcua3VyZW50by5yb29tLmRlbW87CgovKioKICogQ3JlYXRlZCBieSAxMDE1MzMxIG9uIDIwMTctMDQtMjAuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VTU0lPTl9BVFRSSUJVVEVfSEFUX0ZJTFRFUiA9ICJoYXRGaWx0ZXIiOwoKICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ1VTVE9NX1JFUVVFU1RfSEFUX1BBUkFNID0gImhhdCI7CgogIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBsb2cgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihEZW1vSnNvblJwY1VzZXJDb250cm9sLmNsYXNzKTsKCiAgcHJpdmF0ZSBTdHJpbmcgaGF0VXJsOwoKICBwcml2YXRlIGZsb2F0IG9mZnNldFhQZXJjZW50OwogIHByaXZhdGUgZmxvYXQgb2Zmc2V0WVBlcmNlbnQ7CiAgcHJpdmF0ZSBmbG9hdCB3aWR0aFBlcmNlbnQ7CiAgcHJpdmF0ZSBmbG9hdCBoZWlnaHRQZXJjZW50OwoKICBwdWJsaWMgRGVtb0pzb25ScGNVc2VyQ29udHJvbChOb3RpZmljYXRpb25Sb29tTWFuYWdlciByb29tTWFuYWdlcikgewogICAgc3VwZXIocm9vbU1hbmFnZXIpOwogIH0KCiAgcHVibGljIHZvaWQgc2V0SGF0VXJsKFN0cmluZyBoYXRVcmwpIHsKICAgIHRoaXMuaGF0VXJsID0gaGF0VXJsOwogICAgbG9nLmluZm8oIkhhdCBVUkw6IHt9IiwgaGF0VXJsKTsKICB9CgogIHB1YmxpYyB2b2lkIHNldEhhdENvb3JkcyhKc29uT2JqZWN0IGhhdENvb3JkcykgewogICAgaWYgKGhhdENvb3Jkcy5nZXQoIm9mZnNldFhQZXJjZW50IikgIT0gbnVsbCkgewogICAgICBvZmZzZXRYUGVyY2VudCA9IGhhdENvb3Jkcy5nZXQoIm9mZnNldFhQZXJjZW50IikuZ2V0QXNGbG9hdCgpOwogICAgfQogICAgaWYgKGhhdENvb3Jkcy5nZXQoIm9mZnNldFlQZXJjZW50IikgIT0gbnVsbCkgewogICAgICBvZmZzZXRZUGVyY2VudCA9IGhhdENvb3Jkcy5nZXQoIm9mZnNldFlQZXJjZW50IikuZ2V0QXNGbG9hdCgpOwogICAgfQogICAgaWYgKGhhdENvb3Jkcy5nZXQoIndpZHRoUGVyY2VudCIpICE9IG51bGwpIHsKICAgICAgd2lkdGhQZXJjZW50ID0gaGF0Q29vcmRzLmdldCgid2lkdGhQZXJjZW50IikuZ2V0QXNGbG9hdCgpOwogICAgfQo=</text>
+        <text encoding="base64">LyoKICogKEMpIENvcHlyaWdodCAyMDE1IEt1cmVudG8gKGh0dHA6Ly9rdXJlbnRvLm9yZy8pCiAqCiAqIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiB5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCiAqIFlvdSBtYXkgb2J0YWluIGEgY29weSBvZiB0aGUgTGljZW5zZSBhdAogKgogKiAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiAqIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiAqIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiAqIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgogKi8KCnBhY2thZ2Ugb3JnLmt1cmVudG8ucm9vbS5kZW1vOwoKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLnJlZ2V4Lk1hdGNoZXI7CmltcG9ydCBqYXZhLnV0aWwucmVnZXguUGF0dGVybjsKCmltcG9ydCBvcmcua3VyZW50by5jbGllbnQuS3VyZW50b0NsaWVudDsKaW1wb3J0IG9yZy5rdXJlbnRvLmpzb25ycGMuU2Vzc2lvbjsKaW1wb3J0IG9yZy5rdXJlbnRvLnJvb20uZXhjZXB0aW9uLlJvb21FeGNlcHRpb247CmltcG9ydCBvcmcua3VyZW50by5yb29tLmludGVybmFsLkRlZmF1bHRLdXJlbnRvQ2xpZW50U2Vzc2lvbkluZm87CmltcG9ydCBvcmcua3VyZW50by5yb29tLmttcy5LbXM7CmltcG9ydCBvcmcua3VyZW50by5yb29tLmttcy5LbXNNYW5hZ2VyOwppbXBvcnQgb3JnLmt1cmVudG8ucm9vbS5rbXMuTWF4V2ViUnRjTG9hZE1hbmFnZXI7CmltcG9ydCBvcmcua3VyZW50by5yb29tLnJwYy5Kc29uUnBjTm90aWZpY2F0aW9uU2VydmljZTsKaW1wb3J0IG9yZy5rdXJlbnRvLnJvb20ucnBjLlBhcnRpY2lwYW50U2Vzc2lvbjsKaW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKCi8qKgogKiBLTVMgbWFuYWdlciBmb3IgdGhlIHJvb20gZGVtbyBhcHAuCiAqCiAqIEBhdXRob3IgUmFkdSBUb20gVmxhZCAocnZsYWRAbmFldmF0ZWMuY29tKQogKiBAc2luY2UgNi4wLjAKICovCnB1YmxpYyBjbGFzcyBGaXhlZE5LbXNNYW5hZ2VyIGV4dGVuZHMgS21zTWFuYWdlciB7CiAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIGxvZyA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEZpeGVkTkttc01hbmFnZXIuY2xhc3MpOwoKICBwcml2YXRlIFN0cmluZyBhdXRoUmVnZXg7CiAgcHJpdmF0ZSBzdGF0aWMgUGF0dGVybiBhdXRoUGF0dGVybiA9IG51bGw7CgogIEBBdXRvd2lyZWQKICBwcml2YXRlIEpzb25ScGNOb3RpZmljYXRpb25TZXJ2aWNlIG5vdGlmaWNhdGlvblNlcnZpY2U7CgogIHB1YmxpYyBGaXhlZE5LbXNNYW5hZ2VyKExpc3Q8U3RyaW5nPiBrbXNXc1VyaSkgewogICAgZm9yIChTdHJpbmcgdXJpIDoga21zV3NVcmkpIHsKICAgICAgdGhpcy5hZGRLbXMobmV3IEttcyhLdXJlbnRvQ2xpZW50LmNyZWF0ZSh1cmkpLCB1cmkpKTsKICAgIH0KICB9CgogIHB1YmxpYyBGaXhlZE5LbXNNYW5hZ2VyKExpc3Q8U3RyaW5nPiBrbXNXc1VyaSwgaW50IGttc0xvYWRMaW1pdCkgewogICAgZm9yIChTdHJpbmcgdXJpIDoga21zV3NVcmkpIHsKICAgICAgS21zIGttcyA9IG5ldyBLbXMoS3VyZW50b0NsaWVudC5jcmVhdGUodXJpKSwgdXJpKTsKICAgICAga21zLnNldExvYWRNYW5hZ2VyKG5ldyBNYXhXZWJSdGNMb2FkTWFuYWdlcihrbXNMb2FkTGltaXQpKTsKICAgICAgdGhpcy5hZGRLbXMoa21zKTsKICAgIH0KICB9CgogIHB1YmxpYyBzeW5jaHJvbml6ZWQgdm9pZCBzZXRBdXRoUmVnZXgoU3RyaW5nIHJlZ2V4KSB7CiAgICB0aGlzLmF1dGhSZWdleCA9IHJlZ2V4ICE9IG51bGwgPyByZWdleC50cmltKCkgOiBudWxsOwogICAgaWYgKGF1dGhSZWdleCAhPSBudWxsICYmICFhdXRoUmVnZXguaXNFbXB0eSgpKSB7CiAgICAgIGF1dGhQYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKGF1dGhSZWdleCwgUGF0dGVybi5VTklDT0RFX0NBU0UgfCBQYXR0ZXJuLkNBU0VfSU5TRU5TSVRJVkUpOwogICAgfQogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIHN5bmNocm9uaXplZCBLbXMgZ2V0S21zKERlZmF1bHRLdXJlbnRvQ2xpZW50U2Vzc2lvbkluZm8gc2Vzc2lvbkluZm8pIHsKICAgIFN0cmluZyB1c2VyTmFtZSA9IG51bGw7CiAgICBTdHJpbmcgcGFydGljaXBhbnRJZCA9IHNlc3Npb25JbmZvLmdldFBhcnRpY2lwYW50SWQoKTsKICAgIFNlc3Npb24gc2Vzc2lvbiA9IG5vdGlmaWNhdGlvblNlcnZpY2UuZ2V0U2Vzc2lvbihwYXJ0aWNpcGFudElkKTsKICAgIGlmIChzZXNzaW9uICE9IG51bGwpIHsKICAgICAgT2JqZWN0IHNlc3Npb25WYWx1ZSA9IHNlc3Npb24uZ2V0QXR0cmlidXRlcygpLmdldChQYXJ0aWNpcGFudFNlc3Npb24uU0VTU0lPTl9LRVkpOwogICAgICBpZiAoc2Vzc2lvblZhbHVlICE9IG51bGwpIHsKICAgICAgICBQYXJ0aWNpcGFudFNlc3Npb24gcGFydGljaXBhbnRTZXNzaW9uID0gKFBhcnRpY2lwYW50U2Vzc2lvbikgc2Vzc2lvblZhbHVlOwogICAgICAgIHVzZXJOYW1lID0gcGFydGljaXBhbnRTZXNzaW9uLmdldFBhcnRpY2lwYW50TmFtZSgpOwogICAgICB9CiAgICB9CiAgICBpZiAodXNlck5hbWUgPT0gbnVsbCkgewogICAgICBsb2cud2FybigiVW5hYmxlIHRvIGZpbmQgdXNlciBuYW1lIGluIHNlc3Npb24ge30iLCBwYXJ0aWNpcGFudElkKTsKICAgICAgdGhyb3cgbmV3IFJvb21FeGNlcHRpb24oUm9vbUV4Y2VwdGlvbi5Db2RlLlJPT01fQ0FOTk9UX0JFX0NSRUFURURfRVJST1JfQ09ERSwKICAgICAgICAgICJOb3QgZW5vdWdoIGluZm9ybWF0aW9uIik7CiAgICB9CiAgICBpZiAoIWNhbkNyZWF0ZVJvb20odXNlck5hbWUpKSB7CiAgICAgIHRocm93IG5ldyBSb29tRXhjZXB0aW9uKFJvb21FeGNlcHRpb24uQ29kZS5ST09NX0NBTk5PVF9CRV9DUkVBVEVEX0VSUk9SX0NPREUsCiAgICAgICAgICAiVXNlciBjYW5ub3QgY3JlYXRlIGEgbmV3IHJvb20iKTsKICAgIH0KICAgIEttcyBrbXMgPSBudWxsOwogICAgU3RyaW5nIHR5cGUgPSAiIjsKICAgIGJvb2xlYW4gaHEgPSBpc1VzZXJIUSh1c2VyTmFtZSk7CiAgICBpZiAoaHEpIHsKICAgICAga21zID0gZ2V0TGVzc0xvYWRlZEttcygpOwogICAgfSBlbHNlIHsKICAgICAga21zID0gZ2V0TmV4dExlc3NMb2FkZWRLbXMoKTsKICAgICAgaWYgKCFrbXMuYWxsb3dNb3JlRWxlbWVudHMoKSkgewogICAgICAgIGttcyA9IGdldExlc3NMb2FkZWRLbXMoKTsKICAgICAgfSBlbHNlIHsKICAgICAgICB0eXBlID0gIm5leHQgIjsKICAgICAgfQogICAgfQogICAgaWYgKCFrbXMuYWxsb3dNb3JlRWxlbWVudHMoKSkgewogICAgICBsb2cuZGVidWcoIldhcyB0cnlpbmcgS21zIHdoaWNoIGhhcyBubyByZXNvdXJjZXMgbGVmdDogaGlnaFE9e30sICIKICAgICAgICAgICsgInt9bGVzcyBsb2FkZWQgS01TLCB1cmk9e30iLCBocSwgdHlwZSwga21zLmdldFVyaSgpKTsKICAgICAgdGhyb3cgbmV3IFJvb21FeGNlcHRpb24oUm9vbUV4Y2VwdGlvbi5Db2RlLlJPT01fQ0FOTk9UX0JFX0NSRUFURURfRVJST1JfQ09ERSwKICAgICAgICAgICJObyByZXNvdXJjZXMgbGVmdCB0byBjcmVhdGUgbmV3IHJvb20iKTsKICAgIH0KICAgIGxvZy5kZWJ1ZygiT2ZmZXJpbmcgS21zOiBoaWdoUT17fSwge31sZXNzIGxvYWRlZCBLTVMsIHVyaT17fSIsIGhxLCB0eXBlLCBrbXMuZ2V0VXJpKCkpOwogICAgcmV0dXJuIGttczsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBpc1VzZXJIUShTdHJpbmcgdXNlck5hbWUpIHsKICAgIHJldHVybiB1c2VyTmFtZS50b0xvd2VyQ2FzZSgpLnN0YXJ0c1dpdGgoInNwZWNpYWwiKTsKICB9CgogIHByaXZhdGUgYm9vbGVhbiBjYW5DcmVhdGVSb29tKFN0cmluZyB1c2VyTmFtZSkgewogICAgaWYgKGF1dGhQYXR0ZXJuID09IG51bGwpIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICBNYXRjaGVyIG0gPSBhdXRoUGF0dGVybi5tYXRjaGVyKHVzZXJOYW1lKTsKICAgIHJldHVybiBtLm1hdGNoZXMoKTsKICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJVbmFibGUgdG8gaGFuZGxlIGN1c3RvbSByZXF1ZXN0IiwgZSk7CiAgICAgIHRyeSB7CiAgICAgICAgdHJhbnNhY3Rpb24uc2VuZEVycm9yKGUpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlMSkgewogICAgICAgIGxvZy53YXJuKCJVbmFibGUgdG8gc2VuZCBlcnJvciByZXNwb25zZSIsIGUxKTsKICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,8 +327,8 @@
       <history-cmd>
         <entry>w@</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>0</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -61,7 +61,7 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492645989102">
+      <file name="/Dummy.txt" timestamp="1492652201604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
@@ -75,6 +75,12 @@
         <mark key="]" line="3" column="74" />
         <mark key="^" line="3" column="74" />
         <mark key="." line="3" column="74" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" timestamp="1492652476763">
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
         <mark key="[" line="13" column="47" />
@@ -154,8 +160,11 @@
       <file name="/fragment.java" timestamp="1489974291230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1492646876643">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1492652055019">
         <mark key="'" line="54" column="38" />
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -176,10 +185,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
@@ -187,32 +196,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>ws://ec2-52-78-163-9.ap-northeast-2.compute.amazonaws.com:8888/kurento&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0ibm9ta2NhYiIvPgo=</text>
+        <text encoding="base64">fQoKZGVwZW5kZW5jaWVzIHsKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMScKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0iYmFja21vbiIvPgo=</text>
+        <text encoding="base64">Z3JvdXAgJ2NvbS5oeXVuZGFpLWF1dG9ldmVyJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCgphcHBseSBwbHVnaW46ICdqYXZhJwphcHBseSBwbHVnaW46ICd3YXInCgpzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CgpyZXBvc2l0b3JpZXMgewogICAgbWF2ZW5DZW50cmFsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJ1cmwiIHZhbHVlPSJqZGJjOnNxbHNlcnZlcjovLzEwLjEwLjIyMy4xNDM6MTQzMztEYXRhYmFzZU5hbWU9YmFja21vbiIvPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9ImRyaXZlciIgdmFsdWU9ImNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyIi8+Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJob21lLmxpa2UiPklmIHlvdSBsaWtlIEpIaXBzdGVyLCBkb24ndCBmb3JnZXQgdG8gZ2l2ZSB1cyBhIHN0YXIgb248L3NwYW4+IDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9qaGlwc3Rlci9nZW5lcmF0b3ItamhpcHN0ZXIiIHRhcmdldD0iX2JsYW5rIiBqaGlUcmFuc2xhdGU9ImhvbWUuZ2l0aHViIj5HaXRodWI8L2E+IQo=</text>
+        <text encoding="base64">Z3JvdXAgJ2NvbS5oeXVuZGFpLWF1dG9ldmVyJwp2ZXJzaW9uICcxLjAtU05BUFNIT1QnCgphcHBseSBwbHVnaW46ICdqYXZhJwoKc291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAoKcmVwb3NpdG9yaWVzIHsKICAgIG1hdmVuQ2VudHJhbCgpCn0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text>ws://ec2-52-78-163-9.ap-northeast-2.compute.amazonaws.com:8888/kurento&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -268,6 +277,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

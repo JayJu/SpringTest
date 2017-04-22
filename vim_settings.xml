@@ -113,8 +113,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492839810136">
-        <mark key="'" line="669" column="30" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492841751080">
+        <mark key="'" line="1088" column="52" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
@@ -204,6 +204,9 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492838915107">
         <mark key="'" line="68" column="37" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
+        <mark key="'" line="40" column="13" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="47" />
@@ -245,9 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="67" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="88" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="6" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="34" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="72" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
@@ -345,6 +345,9 @@
       <jump line="711" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="646" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="669" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="135" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" />
+      <jump line="40" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" />
+      <jump line="1088" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -354,7 +357,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>access-accepted</text>
+        <text>joinRoom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -391,15 +394,14 @@
       </register>
     </registers>
     <search>
-      <last-search>access-accepted</last-search>
+      <last-search>joinRoom</last-search>
       <last-offset />
-      <last-pattern>access-accepted</last-pattern>
+      <last-pattern>joinRoom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>initJsonRpcClient</entry>
         <entry>connect</entry>
         <entry>callback</entry>
         <entry>conconnected</entry>
@@ -419,6 +421,7 @@
         <entry>getUserMedia</entry>
         <entry>onSuccess</entry>
         <entry>access-accepted</entry>
+        <entry>joinRoom</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>

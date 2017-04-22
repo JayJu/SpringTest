@@ -9,16 +9,6 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/index.html" timestamp="1486970705200">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/tsconfig.json" timestamp="1487567689211">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/app.js" timestamp="1492825393480" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoController.java" timestamp="1492822977215" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1492833632231">
@@ -37,11 +27,6 @@
         <mark key="]" line="2" column="30" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/RoomDemoApp.java" timestamp="1492670543682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/call/call.html" timestamp="1492671299278" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492825669743">
@@ -127,8 +112,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492837200787">
-        <mark key="'" line="486" column="4" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492839810136">
+        <mark key="'" line="669" column="30" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
@@ -179,11 +164,6 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.component.ts" timestamp="1486970529135">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/.gitignore" timestamp="1492668479778">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="22" column="5" />
@@ -208,6 +188,9 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1492839437020">
+        <mark key="'" line="434" column="53" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -217,7 +200,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
         <mark key="'" line="39" column="35" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492838085369">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492838915107">
         <mark key="'" line="68" column="37" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
@@ -261,28 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" />
-      <jump line="123" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" />
-      <jump line="119" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" />
-      <jump line="91" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" />
-      <jump line="24" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
-      <jump line="14" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
-      <jump line="15" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
-      <jump line="56" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
-      <jump line="10" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/navbar/navbar.component.html" />
-      <jump line="27" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="45" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="46" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="51" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="54" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="153" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" />
-      <jump line="39" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" />
-      <jump line="46" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="71" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="41" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="27" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="37" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
-      <jump line="42" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="66" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="67" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
       <jump line="88" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/build.gradle" />
@@ -356,6 +317,33 @@
       <jump line="68" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
       <jump line="394" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="486" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="422" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="153" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="154" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="211" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="215" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="374" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="436" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="439" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="455" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="457" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="458" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="462" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="465" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="467" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="1677" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="1680" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="1706" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="1724" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="77" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="176" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="208" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="426" column="39" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="434" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="711" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="646" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="669" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -365,7 +353,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>116</text>
+        <text>access-accepted</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -398,24 +386,18 @@
         <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJVbmFibGUgdG8gaGFuZGxlIGN1c3RvbSByZXF1ZXN0IiwgZSk7CiAgICAgIHRyeSB7CiAgICAgICAgdHJhbnNhY3Rpb24uc2VuZEVycm9yKGUpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlMSkgewogICAgICAgIGxvZy53YXJuKCJVbmFibGUgdG8gc2VuZCBlcnJvciByZXNwb25zZSIsIGUxKTsKICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>1116</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
-      <last-search>116</last-search>
+      <last-search>access-accepted</last-search>
       <last-offset />
-      <last-pattern>116</last-pattern>
+      <last-pattern>access-accepted</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kmsManager</entry>
-        <entry>@RestController</entry>
-        <entry>submit</entry>
-        <entry>regi</entry>
-        <entry>jquery</entry>
-        <entry>room</entry>
         <entry>initJsonRpcClient</entry>
         <entry>connect</entry>
         <entry>callback</entry>
@@ -430,6 +412,12 @@
         <entry>kurento</entry>
         <entry>1116</entry>
         <entry>116</entry>
+        <entry>addStream</entry>
+        <entry>getUserMedia=</entry>
+        <entry>&quot;getUserMedia=&quot;</entry>
+        <entry>getUserMedia</entry>
+        <entry>onSuccess</entry>
+        <entry>access-accepted</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>
@@ -440,6 +428,7 @@
         <entry>374</entry>
         <entry>67</entry>
         <entry>1116</entry>
+        <entry>e</entry>
       </history-cmd>
       <history-expr />
       <history-input />

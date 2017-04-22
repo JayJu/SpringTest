@@ -127,7 +127,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492836466708">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492837200787">
         <mark key="'" line="486" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
@@ -217,7 +217,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
         <mark key="'" line="39" column="35" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492834793586">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492838085369">
         <mark key="'" line="68" column="37" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
@@ -365,7 +365,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>kurento</text>
+        <text>116</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -402,16 +402,14 @@
       </register>
     </registers>
     <search>
-      <last-search>kurento</last-search>
+      <last-search>116</last-search>
       <last-offset />
-      <last-pattern>kurento</last-pattern>
+      <last-pattern>116</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Starting</entry>
-        <entry>Configuration</entry>
         <entry>kmsManager</entry>
         <entry>@RestController</entry>
         <entry>submit</entry>
@@ -430,6 +428,8 @@
         <entry>register</entry>
         <entry>new Room</entry>
         <entry>kurento</entry>
+        <entry>1116</entry>
+        <entry>116</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>
@@ -438,6 +438,7 @@
         <entry>w</entry>
         <entry>0</entry>
         <entry>374</entry>
+        <entry>67</entry>
         <entry>1116</entry>
       </history-cmd>
       <history-expr />

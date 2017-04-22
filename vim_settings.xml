@@ -21,8 +21,8 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/app.js" timestamp="1492825393480" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoController.java" timestamp="1492822977215" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1492830891734">
-        <mark key="'" line="413" column="8" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1492833632231">
+        <mark key="'" line="182" column="17" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/RoomDemoApp.java" timestamp="1492823440954" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" timestamp="1487565253779">
@@ -127,8 +127,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492830486853">
-        <mark key="'" line="963" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492836466708">
+        <mark key="'" line="486" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
@@ -217,8 +217,8 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
         <mark key="'" line="39" column="35" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492829652272">
-        <mark key="'" line="39" column="11" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492834793586">
+        <mark key="'" line="68" column="37" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
         <mark key="[" line="13" column="47" />
@@ -346,6 +346,16 @@
       <jump line="183" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
       <jump line="214" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
       <jump line="413" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="101" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="134" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="137" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="162" column="37" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="163" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="182" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="24" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="68" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
+      <jump line="394" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="486" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -355,7 +365,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>onconnected</text>
+        <text>kurento</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -388,38 +398,38 @@
         <text encoding="base64">ICAgICAgbG9nLmVycm9yKCJVbmFibGUgdG8gaGFuZGxlIGN1c3RvbSByZXF1ZXN0IiwgZSk7CiAgICAgIHRyeSB7CiAgICAgICAgdHJhbnNhY3Rpb24uc2VuZEVycm9yKGUpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlMSkgewogICAgICAgIGxvZy53YXJuKCJVbmFibGUgdG8gc2VuZCBlcnJvciByZXNwb25zZSIsIGUxKTsKICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1116</text>
       </register>
     </registers>
     <search>
-      <last-search>onconnected</last-search>
+      <last-search>kurento</last-search>
       <last-offset />
-      <last-pattern>onconnected</last-pattern>
+      <last-pattern>kurento</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>boot</entry>
-        <entry>compile</entry>
-        <entry>runtime</entry>
         <entry>Starting</entry>
         <entry>Configuration</entry>
         <entry>kmsManager</entry>
         <entry>@RestController</entry>
         <entry>submit</entry>
-        <entry>regiester</entry>
         <entry>regi</entry>
-        <entry>register</entry>
         <entry>jquery</entry>
         <entry>room</entry>
-        <entry>KurentoRoom</entry>
         <entry>initJsonRpcClient</entry>
         <entry>connect</entry>
         <entry>callback</entry>
         <entry>conconnected</entry>
         <entry>ONCONNECTED</entry>
         <entry>onconnected</entry>
+        <entry>connected</entry>
+        <entry>KurentoRoom</entry>
+        <entry>regiester</entry>
+        <entry>register</entry>
+        <entry>new Room</entry>
+        <entry>kurento</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>
@@ -427,6 +437,8 @@
         <entry>wq</entry>
         <entry>w</entry>
         <entry>0</entry>
+        <entry>374</entry>
+        <entry>1116</entry>
       </history-cmd>
       <history-expr />
       <history-input />

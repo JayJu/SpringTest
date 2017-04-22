@@ -19,8 +19,16 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/app.js" timestamp="1492825393480" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoController.java" timestamp="1492822977215" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/RoomDemoApp.java" timestamp="1492823440954" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" timestamp="1487565253779">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="5" />
+        <mark key="^" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/en/home.json" timestamp="1489114125326">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="30" />
@@ -33,7 +41,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/call/call.html" timestamp="1492671299278" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492669500988">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492825517077">
+        <mark key="'" line="10" column="24" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="6" />
         <mark key="^" line="52" column="6" />
@@ -103,6 +112,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
+        <mark key="'" line="92" column="8" />
+      </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486974127379">
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
@@ -142,7 +154,8 @@
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="26" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1492669563404">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1492825413402">
+        <mark key="'" line="50" column="21" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="56" column="5" />
         <mark key="^" line="56" column="5" />
@@ -182,6 +195,12 @@
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
+        <mark key="'" line="39" column="35" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492825482301">
+        <mark key="'" line="39" column="11" />
       </file>
       <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
         <mark key="[" line="13" column="47" />
@@ -260,6 +279,11 @@
       <jump line="40" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" />
       <jump line="89" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" />
       <jump line="59" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" />
+      <jump line="50" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" />
+      <jump line="20" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
+      <jump line="39" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
+      <jump line="26" column="80" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" />
+      <jump line="10" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -269,7 +293,7 @@
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>@RestController</text>
+        <text>jquery</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -306,19 +330,14 @@
       </register>
     </registers>
     <search>
-      <last-search>@RestController</last-search>
+      <last-search>jquery</last-search>
       <last-offset />
-      <last-pattern>@RestController</last-pattern>
+      <last-pattern>jquery</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prebuild</entry>
-        <entry>pre</entry>
-        <entry>build</entry>
-        <entry>vendor</entry>
-        <entry>home</entry>
         <entry>navbar-collapse</entry>
         <entry>module</entry>
         <entry>junit</entry>
@@ -334,6 +353,11 @@
         <entry>Configuration</entry>
         <entry>kmsManager</entry>
         <entry>@RestController</entry>
+        <entry>submit</entry>
+        <entry>regiester</entry>
+        <entry>regi</entry>
+        <entry>register</entry>
+        <entry>jquery</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>

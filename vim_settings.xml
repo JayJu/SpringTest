@@ -5,8 +5,8 @@
     <filemarks>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/app.js" timestamp="1492825393480" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoController.java" timestamp="1492822977215" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1492833632231">
-        <mark key="'" line="182" column="17" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493095112613">
+        <mark key="'" line="89" column="25" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/RoomDemoApp.java" timestamp="1492840411735" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoJsonRpcUserControl.java" timestamp="1492840567213" />
@@ -50,8 +50,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1493093341492">
-        <mark key="'" line="368" column="9" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1493095568522">
+        <mark key="'" line="723" column="9" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
@@ -79,8 +79,8 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
         <mark key="'" line="39" column="35" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1492844041813">
-        <mark key="'" line="42" column="12" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1493095313660">
+        <mark key="'" line="47" column="4" />
         <mark key="[" line="176" column="0" />
         <mark key="]" line="176" column="0" />
         <mark key="." line="176" column="0" />
@@ -105,24 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="985" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1002" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1003" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1011" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1012" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1020" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1021" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1103" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="1105" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="34" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="62" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="943" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="987" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="958" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="964" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="963" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="183" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
-      <jump line="214" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
       <jump line="413" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
       <jump line="101" column="66" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
       <jump line="134" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
@@ -205,6 +187,24 @@
       <jump line="351" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="355" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="368" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="154" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="146" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="351" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="86" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="89" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" />
+      <jump line="47" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
+      <jump line="761" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="835" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="764" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="821" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="890" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="905" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="973" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="133" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="323" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="325" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="329" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="723" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -215,7 +215,7 @@ remove test classes</text>
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>Participant</text>
+        <text>&quot;publish(&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -249,24 +249,18 @@ remove test classes</text>
         <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>111</text>
+        <text>59</text>
       </register>
     </registers>
     <search>
-      <last-search>Participant</last-search>
+      <last-search>&quot;publish(&quot;</last-search>
       <last-offset />
-      <last-pattern>Participant</last-pattern>
+      <last-pattern>&quot;publish(&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>new Room</entry>
-        <entry>kurento</entry>
-        <entry>1116</entry>
-        <entry>116</entry>
-        <entry>addStream</entry>
-        <entry>getUserMedia=</entry>
         <entry>&quot;getUserMedia=&quot;</entry>
         <entry>getUserMedia</entry>
         <entry>onSuccess</entry>
@@ -281,6 +275,12 @@ remove test classes</text>
         <entry>participants</entry>
         <entry>Participants</entry>
         <entry>Participant</entry>
+        <entry>JsonRpcClient</entry>
+        <entry>ServiceRoom</entry>
+        <entry>initWebRtcPeer</entry>
+        <entry>publish</entry>
+        <entry>publish(</entry>
+        <entry>&quot;publish(&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>
@@ -295,6 +295,12 @@ remove test classes</text>
         <entry>85</entry>
         <entry>75</entry>
         <entry>111</entry>
+        <entry>196</entry>
+        <entry>652</entry>
+        <entry>1133</entry>
+        <entry>40</entry>
+        <entry>814</entry>
+        <entry>59</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -323,6 +329,9 @@ remove test classes</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

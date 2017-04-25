@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/kurento-room-demo.conf.json" timestamp="1492643940005">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/app.js" timestamp="1492825393480" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/com/hvcs/room/demo/DemoController.java" timestamp="1492822977215" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1492833632231">
@@ -23,12 +17,7 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/en/home.json" timestamp="1489114125326">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceParticipant.js" timestamp="1493093293428" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/call/call.html" timestamp="1492671299278" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1492825669743">
         <mark key="'" line="17" column="55" />
@@ -36,12 +25,6 @@
         <mark key="]" line="52" column="6" />
         <mark key="^" line="52" column="6" />
         <mark key="." line="52" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/home/home.component.html" timestamp="1489114193039">
-        <mark key="[" line="3" column="74" />
-        <mark key="]" line="3" column="74" />
-        <mark key="^" line="3" column="74" />
-        <mark key="." line="3" column="74" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" timestamp="1492844526036">
         <mark key="'" line="9" column="11" />
@@ -57,109 +40,25 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="93" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/css/room.css" timestamp="1492669683015">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="238" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/flow.log" timestamp="1492989130440" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/app/layouts/main/main.component.html" timestamp="1489110906482">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/src/main/webapp/i18n/ko/home.json" timestamp="1489114153376">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.html" timestamp="1486973695289">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="16" column="4" />
-        <mark key="." line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/DemoController.java" timestamp="1492670295718">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="6" />
-        <mark key="^" line="87" column="6" />
-        <mark key="." line="87" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1492844985713">
-        <mark key="'" line="147" column="55" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/menu.component.ts" timestamp="1486973737257">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.ts" timestamp="1486970788781">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/FixedNKmsManager.java" timestamp="1492670465067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="107" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1493093310965">
+        <mark key="'" line="67" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1492844125279">
-        <mark key="'" line="795" column="28" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" timestamp="1493093341492">
+        <mark key="'" line="368" column="9" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/node_modules/gifsicle/package.json" timestamp="1487565678605">
         <mark key="'" line="92" column="8" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.ts" timestamp="1486974127379">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="19" column="14" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" timestamp="1492668419600" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/java/org/kurento/room/demo/DemoJsonRpcUserControl.java" timestamp="1492670377768">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hvcs/room/demo/FixedNKmsManager.java" timestamp="1492670455699" />
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.write.component.html" timestamp="1486972965879">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.list.component.html" timestamp="1486969039761">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="72" />
-        <mark key="." line="3" column="72" />
-        <mark key="^" line="3" column="72" />
-      </file>
-      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mybatis-config.xml" timestamp="1489973858624">
-        <mark key="[" line="21" column="60" />
-        <mark key="]" line="21" column="61" />
-        <mark key="^" line="21" column="61" />
-        <mark key="." line="21" column="61" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hvcs/room/demo/DemoJsonRpcUserControl.java" timestamp="1492670354281" />
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app.module.ts" timestamp="1486973195896">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1492829766991">
         <mark key="'" line="24" column="61" />
         <mark key="[" line="0" column="0" />
@@ -167,19 +66,7 @@
         <mark key="^" line="56" column="5" />
         <mark key="." line="56" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/.gitignore" timestamp="1492668479778">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/index.html" timestamp="1492669481082" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/banner.txt" timestamp="1492671405002">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492826619502">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="30" column="7" />
@@ -188,12 +75,6 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1492839437020">
         <mark key="'" line="434" column="53" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/nopage.component.html" timestamp="1486970837675">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="12" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
         <mark key="'" line="39" column="35" />
@@ -207,39 +88,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.service.ts" timestamp="1486974012666">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="47" />
-        <mark key="." line="13" column="47" />
-        <mark key="^" line="13" column="47" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/planE/src/main/resources/kurento-room-demo.conf.json" timestamp="1492596191817">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="49" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="49" />
-      </file>
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/app-routing.module.ts" timestamp="1486973364040">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492646259823">
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="2" column="34" />
-        <mark key="." line="2" column="34" />
-        <mark key="^" line="2" column="34" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/angular/login/login.html" timestamp="1492669550117" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/static/css/room.css" timestamp="1492669670420" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hvcs/room/demo/RoomDemoApp.java" timestamp="1492670602629" />
-      <file name="D:/Dev/Source/Angular2/wiki-angular2/10day/092_router02/02_ing/step01_router_페이지이동/app/board.write.component.ts" timestamp="1486973132148">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="26" column="37" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1492667735659">
         <mark key="'" line="54" column="38" />
         <mark key="[" line="42" column="24" />
@@ -254,22 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" />
-      <jump line="24" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" />
-      <jump line="4" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" />
-      <jump line="7" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" />
-      <jump line="34" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="255" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="267" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="96" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="107" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="108" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="109" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="224" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="61" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="960" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="965" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="966" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="985" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="1002" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="1003" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -354,6 +189,22 @@
       <jump line="147" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="148" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" />
       <jump line="9" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" />
+      <jump line="59" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="67" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="92" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="84" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="91" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="95" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="189" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="194" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="196" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="225" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="313" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="322" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="324" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="351" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="355" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
+      <jump line="368" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -364,7 +215,7 @@ remove test classes</text>
         <text>|</text>
       </register>
       <register name="/" type="4">
-        <text>participants</text>
+        <text>Participant</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -402,16 +253,14 @@ remove test classes</text>
       </register>
     </registers>
     <search>
-      <last-search>participants</last-search>
+      <last-search>Participant</last-search>
       <last-offset />
-      <last-pattern>participants</last-pattern>
+      <last-pattern>Participant</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>regiester</entry>
-        <entry>register</entry>
         <entry>new Room</entry>
         <entry>kurento</entry>
         <entry>1116</entry>
@@ -430,6 +279,8 @@ remove test classes</text>
         <entry>roomEvent</entry>
         <entry>addPar</entry>
         <entry>participants</entry>
+        <entry>Participants</entry>
+        <entry>Participant</entry>
       </history-search>
       <history-cmd>
         <entry>w@</entry>

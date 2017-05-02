@@ -26,6 +26,9 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1493713782575">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceParticipant.js" timestamp="1493340652797" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1493342525895">
         <mark key="'" line="77" column="54" />
@@ -83,6 +86,9 @@
         <mark key="]" line="69" column="5" />
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
+      </file>
+      <file name="/fragment.java" timestamp="1493713782563">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>

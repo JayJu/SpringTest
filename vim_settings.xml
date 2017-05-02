@@ -72,6 +72,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc_require.js" timestamp="1493715621850" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
@@ -241,7 +242,7 @@ remove test classes</text>
         <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>196</text>
       </register>
     </registers>
     <search>
@@ -275,7 +276,6 @@ remove test classes</text>
         <entry>getUserMedia</entry>
       </history-search>
       <history-cmd>
-        <entry>w@</entry>
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>374</entry>
@@ -285,7 +285,6 @@ remove test classes</text>
         <entry>85</entry>
         <entry>75</entry>
         <entry>111</entry>
-        <entry>196</entry>
         <entry>652</entry>
         <entry>1133</entry>
         <entry>40</entry>
@@ -295,6 +294,8 @@ remove test classes</text>
         <entry>986</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>983</entry>
+        <entry>196</entry>
       </history-cmd>
       <history-expr />
       <history-input />

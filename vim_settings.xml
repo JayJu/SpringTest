@@ -20,13 +20,19 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/static/angular/login/login.html" timestamp="1493714342845">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="3" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492826619502">
         <mark key="[" line="29" column="8" />
         <mark key="]" line="30" column="7" />
         <mark key="^" line="30" column="7" />
         <mark key="." line="30" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493714021389">
+      <file name="/Dummy.txt" timestamp="1493714708783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceParticipant.js" timestamp="1493340652797" />
@@ -40,7 +46,7 @@
         <mark key="^" line="52" column="6" />
         <mark key="." line="52" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1492662589977">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/pom.xml" timestamp="1493714579518">
         <mark key="'" line="39" column="35" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" timestamp="1492844526036">
@@ -195,11 +201,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>change package of java classes
-remove test classes</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>getUserMedia</text>
@@ -236,7 +241,7 @@ remove test classes</text>
         <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>986</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -273,7 +278,6 @@ remove test classes</text>
         <entry>w@</entry>
         <entry>q!</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>374</entry>
         <entry>67</entry>
         <entry>1116</entry>
@@ -290,6 +294,7 @@ remove test classes</text>
         <entry>100</entry>
         <entry>986</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

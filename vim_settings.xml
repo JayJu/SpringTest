@@ -14,12 +14,12 @@
         <mark key="." line="67" column="5" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/Participants.js" timestamp="1495442656670" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495443646855">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="41" column="3" />
-        <mark key="]" line="41" column="3" />
-        <mark key="." line="41" column="3" />
-        <mark key="^" line="41" column="1" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495445011934">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="138" column="22" />
+        <mark key="]" line="138" column="22" />
+        <mark key="." line="138" column="22" />
+        <mark key="^" line="140" column="11" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
@@ -238,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ID0gZnVuY3Rpb24g</text>
@@ -250,34 +250,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IHRlbXBsYXRlOiAnJwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IHNlbGVjdG9yOiAnYXBwLWNvbXBvbmVudCcsCg==</text>
+        <text encoding="base64">ICB1cGRhdGVWaWRlb1N0eWxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbXBvbmVudCh7Cg==</text>
+        <text encoding="base64">ICB0aGlzLmRpc2Nvbm5lY3RQYXJ0aWNpcGFudChhcHBQYXJ0aWNpcGFudCkgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ = function //g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -319,7 +319,6 @@
         <entry>983</entry>
         <entry>196</entry>
         <entry>%s/var/let/g</entry>
-        <entry>w</entry>
         <entry>-</entry>
         <entry>%s/mainParticipant/_mainParticipant/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
@@ -333,6 +332,7 @@
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>%s/ = function //g</entry>
         <entry>0</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

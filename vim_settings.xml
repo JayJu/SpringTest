@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" timestamp="1495434203807">
-        <mark key="'" line="22" column="23" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" timestamp="1495447598777">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="24" />
+        <mark key="." line="65" column="24" />
+        <mark key="^" line="65" column="24" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" timestamp="1495434507770">
         <mark key="'" line="62" column="19" />
@@ -14,11 +18,12 @@
         <mark key="." line="67" column="5" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/Participants.js" timestamp="1495442656670" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495446643851">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495447924833">
         <mark key="'" line="21" column="25" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+        <mark key="[" line="179" column="39" />
+        <mark key="]" line="179" column="39" />
+        <mark key="^" line="179" column="39" />
+        <mark key="." line="179" column="39" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
@@ -134,9 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="91" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="95" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="189" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="194" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="196" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -234,55 +236,58 @@
       <jump line="10" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="11" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="17" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="106" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
+      <jump line="65" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
+      <jump line="42" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ID0gZnVuY3Rpb24g</text>
+        <text>const</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZW1vdmVQYXJ0aWNpcGFudHMxKCk6IHZvaWQgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGVWaWRlb1N0eWxlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB0aGlzLmRpc2Nvbm5lY3RQYXJ0aWNpcGFudChhcHBQYXJ0aWNpcGFudCkgewo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ICB1cGRhdGVWaWRlb1N0eWxlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">ID0gZnVuY3Rpb24g</last-search>
+      <last-search>const</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ID0gZnVuY3Rpb24g</last-pattern>
+      <last-pattern>const</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">ID0gZnVuY3Rpb24g</last-substitute>
       <last-dir>1</last-dir>
@@ -290,7 +295,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getUserMesi</entry>
         <entry>getUserMedia</entry>
         <entry>select</entry>
         <entry>var</entry>
@@ -310,6 +314,7 @@
         <entry>displayingRelogin</entry>
         <entry>mainSpeaker</entry>
         <entry encoding="base64">ID0gZnVuY3Rpb24g</entry>
+        <entry>const</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>

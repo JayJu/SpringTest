@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" timestamp="1495434203807">
+        <mark key="'" line="22" column="23" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" timestamp="1495434507770">
+        <mark key="'" line="62" column="19" />
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="67" column="5" />
+        <mark key="^" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
       </file>
@@ -20,6 +30,13 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" timestamp="1495434867388">
+        <mark key="'" line="67" column="25" />
+        <mark key="[" line="69" column="10" />
+        <mark key="]" line="69" column="14" />
+        <mark key="." line="69" column="14" />
+        <mark key="^" line="69" column="14" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/static/angular/login/login.html" timestamp="1493714342845">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="29" />
@@ -35,7 +52,6 @@
       <file name="/Dummy.txt" timestamp="1493715325096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceParticipant.js" timestamp="1493340652797" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1493342525895">
         <mark key="'" line="77" column="54" />
       </file>
@@ -72,7 +88,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc_require.js" timestamp="1493715621850" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
@@ -99,10 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="422" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="176" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="208" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
       <jump line="434" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
       <jump line="711" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="646" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -199,16 +210,20 @@
       <jump line="1724" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
       <jump line="20" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
       <jump line="77" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
+      <jump line="23" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
+      <jump line="22" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
+      <jump line="62" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
+      <jump line="67" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>getUserMedia</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -242,21 +257,20 @@ remove test classes</text>
         <text encoding="base64">cHVibGljIGNsYXNzIFJvb21EZW1vQXBwIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>196</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getUserMedia</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>getUserMedia</last-pattern>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>roomEvent</entry>
-        <entry>addPar</entry>
-        <entry>participants</entry>
         <entry>Participants</entry>
         <entry>Participant</entry>
         <entry>ServiceRoom</entry>
@@ -274,10 +288,11 @@ remove test classes</text>
         <entry>ee</entry>
         <entry>getUserMesi</entry>
         <entry>getUserMedia</entry>
+        <entry>select</entry>
+        <entry>var</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
-        <entry>wq</entry>
         <entry>374</entry>
         <entry>67</entry>
         <entry>1116</entry>
@@ -293,9 +308,11 @@ remove test classes</text>
         <entry>100</entry>
         <entry>986</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>983</entry>
         <entry>196</entry>
+        <entry>%s/var/let/g</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

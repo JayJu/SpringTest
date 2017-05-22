@@ -18,12 +18,12 @@
         <mark key="." line="67" column="5" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/Participants.js" timestamp="1495442656670" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495495362105">
-        <mark key="'" line="286" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495495664446">
+        <mark key="'" line="36" column="46" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
@@ -106,18 +106,28 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495493102520">
-        <mark key="'" line="8" column="2" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495495710423">
+        <mark key="'" line="70" column="35" />
         <mark key="[" line="59" column="4" />
         <mark key="]" line="59" column="6" />
         <mark key="^" line="59" column="6" />
         <mark key="." line="59" column="6" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" timestamp="1495496485251">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="59" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1495492901646">
-        <mark key="'" line="399" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1495495511392">
+        <mark key="'" line="224" column="35" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" timestamp="1495496148763">
+        <mark key="'" line="355" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
@@ -139,73 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="59" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="24" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="153" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="154" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="211" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="215" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="374" column="5" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="426" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="436" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="439" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="455" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="457" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="458" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="462" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="465" column="50" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="467" column="27" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="1677" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="1680" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="1706" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="1724" column="20" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="77" column="54" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
-      <jump line="23" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
-      <jump line="22" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="62" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
-      <jump line="67" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" />
-      <jump line="15" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="32" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="19" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="20" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="28" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="43" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="58" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="68" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="6" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="40" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="29" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="38" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="42" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="43" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="46" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="134" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="166" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="167" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="171" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="174" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="177" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="190" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="225" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="229" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="49" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="4" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="6" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="8" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="9" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="10" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="11" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="17" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="106" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="65" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="42" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="55" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="16" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
-      <jump line="13" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
       <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="47" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="72" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -215,9 +158,6 @@
       <jump line="158" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="161" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="399" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="287" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="293" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="30" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="66" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="67" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="89" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -225,12 +165,9 @@
       <jump line="142" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="161" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="162" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="170" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="172" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="173" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="180" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="183" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="13" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="32" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="11" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="17" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
@@ -239,72 +176,137 @@
       <jump line="59" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="8" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="284" column="44" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="29" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="255" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="267" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="96" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="107" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="108" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="109" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="224" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="40" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="170" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="181" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="182" column="64" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="183" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="190" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="212" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="236" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="240" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="243" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="249" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="253" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="256" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="262" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="281" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="282" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="287" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="288" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="293" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="294" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="295" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="6" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="7" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="8" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="9" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="10" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="11" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="12" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="13" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="20" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="24" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="25" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="26" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="30" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="34" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="35" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="36" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="4" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="5" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="6" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="13" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="20" column="44" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="22" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="30" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="34" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="35" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="36" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="42" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="44" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="45" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="46" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="57" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="60" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="67" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="70" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="262" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="313" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="322" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="324" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="351" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="355" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
+      <jump line="7" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="348" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="8" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="10" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBQYXJ0aWNpcGFudH0gZnJvbSAnLi9hcHAtcGFydGljaXBhbnQnOwo=</text>
+        <text encoding="base64">ICBsZXQgZWUgPSBuZXcgRXZlbnRFbWl0dGVyKCk7CiAgdmFyIHN0cmVhbXMgPSB7fTsKICB2YXIgcGFydGljaXBhbnRzID0ge307CiAgdmFyIHBhcnRpY2lwYW50c1NwZWFraW5nID0gW107CiAgdmFyIGNvbm5lY3RlZCA9IGZhbHNlOwogIHZhciBsb2NhbFBhcnRpY2lwYW50OwogIHZhciBzdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLnN1YnNjcmliZVRvU3RyZWFtcyB8fCB0cnVlOwogIHZhciB1cGRhdGVTcGVha2VySW50ZXJ2YWwgPSBvcHRpb25zLnVwZGF0ZVNwZWFrZXJJbnRlcnZhbCB8fCAxNTAwOwogIHZhciB0aHJlc2hvbGRTcGVha2VyID0gb3B0aW9ucy50aHJlc2hvbGRTcGVha2VyIHx8IC01MDsK</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>setMain</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBQYXJ0aWNpcGFudH0gZnJvbSAnLi9hcHAtcGFydGljaXBhbnQnOwo=</text>
+        <text encoding="base64">ICBsZXQgZWUgPSBuZXcgRXZlbnRFbWl0dGVyKCk7CiAgdmFyIHN0cmVhbXMgPSB7fTsKICB2YXIgcGFydGljaXBhbnRzID0ge307CiAgdmFyIHBhcnRpY2lwYW50c1NwZWFraW5nID0gW107CiAgdmFyIGNvbm5lY3RlZCA9IGZhbHNlOwogIHZhciBsb2NhbFBhcnRpY2lwYW50OwogIHZhciBzdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLnN1YnNjcmliZVRvU3RyZWFtcyB8fCB0cnVlOwogIHZhciB1cGRhdGVTcGVha2VySW50ZXJ2YWwgPSBvcHRpb25zLnVwZGF0ZVNwZWFrZXJJbnRlcnZhbCB8fCAxNTAwOwogIHZhciB0aHJlc2hvbGRTcGVha2VyID0gb3B0aW9ucy50aHJlc2hvbGRTcGVha2VyIHx8IC01MDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGlzLm5hbWUgPSBvcHRpb25zLnJvb207Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZW1vdmVQYXJ0aWNpcGFudHMxKCk6IHZvaWQgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHtBcHBQYXJ0aWNpcGFudH0gZnJvbSAnLi9hcHAtcGFydGljaXBhbnQnOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICByZW1vdmVQYXJ0aWNpcGFudHMxKCk6IHZvaWQgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/var/let/g</text>
       </register>
     </registers>
     <search>
-      <last-search>setMain</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern>setMain</last-pattern>
-      <last-replace />
-      <last-substitute encoding="base64">ID0gZnVuY3Rpb24g</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>let</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
-        <entry>speakerSp</entry>
-        <entry>action btn btn--m btn--orange btn--fab mdi md-desktop-mac'</entry>
-        <entry>mainParticipant</entry>
-        <entry>localParticipant</entry>
-        <entry>mirrorParticipant</entry>
         <entry>participants</entry>
         <entry>roomName</entry>
-        <entry>&quot;</entry>
-        <entry>that</entry>
         <entry>connected</entry>
         <entry>displayingRelogin</entry>
         <entry>mainSpeaker</entry>
@@ -315,6 +317,14 @@
         <entry>updateMainParti</entry>
         <entry>const</entry>
         <entry>setMain</entry>
+        <entry>mainParticipant</entry>
+        <entry>room</entry>
+        <entry>showMessage</entry>
+        <entry>_</entry>
+        <entry>Participant</entry>
+        <entry>that</entry>
+        <entry>&quot;</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>59</entry>
@@ -322,21 +332,21 @@
         <entry>986</entry>
         <entry>983</entry>
         <entry>196</entry>
-        <entry>%s/var/let/g</entry>
         <entry>-</entry>
         <entry>%s/mainParticipant/_mainParticipant/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
         <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>
         <entry>%s/participants/_participants/g</entry>
         <entry>%s/roomName/_roomName/g</entry>
-        <entry>%s/&quot;/'/g</entry>
-        <entry>%s/that/this/g</entry>
         <entry>%s/connected/_connected/g</entry>
         <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>%s/ = function //g</entry>
-        <entry>0</entry>
         <entry>w</entry>
+        <entry>%s/that/this/g</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>%s/var/let/g</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />

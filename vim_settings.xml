@@ -13,6 +13,14 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/Participants.js" timestamp="1495442656670" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495443013916">
+        <mark key="'" line="11" column="14" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
       </file>
@@ -37,11 +45,11 @@
         <mark key="." line="69" column="14" />
         <mark key="^" line="69" column="14" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.component.ts" timestamp="1495438767968">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.component.ts" timestamp="1495440428969">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/static/angular/login/login.html" timestamp="1493714342845">
         <mark key="[" line="2" column="29" />
@@ -94,18 +102,18 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495439759858">
-        <mark key="'" line="15" column="46" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="7" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="20" column="7" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495442615012">
+        <mark key="'" line="36" column="10" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="60" column="45" />
+        <mark key="." line="3" column="27" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1495439455863">
-        <mark key="'" line="67" column="47" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1495441878002">
+        <mark key="'" line="49" column="55" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
         <mark key="'" line="59" column="31" />
@@ -127,39 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="711" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="646" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="669" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="135" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" />
-      <jump line="40" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" />
-      <jump line="1088" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="32" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="33" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="43" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="45" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="87" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="103" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="104" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="137" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="141" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="179" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="230" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="315" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="347" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="390" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="391" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="626" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="747" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="750" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="176" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
-      <jump line="5" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
-      <jump line="42" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
-      <jump line="795" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
-      <jump line="147" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="148" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" />
-      <jump line="9" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" />
-      <jump line="59" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="67" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="92" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="84" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="91" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -227,94 +202,117 @@
       <jump line="62" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
       <jump line="67" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" />
       <jump line="15" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="32" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="19" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="20" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="28" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="43" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="58" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="68" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="6" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="18" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="40" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
+      <jump line="29" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="38" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="42" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="43" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="46" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="134" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="166" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="167" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="171" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="174" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="177" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="190" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="225" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="229" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="49" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
+      <jump line="4" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="6" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="8" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="9" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="10" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="11" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>that</text>
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>that</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>mainSpeaker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBsZXQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haW5WaWRlby5yZW1vdmVDaGlsZChvbGRWaWRlbyk7Cg==</text>
+        <text encoding="base64">IHRlbXBsYXRlOiAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAob2xkVmlkZW8gIT09IG51bGwpIHsK</text>
+        <text encoding="base64">IHNlbGVjdG9yOiAnYXBwLWNvbXBvbmVudCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudCh7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0aGF0LnZpZGVvRWxlbWVudC5jbGFzc05hbWUgKz0gIiBhY3RpdmUtdmlkZW8iOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ29tcG9uZW50LCBPbkluaXQgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzdHJlYW0ucGxheU9ubHlWaWRlbygibWFpbi12aWRlbyIsIHRoYXQudGh1bWJuYWlsSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;/'/g</text>
+        <text>%s/mainSpeaker/_mainSpeaker/g</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>mainSpeaker</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>mainSpeaker</last-pattern>
+      <last-replace>_mainSpeaker</last-replace>
+      <last-substitute>mainSpeaker</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Participants</entry>
-        <entry>Participant</entry>
-        <entry>ServiceRoom</entry>
-        <entry>initWebRtcPeer</entry>
-        <entry>publish</entry>
-        <entry>publish(</entry>
-        <entry>&quot;publish(&quot;</entry>
-        <entry>retistr</entry>
-        <entry>registr</entry>
-        <entry>register</entry>
-        <entry>JsonRpcClient</entry>
-        <entry>KurentoRoom</entry>
-        <entry>emi</entry>
-        <entry>emmi</entry>
         <entry>ee</entry>
         <entry>getUserMesi</entry>
         <entry>getUserMedia</entry>
         <entry>select</entry>
         <entry>var</entry>
+        <entry>videoEle</entry>
+        <entry>thumb</entry>
+        <entry>remove</entry>
+        <entry>speakerSp</entry>
+        <entry>action btn btn--m btn--orange btn--fab mdi md-desktop-mac'</entry>
+        <entry>mainParticipant</entry>
+        <entry>localParticipant</entry>
+        <entry>mirrorParticipant</entry>
+        <entry>participants</entry>
+        <entry>roomName</entry>
         <entry>&quot;</entry>
+        <entry>that</entry>
+        <entry>connected</entry>
+        <entry>displayingRelogin</entry>
+        <entry>mainSpeaker</entry>
       </history-search>
       <history-cmd>
-        <entry>374</entry>
-        <entry>67</entry>
-        <entry>1116</entry>
-        <entry>e</entry>
-        <entry>85</entry>
-        <entry>75</entry>
-        <entry>111</entry>
-        <entry>652</entry>
-        <entry>1133</entry>
-        <entry>40</entry>
         <entry>814</entry>
         <entry>59</entry>
         <entry>100</entry>
@@ -323,7 +321,17 @@
         <entry>196</entry>
         <entry>%s/var/let/g</entry>
         <entry>w</entry>
+        <entry>-</entry>
+        <entry>%s/mainParticipant/_mainParticipant/g</entry>
+        <entry>%s/localParticipant/_localParticipant/g</entry>
+        <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>
+        <entry>%s/participants/_participants/g</entry>
+        <entry>%s/roomName/_roomName/g</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>%s/that/this/g</entry>
+        <entry>%s/connected/_connected/g</entry>
+        <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
+        <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>0</entry>
       </history-cmd>
       <history-expr />

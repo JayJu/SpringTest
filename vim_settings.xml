@@ -14,12 +14,12 @@
         <mark key="." line="67" column="5" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/Participants.js" timestamp="1495442656670" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495443013916">
-        <mark key="'" line="11" column="14" />
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="4" />
-        <mark key="." line="11" column="4" />
-        <mark key="^" line="11" column="4" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495443646855">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
@@ -135,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="84" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="91" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="95" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -235,16 +234,17 @@
       <jump line="9" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="10" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="11" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
+      <jump line="17" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>var</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>mainSpeaker</text>
+        <text encoding="base64">ID0gZnVuY3Rpb24g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -277,21 +277,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/mainSpeaker/_mainSpeaker/g</text>
+        <text>%s/ = function //g</text>
       </register>
     </registers>
     <search>
-      <last-search>mainSpeaker</last-search>
+      <last-search encoding="base64">ID0gZnVuY3Rpb24g</last-search>
       <last-offset />
-      <last-pattern>mainSpeaker</last-pattern>
-      <last-replace>_mainSpeaker</last-replace>
-      <last-substitute>mainSpeaker</last-substitute>
+      <last-pattern encoding="base64">ID0gZnVuY3Rpb24g</last-pattern>
+      <last-replace />
+      <last-substitute encoding="base64">ID0gZnVuY3Rpb24g</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ee</entry>
         <entry>getUserMesi</entry>
         <entry>getUserMedia</entry>
         <entry>select</entry>
@@ -311,9 +310,9 @@
         <entry>connected</entry>
         <entry>displayingRelogin</entry>
         <entry>mainSpeaker</entry>
+        <entry encoding="base64">ID0gZnVuY3Rpb24g</entry>
       </history-search>
       <history-cmd>
-        <entry>814</entry>
         <entry>59</entry>
         <entry>100</entry>
         <entry>986</entry>
@@ -332,6 +331,7 @@
         <entry>%s/connected/_connected/g</entry>
         <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
+        <entry>%s/ = function //g</entry>
         <entry>0</entry>
       </history-cmd>
       <history-expr />

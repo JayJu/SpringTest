@@ -94,10 +94,17 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495439759858">
+        <mark key="'" line="15" column="46" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1493340678606">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" timestamp="1495439455863">
         <mark key="'" line="67" column="47" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/KurentoRoomServerApp.java" timestamp="1492822349210">
@@ -120,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="434" column="53" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" />
       <jump line="711" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="646" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
       <jump line="669" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/js/KurentoRoom.js" />
@@ -220,13 +226,14 @@
       <jump line="22" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" />
       <jump line="62" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" />
       <jump line="67" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" />
+      <jump line="15" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fSkK</text>
+      <register name="&quot;" type="4">
+        <text>that</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>that</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -235,35 +242,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudCh7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>change package of java classes
-remove test classes</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1haW5WaWRlby5yZW1vdmVDaGlsZChvbGRWaWRlbyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L1MK</text>
+        <text encoding="base64">ICBpZiAob2xkVmlkZW8gIT09IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgIC4tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0uCiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgIHwgICB8IHwvIC8gIF8gXyBfIF9fXyBfIF98IHxfIF9fXyAgICB8CiAgIHwgICB8ICcgPCB8fCB8ICdfLyAtXykgJyBcICBfLyBfIFwgICB8CiAgIHwgICB8X3xcX1xfLF98X3wgXF9fX3xffHxfXF9fXF9fXy8gICB8CiAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgICctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nCiAgICAgICAgICAgICAgICAgICAgdmVyc2lvbiAke3Byb2plY3QudmVyc2lvbn0K</text>
+        <text encoding="base64">ICB0aGF0LnZpZGVvRWxlbWVudC5jbGFzc05hbWUgKz0gIiBhY3RpdmUtdmlkZW8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtPgogICAgICAgICAgICAgICAgICAgIDxseC10ZXh0LWZpZWxkIGxhYmVsPSJNZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJpbnB1dE1lc3NhZ2UiIHR5cGU9InRleHQiIG5nLW1vZGVsPSJtZXNzYWdlIj4KICAgICAgICAgICAgICAgICAgICA8L2x4LXRleHQtZmllbGQ+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiIGNsYXNzPSJidG4gYnRuLS1tIGJ0bi0tZ3JlZW4gYnRuLS1yYWlzZWQiIGx4LXJpcHBsZSBuZy1jbGljaz0ic2VuZE1lc3NhZ2UoKSI+U2VuZDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGlkPSJwYXJ0aWNpcGFudHMiPgoKICAgICAgICAgICAgPCEtLXNtYWxsIHZpZGVvcy0tPgoKICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKCiAgICA8IS0tQ0hBVC0tPiAKCiAgICA8ZGl2IGNsYXNzPSJ0b2dnbGVyIiBzdHlsZT0id2lkdGg6IDIwJTtoZWlnaHQ6IDEwMCU7ZmxvYXQ6IHJpZ2h0IiA+CiAgICAgICAgPGRpdiBpZD0iZWZmZWN0IiBzdHlsZT0iZGlzcGxheTpub25lIj4KICAgICAgICAgICAgPCEtLWhlYWQtLT4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxzdHJvbmc+Q2hhdDwvc3Ryb25nPgogICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi0tcyBidG4tLWJsdWUgYnRuLS1pY29uIG1kaSBtZC1jbG9zZSIgbHgtcmlwcGxlIG5nLWNsaWNrPSJ0b2dnbGVDaGF0KCkiIGlkPSJidXR0b24iPjwvYnV0dG9uPiA8IS0tY2xvc2UtLT4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGlkPSJjaGF0RGl2IiBzdHlsZT0iaGVpZ2h0OiAzMGVtOyAgb3ZlcmZsb3c6IHNjcm9sbDsiPgogICAgICAgICAgICAJPGRpdiBpZD0ibWVzc2FnZXMiPgoJICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdCIgPgoJCgkgICAgICAgICAgICAgICAgICAgIDwhLS1jaGF0IG1lc3NhZ2VzIHdpdGggc2Nyb2xsLS0+CgkKCSAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPCEtLW1lc3NhZ2UgYW5kIGJ1dHRvbiB0byBzZW5kLS0+CiAgICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICBzdHJlYW0ucGxheU9ubHlWaWRlbygibWFpbi12aWRlbyIsIHRoYXQudGh1bWJuYWlsSWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
@@ -313,12 +319,12 @@ remove test classes</text>
         <entry>59</entry>
         <entry>100</entry>
         <entry>986</entry>
-        <entry>0</entry>
         <entry>983</entry>
         <entry>196</entry>
         <entry>%s/var/let/g</entry>
-        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />

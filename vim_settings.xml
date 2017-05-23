@@ -113,12 +113,12 @@
         <mark key="^" line="59" column="6" />
         <mark key="." line="59" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" timestamp="1495496485251">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="16" column="59" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" timestamp="1495497597129">
+        <mark key="'" line="18" column="16" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="67" column="10" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/serviceRoom.js" timestamp="1492825739548">
         <mark key="'" line="7" column="8" />
@@ -149,13 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="47" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="72" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="75" column="7" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="62" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="132" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
-      <jump line="158" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="161" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="399" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="66" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -247,27 +240,34 @@
       <jump line="355" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/assets/js/KurentoRoom.js" />
       <jump line="7" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="348" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
-      <jump line="8" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="10" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="26" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="25" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="24" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="23" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="20" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="8" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="21" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="18" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgZWUgPSBuZXcgRXZlbnRFbWl0dGVyKCk7CiAgdmFyIHN0cmVhbXMgPSB7fTsKICB2YXIgcGFydGljaXBhbnRzID0ge307CiAgdmFyIHBhcnRpY2lwYW50c1NwZWFraW5nID0gW107CiAgdmFyIGNvbm5lY3RlZCA9IGZhbHNlOwogIHZhciBsb2NhbFBhcnRpY2lwYW50OwogIHZhciBzdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLnN1YnNjcmliZVRvU3RyZWFtcyB8fCB0cnVlOwogIHZhciB1cGRhdGVTcGVha2VySW50ZXJ2YWwgPSBvcHRpb25zLnVwZGF0ZVNwZWFrZXJJbnRlcnZhbCB8fCAxNTAwOwogIHZhciB0aHJlc2hvbGRTcGVha2VyID0gb3B0aW9ucy50aHJlc2hvbGRTcGVha2VyIHx8IC01MDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGQK</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>var</text>
+        <text>localParticipant</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgZWUgPSBuZXcgRXZlbnRFbWl0dGVyKCk7CiAgdmFyIHN0cmVhbXMgPSB7fTsKICB2YXIgcGFydGljaXBhbnRzID0ge307CiAgdmFyIHBhcnRpY2lwYW50c1NwZWFraW5nID0gW107CiAgdmFyIGNvbm5lY3RlZCA9IGZhbHNlOwogIHZhciBsb2NhbFBhcnRpY2lwYW50OwogIHZhciBzdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLnN1YnNjcmliZVRvU3RyZWFtcyB8fCB0cnVlOwogIHZhciB1cGRhdGVTcGVha2VySW50ZXJ2YWwgPSBvcHRpb25zLnVwZGF0ZVNwZWFrZXJJbnRlcnZhbCB8fCAxNTAwOwogIHZhciB0aHJlc2hvbGRTcGVha2VyID0gb3B0aW9ucy50aHJlc2hvbGRTcGVha2VyIHx8IC01MDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aGlzLm5hbWUgPSBvcHRpb25zLnJvb207Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -276,45 +276,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgdGhhdCA9IHRoaXM7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBQYXJ0aWNpcGFudH0gZnJvbSAnLi9hcHAtcGFydGljaXBhbnQnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzZXRJbnRlcnZhbCh1cGRhdGVNYWluU3BlYWtlciwgX3VwZGF0ZVNwZWFrZXJJbnRlcnZhbCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIF90aHJlc2hvbGRTcGVha2VyID0gb3B0aW9ucy5fdGhyZXNob2xkU3BlYWtlciB8fCAtNTA7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIF91cGRhdGVTcGVha2VySW50ZXJ2YWwgPSBvcHRpb25zLl91cGRhdGVTcGVha2VySW50ZXJ2YWwgfHwgMTUwMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW1vdmVQYXJ0aWNpcGFudHMxKCk6IHZvaWQgewo=</text>
+        <text encoding="base64">ICAgIF9zdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLl9zdWJzY3JpYmVUb1N0cmVhbXMgfHwgdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/var/let/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>var</last-search>
+      <last-search>localParticipant</last-search>
       <last-offset />
-      <last-pattern>var</last-pattern>
-      <last-replace>let</last-replace>
-      <last-substitute>var</last-substitute>
+      <last-pattern>localParticipant</last-pattern>
+      <last-replace>_localParticipant</last-replace>
+      <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>participants</entry>
-        <entry>roomName</entry>
-        <entry>connected</entry>
-        <entry>displayingRelogin</entry>
-        <entry>mainSpeaker</entry>
-        <entry encoding="base64">ID0gZnVuY3Rpb24g</entry>
-        <entry>forin</entry>
-        <entry>updateMain</entry>
-        <entry>updateMainParticipant</entry>
-        <entry>updateMainParti</entry>
         <entry>const</entry>
         <entry>setMain</entry>
         <entry>mainParticipant</entry>
@@ -325,28 +315,38 @@
         <entry>that</entry>
         <entry>&quot;</entry>
         <entry>var</entry>
+        <entry>thresholdSpeaker</entry>
+        <entry>updateSpeakerInterval</entry>
+        <entry>subscribeToStreams</entry>
+        <entry>connected</entry>
+        <entry>participantsSpeaking</entry>
+        <entry>participants</entry>
+        <entry>streams</entry>
+        <entry>ee</entry>
+        <entry>__participantsSpeaking</entry>
+        <entry>localParticipant</entry>
       </history-search>
       <history-cmd>
-        <entry>59</entry>
-        <entry>100</entry>
-        <entry>986</entry>
-        <entry>983</entry>
-        <entry>196</entry>
-        <entry>-</entry>
-        <entry>%s/mainParticipant/_mainParticipant/g</entry>
-        <entry>%s/localParticipant/_localParticipant/g</entry>
         <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>
-        <entry>%s/participants/_participants/g</entry>
         <entry>%s/roomName/_roomName/g</entry>
-        <entry>%s/connected/_connected/g</entry>
         <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>%s/ = function //g</entry>
-        <entry>w</entry>
         <entry>%s/that/this/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%s/var/let/g</entry>
         <entry>0</entry>
+        <entry>%s/thresholdSpeaker/_thresholdSpeaker/g</entry>
+        <entry>%s/updateSpeakerInterval/_updateSpeakerInterval/g</entry>
+        <entry>%s/subscribeToStreams/_subscribeToStreams/g</entry>
+        <entry>%s/connected/_connected/g</entry>
+        <entry>%s/participantsSpeaking/_participantsSpeaking/g</entry>
+        <entry>%s/participants/_participants/g</entry>
+        <entry>%s/streams/_streams/g</entry>
+        <entry>%s/ee/_ee/g</entry>
+        <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
+        <entry>%s/localParticipant/_localParticipant/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

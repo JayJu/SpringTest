@@ -90,8 +90,8 @@
         <mark key="^" line="152" column="5" />
         <mark key="." line="152" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1493343122149">
-        <mark key="'" line="99" column="25" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1495520040831">
+        <mark key="'" line="146" column="15" />
         <mark key="[" line="41" column="11" />
         <mark key="]" line="41" column="14" />
         <mark key="." line="41" column="14" />
@@ -149,7 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="399" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="66" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="67" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -249,6 +248,7 @@
       <jump line="8" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="21" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="18" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
+      <jump line="146" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -258,7 +258,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>localParticipant</text>
+        <text>getClient</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -295,9 +295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>localParticipant</last-search>
+      <last-search>getClient</last-search>
       <last-offset />
-      <last-pattern>localParticipant</last-pattern>
+      <last-pattern>getClient</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -305,9 +305,6 @@
     </search>
     <history>
       <history-search>
-        <entry>const</entry>
-        <entry>setMain</entry>
-        <entry>mainParticipant</entry>
         <entry>room</entry>
         <entry>showMessage</entry>
         <entry>_</entry>
@@ -325,6 +322,9 @@
         <entry>ee</entry>
         <entry>__participantsSpeaking</entry>
         <entry>localParticipant</entry>
+        <entry>getAllRooms</entry>
+        <entry>getClientConfig</entry>
+        <entry>getClient</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>

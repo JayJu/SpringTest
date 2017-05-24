@@ -147,12 +147,11 @@
       <file name="/fragment.java" timestamp="1493715325090">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1495583346234">
-        <mark key="'" line="13" column="23" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1495583934564">
+        <mark key="'" line="19" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="122" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="142" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="161" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -252,6 +251,7 @@
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="109" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="13" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="19" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -261,7 +261,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sonar</text>
+        <text>java</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -298,9 +298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sonar</last-search>
+      <last-search>java</last-search>
       <last-offset />
-      <last-pattern>sonar</last-pattern>
+      <last-pattern>java</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showMessage</entry>
         <entry>_</entry>
         <entry>Participant</entry>
         <entry>that</entry>
@@ -328,6 +327,7 @@
         <entry>getClientConfig</entry>
         <entry>getClient</entry>
         <entry>sonar</entry>
+        <entry>java</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>

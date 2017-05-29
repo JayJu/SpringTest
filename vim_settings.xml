@@ -48,12 +48,12 @@
         <mark key="." line="69" column="14" />
         <mark key="^" line="69" column="14" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1496026409408">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="48" column="26" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="36" />
-        <mark key="^" line="54" column="36" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1496028471175">
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.component.ts" timestamp="1495440428969">
         <mark key="[" line="7" column="1" />
@@ -176,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="161" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="162" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="172" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="173" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -276,16 +274,18 @@
       <jump line="13" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="19" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="21" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="14" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="33" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>25</text>
+        <text>google</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>google</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>gmail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -322,9 +322,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>gmail</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>gmail</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -332,8 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>that</entry>
-        <entry>&quot;</entry>
         <entry>var</entry>
         <entry>thresholdSpeaker</entry>
         <entry>updateSpeakerInterval</entry>
@@ -352,9 +350,10 @@
         <entry>java</entry>
         <entry>mime</entry>
         <entry>mail</entry>
+        <entry>google</entry>
+        <entry>gmail</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/mirrorParticipant/_mirrorParticipant/g</entry>
         <entry>%s/roomName/_roomName/g</entry>
         <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
@@ -373,6 +372,7 @@
         <entry>%s/ee/_ee/g</entry>
         <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

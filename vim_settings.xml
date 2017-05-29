@@ -60,11 +60,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1492826619502">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="7" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1496022553125">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1495601510372">
         <mark key="[" line="0" column="0" />
@@ -123,6 +123,12 @@
         <mark key="]" line="59" column="6" />
         <mark key="^" line="59" column="6" />
         <mark key="." line="59" column="6" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1496022477724">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="33" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" timestamp="1495497597129">
         <mark key="'" line="18" column="16" />
@@ -266,10 +272,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ocalhos</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>ocalhos</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>mime</text>

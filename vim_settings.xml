@@ -49,8 +49,8 @@
         <mark key="." line="69" column="14" />
         <mark key="^" line="69" column="14" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1496028471175">
-        <mark key="'" line="33" column="25" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1496216224674">
+        <mark key="'" line="16" column="12" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.component.ts" timestamp="1495440428969">
         <mark key="[" line="7" column="1" />
@@ -73,6 +73,7 @@
       <file name="/Dummy.txt" timestamp="1496186164643">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/service/MailServiceIntTest.java" timestamp="1496216513971" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1493342525895">
         <mark key="'" line="77" column="54" />
       </file>
@@ -177,12 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="17" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="18" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="48" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="59" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="8" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="284" column="44" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="29" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="255" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
@@ -277,6 +272,12 @@
       <jump line="794" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
       <jump line="86" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
       <jump line="47" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
+      <jump line="47" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="50" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="51" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="16" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -286,7 +287,7 @@
         <text>google</text>
       </register>
       <register name="/" type="4">
-        <text>swagger</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -323,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swagger</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>swagger</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -347,12 +348,12 @@
         <entry>sonar</entry>
         <entry>java</entry>
         <entry>mime</entry>
-        <entry>mail</entry>
         <entry>google</entry>
         <entry>gmail</entry>
         <entry>ribon</entry>
         <entry>Ribbon</entry>
         <entry>swagger</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/roomName/_roomName/g</entry>

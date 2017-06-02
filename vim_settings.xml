@@ -130,6 +130,9 @@
         <mark key="^" line="59" column="6" />
         <mark key="." line="59" column="6" />
       </file>
+      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" timestamp="1496385098340">
+        <mark key="'" line="90" column="31" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-room/kurento-room-demo/src/main/resources/kurento-room-demo.conf.json" timestamp="1496022477724">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="2" column="48" />
@@ -175,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="44" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="29" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="255" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="267" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="96" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
       <jump line="107" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/services/Participants.js" />
@@ -275,6 +275,9 @@
       <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="16" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="57" column="4" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
+      <jump line="68" column="33" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
+      <jump line="90" column="31" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +287,7 @@
         <text>google</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>TB_BAK_CLIENT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgcm91dGVyTGluaz0iLyIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+CiAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWhvbWUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS5ob21lIj5Ib21lPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
@@ -317,13 +320,13 @@
         <text encoding="base64">ICAgIF9zdWJzY3JpYmVUb1N0cmVhbXMgPSBvcHRpb25zLl9zdWJzY3JpYmVUb1N0cmVhbXMgfHwgdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>TB_BAK_CLIENT</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>TB_BAK_CLIENT</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subscribeToStreams</entry>
-        <entry>connected</entry>
         <entry>participantsSpeaking</entry>
         <entry>participants</entry>
         <entry>streams</entry>
@@ -351,9 +352,10 @@
         <entry>Ribbon</entry>
         <entry>swagger</entry>
         <entry>mail</entry>
+        <entry>CLIENT</entry>
+        <entry>TB_BAK_CLIENT</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/roomName/_roomName/g</entry>
         <entry>%s/displayingRelogin/_displayingRelogin/g</entry>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>%s/ = function //g</entry>
@@ -373,6 +375,7 @@
         <entry>%s/localParticipant/_localParticipant/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />

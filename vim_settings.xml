@@ -24,7 +24,6 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1496187402638" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-jsonrpc-js/5.1.3/7a6b1fbe1cd48b16b68914fde9d3b3cd63c1907b/kurento-jsonrpc-js-5.1.3.jar!/META-INF/resources/js/kurento-jsonrpc.js" timestamp="1493341080791">
         <mark key="'" line="90" column="0" />
       </file>
@@ -73,7 +72,6 @@
       <file name="/Dummy.txt" timestamp="1496186164643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/service/MailServiceIntTest.java" timestamp="1496216513971" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.bower/adapter.js/0.2.9/e82faf949b0f61da20cf0e6cde9509e96bdc8555/adapter.js-0.2.9.jar!/META-INF/resources/webjars/adapter.js/0.2.9/adapter.js" timestamp="1493342525895">
         <mark key="'" line="77" column="54" />
       </file>
@@ -110,7 +108,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="93" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1496187753388" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kurento/kurento-room-server/6.6.0/ffeffd10c4b32a784a896204c660997171cb82ab/kurento-room-server-6.6.0-sources.jar!/org/kurento/room/rpc/JsonRpcUserControl.java" timestamp="1492841560525">
         <mark key="'" line="40" column="13" />
       </file>
@@ -170,7 +167,7 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="69" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1493715325090">
+      <file name="/fragment.java" timestamp="1496384697845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1495583934564">

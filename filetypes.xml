@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="jdl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

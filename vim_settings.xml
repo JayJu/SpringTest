@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" timestamp="1496793332067">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="76" column="1" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Presentation/Conversion/ConvertingASpecificSlideToPDF.java" timestamp="1496558144725">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="53" />
@@ -23,7 +30,6 @@
         <mark key="^" line="67" column="5" />
         <mark key="." line="67" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/logback-spring.xml" timestamp="1496794000687" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495495664446">
         <mark key="'" line="36" column="46" />
         <mark key="[" line="20" column="11" />
@@ -31,7 +37,13 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Presentation/Opening/DetectionMicrosoftPowerPoint95presentations.java" timestamp="1496556439784" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1493340470959">
+        <mark key="'" line="24" column="61" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="56" column="5" />
+        <mark key="^" line="56" column="5" />
+        <mark key="." line="56" column="5" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" timestamp="1487565253779">
         <mark key="'" line="49" column="4" />
         <mark key="[" line="29" column="5" />
@@ -39,8 +51,6 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Text/LoadExternalFonts.java" timestamp="1496556625797" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/IActualLayoutAdded.java" timestamp="1496556601294" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" timestamp="1495434867388">
         <mark key="'" line="67" column="25" />
         <mark key="[" line="69" column="10" />
@@ -48,9 +58,6 @@
         <mark key="." line="69" column="14" />
         <mark key="^" line="69" column="14" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604025935_added_entity_constraints_AddressBook.xml" timestamp="1496549649482" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" timestamp="1496543693664" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Table/SettingTextFormattingInsideTableRow.java" timestamp="1496554311027" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1493340457660">
         <mark key="'" line="17" column="55" />
         <mark key="[" line="0" column="0" />
@@ -71,9 +78,13 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604025935_added_entity_AddressBook.xml" timestamp="1496545398502" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/CRUD/CloneASlideWithMasterSlideFromOnePresentationToAnother.java" timestamp="1496553658753" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Table/SettingTextFormattingInsideTableColumn.java" timestamp="1496554271970" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1495520040831">
+        <mark key="'" line="146" column="15" />
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495495710423">
         <mark key="'" line="70" column="35" />
         <mark key="[" line="59" column="4" />
@@ -88,56 +99,11 @@
         <mark key="^" line="67" column="10" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Layout/SettingTheSlideSizeScale.java" timestamp="1496556488819" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/pom.xml" timestamp="1496557640102" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" timestamp="1496793332067">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="76" column="1" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/DataSourceTypePropertyAdded.java" timestamp="1496556610508" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/GetWidthHeightFromChartPlotArea.java" timestamp="1496556454065" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Table/SettingTextFormattingInsideTable.java" timestamp="1496556461452" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Layout/SettingTheSizeAndTypeOfASlide .java" timestamp="1496556528690" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/GetPositionOfChartDataLabel.java" timestamp="1496556470199" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1493340470959">
-        <mark key="'" line="24" column="61" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="56" column="5" />
-        <mark key="^" line="56" column="5" />
-        <mark key="." line="56" column="5" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/service/util/DocumentSecurityDecodeTest.java" timestamp="1496793609345" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/AddressBook.json" timestamp="1496562135643" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/README.md" timestamp="1496553782861" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/UsingWorkBookChartCellAsDataLabel.java" timestamp="1496556346314" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1495520040831">
-        <mark key="'" line="146" column="15" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-      </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/GetValuesAndUnitScaleFromAxis.java" timestamp="1496556498931" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceFile.json" timestamp="1496794084346" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/resources/drm/softcamp.properties" timestamp="1496793601022" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Charts/ValidateChartLayoutAdded.java" timestamp="1496556446489" />
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Presentation/Conversion/ConvertingPresentationToHTMLWithMediaFiles.java" timestamp="1496553962652" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/util/Ppt2PdfConverterUsingAspose.java" timestamp="1496793709743" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1496793895177">
-        <mark key="'" line="223" column="28" />
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1497053260260">
+        <mark key="'" line="220" column="40" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="249" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="253" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
-      <jump line="256" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="262" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="281" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
       <jump line="282" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" />
@@ -234,6 +200,10 @@
       <jump line="77" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="3" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="223" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="155" column="81" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="145" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="219" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="220" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -243,7 +213,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>logback</text>
+        <text>aspose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uaXRleHRwZGYnLCBuYW1lOiAnaXRleHRwZGYnLCB2ZXJzaW9uOiAnNS41LjExJwo=</text>
@@ -280,9 +250,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logback</last-search>
+      <last-search>aspose</last-search>
       <last-offset />
-      <last-pattern>logback</last-pattern>
+      <last-pattern>aspose</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -290,7 +260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__participantsSpeaking</entry>
         <entry>localParticipant</entry>
         <entry>getAllRooms</entry>
         <entry>getClientConfig</entry>
@@ -310,6 +279,7 @@
         <entry>gradle</entry>
         <entry>build</entry>
         <entry>logback</entry>
+        <entry>aspose</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>

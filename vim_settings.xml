@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" timestamp="1496793332067">
-        <mark key="'" line="3" column="1" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="76" column="1" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Presentation/Conversion/ConvertingASpecificSlideToPDF.java" timestamp="1496558144725">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="53" />
@@ -17,22 +10,8 @@
         <mark key="^" line="19" column="53" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/UserRepository.java" timestamp="1497061446597" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/tslint.json" timestamp="1495492729920">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/AddressBookService.java" timestamp="1497060683948" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" timestamp="1497071824939" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/call/call.component.ts" timestamp="1495434507770">
-        <mark key="'" line="62" column="19" />
-        <mark key="[" line="67" column="5" />
-        <mark key="]" line="67" column="5" />
-        <mark key="^" line="67" column="5" />
-        <mark key="." line="67" column="5" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1497075264052">
         <mark key="'" line="37" column="13" />
         <mark key="[" line="53" column="42" />
@@ -46,12 +25,11 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/participants.ts" timestamp="1495495664446">
-        <mark key="'" line="36" column="46" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1497080158866">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1497061041684">
         <mark key="'" line="163" column="66" />
@@ -67,68 +45,13 @@
         <mark key="." line="37" column="92" />
         <mark key="^" line="37" column="92" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/login.html" timestamp="1493340470959">
-        <mark key="'" line="24" column="61" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="56" column="5" />
-        <mark key="^" line="56" column="5" />
-        <mark key="." line="56" column="5" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs1/package.json" timestamp="1487565253779">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/login/login.component.ts" timestamp="1495434867388">
-        <mark key="'" line="67" column="25" />
-        <mark key="[" line="69" column="10" />
-        <mark key="]" line="69" column="14" />
-        <mark key="." line="69" column="14" />
-        <mark key="^" line="69" column="14" />
-      </file>
       <file name="/Dummy.txt" timestamp="1497062041053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/index.html" timestamp="1493340457660">
-        <mark key="'" line="17" column="55" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="6" />
-        <mark key="^" line="52" column="6" />
-        <mark key="." line="52" column="6" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/call/callController.js" timestamp="1492844526036">
-        <mark key="'" line="9" column="11" />
-        <mark key="[" line="151" column="6" />
-        <mark key="]" line="152" column="5" />
-        <mark key="^" line="152" column="5" />
-        <mark key="." line="152" column="5" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1495520040831">
-        <mark key="'" line="146" column="15" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" timestamp="1495495710423">
-        <mark key="'" line="70" column="35" />
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="6" />
-        <mark key="^" line="59" column="6" />
-        <mark key="." line="59" column="6" />
-      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/vm/ManagedUserVM.java" timestamp="1497078885029" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1497077858516" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.3.RELEASE/41417c21158e7dd13d4d733d443d804ae4f6e0b2/spring-data-jpa-1.11.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" timestamp="1497061458243">
         <mark key="a" line="35" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" timestamp="1495497597129">
-        <mark key="'" line="18" column="16" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="10" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1497077608256">
         <mark key="'" line="28" column="81" />
@@ -156,10 +79,10 @@
         <mark key="^" line="24" column="9" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1497053260260">
-        <mark key="'" line="220" column="40" />
+      <file name="/fragment.java" timestamp="1497079720252">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1497072129370" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1497079340571" />
     </filemarks>
     <jumps>
       <jump line="36" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
@@ -264,11 +187,11 @@
       <jump line="28" column="81" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBOb3RCbGFuawogICAgQEVtYWlsCiAgICBAU2l6ZShtaW4gPSA1LCBtYXggPSAxMDApCiAgICBwcml2YXRlIFN0cmluZyBlbWFpbDsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>firstName</text>
       </register>
       <register name="/" type="4">
         <text>ngForm</text>
@@ -277,31 +200,31 @@
         <text encoding="base64">ICAgICAgICAgICAgImNlbGxwaG9uZS1udW1iZXIiOiAiQ2VsbHBob25lIE51bWJlciIsCiAgICAgICAgICAgICJjZWxscGhvbmUtbnVtYmVyLnBsYWNlaG9sZGVyIjogIkNlbGxwaG9uZSBOdW1iZXIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawogICAgQEVtYWlsCiAgICBAU2l6ZShtaW4gPSA1LCBtYXggPSAxMDApCiAgICBwcml2YXRlIFN0cmluZyBlbWFpbDsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxhc3ROYW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFlvdXIgY29tcGFueSBuYW1lIGNhbm5vdCBiZSBsb25nZXIgdGhhbiA1MCBjaGFyYWN0ZXJzLgo=</text>
+        <text encoding="base64">ICAgIEBTaXplKG1heCA9IDUwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpoaVRyYW5zbGF0ZT0icmVnaXN0ZXIubWVzc2FnZXMudmFsaWRhdGUuY29tcGFueS5tYXhsZW5ndGgiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiICpuZ0lmPSJjb21wYW55LmVycm9ycy5tYXhsZW5ndGgiCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGxvZ2luOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDUwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFlvdXIgdGl0bGUgaXMgcmVxdWlyZWQgdG8gYmUgYXQgbGVhc3QgNSBjaGFyYWN0ZXJzLgo=</text>
+        <text encoding="base64">ICAgIEBQYXR0ZXJuKHJlZ2V4cCA9IENvbnN0YW50cy5MT0dJTl9SRUdFWCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpoaVRyYW5zbGF0ZT0icmVnaXN0ZXIubWVzc2FnZXMudmFsaWRhdGUudGl0bGUubWlubGVuZ3RoIj4K</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

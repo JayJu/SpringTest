@@ -105,12 +105,6 @@
         <mark key="^" line="152" column="5" />
         <mark key="." line="152" column="5" />
       </file>
-      <file name="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Rendering/GeneratingThumbnailFromSlideInNotesSlidesView.java" timestamp="1496556480660">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs-demo/src/main/resources/static/angular/login/loginController.js" timestamp="1495520040831">
         <mark key="'" line="146" column="15" />
         <mark key="[" line="41" column="11" />
@@ -125,7 +119,7 @@
         <mark key="^" line="59" column="6" />
         <mark key="." line="59" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1497061166616" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1497077858516" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.3.RELEASE/41417c21158e7dd13d4d733d443d804ae4f6e0b2/spring-data-jpa-1.11.3.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" timestamp="1497061458243">
         <mark key="a" line="35" column="0" />
       </file>
@@ -136,12 +130,12 @@
         <mark key="^" line="67" column="10" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1497075532426">
-        <mark key="'" line="76" column="84" />
-        <mark key="[" line="155" column="33" />
-        <mark key="]" line="155" column="40" />
-        <mark key="." line="155" column="40" />
-        <mark key="^" line="155" column="40" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1497077608256">
+        <mark key="'" line="28" column="81" />
+        <mark key="[" line="160" column="22" />
+        <mark key="]" line="160" column="22" />
+        <mark key="." line="160" column="22" />
+        <mark key="^" line="161" column="15" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" timestamp="1497075111286">
         <mark key="[" line="53" column="56" />
@@ -149,16 +143,25 @@
         <mark key="^" line="53" column="47" />
         <mark key="." line="53" column="56" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/register.json" timestamp="1497077184849">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="46" />
+        <mark key="^" line="22" column="46" />
+        <mark key="." line="22" column="46" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/AsyncConfiguration.java" timestamp="1497060468726" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" timestamp="1497061762826" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/register.json" timestamp="1497077056937">
+        <mark key="]" line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1497053260260">
         <mark key="'" line="220" column="40" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1497072129370" />
     </filemarks>
     <jumps>
-      <jump line="34" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
-      <jump line="35" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="36" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="42" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
       <jump line="44" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/app-participant.ts" />
@@ -241,7 +244,6 @@
       <jump line="50" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="18" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="36" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="53" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="76" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="91" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="38" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
@@ -257,55 +259,58 @@
       <jump line="54" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
       <jump line="36" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
       <jump line="37" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
+      <jump line="53" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="162" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="28" column="81" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>디</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>디</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>userManagement</text>
+        <text>ngForm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImNlbGxwaG9uZS1udW1iZXIiOiAiQ2VsbHBob25lIE51bWJlciIsCiAgICAgICAgICAgICJjZWxscGhvbmUtbnVtYmVyLnBsYWNlaG9sZGVyIjogIkNlbGxwaG9uZSBOdW1iZXIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uaXRleHRwZGYnLCBuYW1lOiAnaXRleHRwZGYnLCB2ZXJzaW9uOiAnNS41LjExJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zbWFsbD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFlvdXIgY29tcGFueSBuYW1lIGNhbm5vdCBiZSBsb25nZXIgdGhhbiA1MCBjaGFyYWN0ZXJzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpoaVRyYW5zbGF0ZT0icmVnaXN0ZXIubWVzc2FnZXMudmFsaWRhdGUuY29tcGFueS5tYXhsZW5ndGgiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlzbGQuZ2V0Tm90ZXNTbGlkZU1hbmFnZXIoKS5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiICpuZ0lmPSJjb21wYW55LmVycm9ycy5tYXhsZW5ndGgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gamhpcHN0ZXItbmVlZGxlLWxpcXVpYmFzZS1hZGQtY29uc3RyYWludHMtY2hhbmdlbG9nIC0gSkhpcHN0ZXIgd2lsbCBhZGQgbGlxdWliYXNlIGNvbnN0cmFpbnRzIGNoYW5nZWxvZ3MgaGVyZSAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zbWFsbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNsYXNzcGF0aDpjb25maWcvbGlxdWliYXNlL2NoYW5nZWxvZy8yMDE3MDYwNDAxNDEyN19hZGRlZF9lbnRpdHlfY29uc3RyYWludHNfQ29uZmVyZW5jZU1haWwueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0iZmFsc2UiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFlvdXIgdGl0bGUgaXMgcmVxdWlyZWQgdG8gYmUgYXQgbGVhc3QgNSBjaGFyYWN0ZXJzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIGZpbGU9ImNsYXNzcGF0aDpjb25maWcvbGlxdWliYXNlL2NoYW5nZWxvZy8yMDE3MDYwNDAxNDEyNl9hZGRlZF9lbnRpdHlfY29uc3RyYWludHNfQ29uZmVyZW5jZUF0dGVuZEhpc3RvcnkueG1sIiByZWxhdGl2ZVRvQ2hhbmdlbG9nRmlsZT0iZmFsc2UiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGpoaVRyYW5zbGF0ZT0icmVnaXN0ZXIubWVzc2FnZXMudmFsaWRhdGUudGl0bGUubWlubGVuZ3RoIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>userManagement</last-search>
+      <last-search>ngForm</last-search>
       <last-offset />
-      <last-pattern>userManagement</last-pattern>
+      <last-pattern>ngForm</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -313,8 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mail</entry>
-        <entry>CLIENT</entry>
         <entry>TB_BAK_CLIENT</entry>
         <entry>image</entry>
         <entry>gradle</entry>
@@ -333,6 +336,8 @@
         <entry>name</entry>
         <entry>username</entry>
         <entry>userManagement</entry>
+        <entry>registerForm</entry>
+        <entry>ngForm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>

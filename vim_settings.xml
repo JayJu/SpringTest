@@ -31,6 +31,7 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/service/util/DRMDecodeAndAddWatermarkTest.java" timestamp="1497857700377" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1497087248346">
         <mark key="[" line="149" column="5" />
         <mark key="]" line="151" column="31" />
@@ -64,6 +65,12 @@
         <mark key="]" line="165" column="22" />
         <mark key="." line="165" column="22" />
         <mark key="^" line="166" column="15" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497857601030">
+        <mark key="[" line="218" column="84" />
+        <mark key="]" line="222" column="95" />
+        <mark key="." line="222" column="95" />
+        <mark key="^" line="222" column="95" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1497073480936">
         <mark key="'" line="38" column="4" />
@@ -223,8 +230,8 @@
       <jump line="207" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdCgpa2oK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -236,31 +243,31 @@
         <text encoding="base64">ICAgICAqIEBwYXJhbSBwYWdlYWJsZSB0aGUgcGFnaW5hdGlvbiBpbmZvcm1hdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdCgpa2oK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJFU1QgcmVxdWVzdCB0byBnZXQgQ29tcGFueSA6IHt9Iiwgc2VhcmNoTmFtZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcGFueTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBvbXBhbnlSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJlIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJFU1QgcmVxdWVzdCB0byBnZXQgQ29tcGFueSA6IHt9Iiwgc2VhcmNoTmFtZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcGFueTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBvbXBhbnlSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJlIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">a2xrCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">a2xrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

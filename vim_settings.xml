@@ -37,17 +37,11 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1497849492254">
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="22" />
-        <mark key="^" line="67" column="22" />
-        <mark key="." line="67" column="22" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1497849098603">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-        <mark key="^" line="16" column="68" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1497850631844">
+        <mark key="[" line="69" column="30" />
+        <mark key="]" line="69" column="33" />
+        <mark key="^" line="69" column="33" />
+        <mark key="." line="69" column="33" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" timestamp="1497348275543">
         <mark key="'" line="58" column="26" />
@@ -57,7 +51,7 @@
         <mark key="]" line="124" column="54" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1497849268960">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1497850585594">
         <mark key="'" line="207" column="48" />
         <mark key="[" line="142" column="4" />
         <mark key="]" line="142" column="5" />
@@ -121,8 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
-      <jump line="20" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="8" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="21" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
       <jump line="18" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs-room-client/src/app/core/room.ts" />
@@ -219,57 +211,59 @@
       <jump line="58" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" />
       <jump line="56" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="212" column="54" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="214" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="227" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="206" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="207" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>searchName</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>searchName</text>
       </register>
       <register name="/" type="4">
-        <text>Contain</text>
+        <text>page</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYWlsU2VydmljZS5zZW5kQWN0aXZhdGlvbkVtYWlsKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJlcXVlc3QgdG8gZ2V0IENvbXBhbnkgOiB7fSIsIGlkKTsKICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBjb21wYW55UmVwb3NpdG9yeS5maW5kT25lKGlkKTsKICAgICAgICByZXR1cm4gY29tcGFueTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29tcGFueTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55IGNvbXBhbnkgPSBvbXBhbnlSZXBvc2l0b3J5LmZpbmRPbmUoaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbCAK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdNZW1iZXIuc2EK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdNZW1iZXIuc2V0RW1wbG95ZWVJZChlbXBsb3llZUlkKTsKICAgICAgICAK</text>
+        <text encoding="base64">a2xrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdNZW1iZXIuc2V0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgbCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdNZW1iZXIuc2EK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Contain</last-search>
+      <last-search>page</last-search>
       <last-offset />
-      <last-pattern>Contain</last-pattern>
+      <last-pattern>page</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -293,10 +287,10 @@
         <entry>file</entry>
         <entry>File</entry>
         <entry>Page</entry>
-        <entry>page</entry>
         <entry>like</entry>
         <entry>Like</entry>
         <entry>Contain</entry>
+        <entry>page</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>

@@ -38,17 +38,17 @@
         <mark key="^" line="151" column="31" />
         <mark key="." line="151" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1497858312102">
-        <mark key="[" line="74" column="67" />
-        <mark key="]" line="69" column="33" />
-        <mark key="^" line="69" column="33" />
-        <mark key="." line="69" column="33" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1497859803381">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="18" />
+        <mark key="^" line="69" column="18" />
+        <mark key="." line="69" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1497858332608">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1497859823301">
         <mark key="[" line="18" column="60" />
-        <mark key="]" line="18" column="61" />
-        <mark key="^" line="18" column="61" />
-        <mark key="." line="18" column="61" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" timestamp="1497348275543">
         <mark key="'" line="58" column="26" />
@@ -86,8 +86,8 @@
         <mark key="." line="37" column="92" />
         <mark key="^" line="37" column="92" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1497856341543">
-        <mark key="[" line="117" column="25" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1497859773201">
+        <mark key="[" line="117" column="19" />
         <mark key="]" line="117" column="38" />
         <mark key="." line="117" column="38" />
         <mark key="^" line="117" column="38" />
@@ -237,11 +237,11 @@
       <jump line="76" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZEV4cGVjdCgpa2oK</text>
+      <register name="&quot;" type="4">
+        <text>searchName</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>searchName</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
@@ -318,7 +318,6 @@
         <entry>%s/that/this/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%s/var/let/g</entry>
-        <entry>0</entry>
         <entry>%s/thresholdSpeaker/_thresholdSpeaker/g</entry>
         <entry>%s/updateSpeakerInterval/_updateSpeakerInterval/g</entry>
         <entry>%s/subscribeToStreams/_subscribeToStreams/g</entry>
@@ -333,6 +332,7 @@
         <entry>q!</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />

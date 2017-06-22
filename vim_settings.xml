@@ -46,11 +46,10 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/index.ts" timestamp="1498104214845">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/index.ts" timestamp="1498132229714">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498109010352">
         <mark key="'" line="190" column="34" />
@@ -71,12 +70,12 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498131303618">
-        <mark key="'" line="46" column="64" />
-        <mark key="[" line="41" column="83" />
-        <mark key="]" line="34" column="51" />
-        <mark key="." line="34" column="51" />
-        <mark key="^" line="34" column="51" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498132912816">
+        <mark key="'" line="44" column="49" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="44" />
+        <mark key="." line="4" column="44" />
+        <mark key="^" line="4" column="44" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1497086135943">
         <mark key="'" line="62" column="6" />
@@ -129,12 +128,12 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498131326552">
-        <mark key="'" line="139" column="59" />
-        <mark key="[" line="146" column="88" />
-        <mark key="]" line="146" column="98" />
-        <mark key="." line="146" column="98" />
-        <mark key="^" line="146" column="98" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498133726811">
+        <mark key="'" line="156" column="59" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="132" />
+        <mark key="." line="160" column="0" />
+        <mark key="^" line="159" column="16" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -161,11 +160,11 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared-libs.module.ts" timestamp="1498129866848">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="17" />
-        <mark key="^" line="24" column="17" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared-libs.module.ts" timestamp="1498132339546">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.service.ts" timestamp="1498004282956">
         <mark key="[" line="11" column="5" />
@@ -181,11 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="20" filename="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Rendering/GeneratingThumbnailFromSlideInNotesSlidesView.java" />
-      <jump line="13" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
-      <jump line="76" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
-      <jump line="131" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
-      <jump line="81" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="39" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="49" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="77" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
@@ -204,7 +198,6 @@
       <jump line="22" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="30" column="73" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="16" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="33" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="49" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="50" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="18" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
@@ -255,7 +248,6 @@
       <jump line="126" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="83" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="66" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="97" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="67" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="63" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="157" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
@@ -279,57 +271,64 @@
       <jump line="15" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
       <jump line="25" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
       <jump line="161" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="160" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="0" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="139" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="97" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="33" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="39" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="42" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="47" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>companyList</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiBuYW1lPSJ0ZXN0IiAjdGVzdCBbZGF0YXNvdXJjZV09ImRhdGFTZXJ2aWNlIiA+PC9uZzItY29tcGxldGVyPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>companyList</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>formCon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcGxldGVyU2VydmljZSwgQ29tcGxldGVyRGF0YSB9IGZyb20gJ25nMi1jb21wbGV0ZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiBuYW1lPSJ0ZXN0IiAjdGVzdCBbZGF0YXNvdXJjZV09ImRhdGFTZXJ2aWNlIiA+PC9uZzItY29tcGxldGVyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcH0xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiBuYW1lPSJ0ZXN0IiAjdGVzdCBbZGF0YXNvdXJjZV09ImRhdGFTZXJ2aWNlIiA+PC9uZzItY29tcGxldGVyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3ViamVjdCB9IGZyb20gJ3J4anMvU3ViamVjdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxuZzItY29tcGxldGVyICBbKG5nTW9kZWwpXT0ic2VhcmNoU3RyIiBuYW1lPSJrZXl3b3JkIiBbZGF0YXNvdXJjZV09ImRhdGFTZXJ2aWNlIiA+PC9uZzItY29tcGxldGVyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKc29ucE1vZHVsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InNlYXJjaFN0ciIgW2RhdGFzb3VyY2VdPSJkYXRhU2VydmljZSIgPjwvbmcyLWNvbXBsZXRlcj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InNlYXJjaFN0ciIgW2RhdGFzb3VyY2VdPSJkYXRhc2VydmljZSIgPjwvbmcyLWNvbXBsZXRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4K</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InNlYXJjaFN0ciIgW2RhdGFzb3VyY2VdPSJkYXRhU2VydmljZSIgPjwvbmcyLWNvbXBsZXRlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSAoY2xpY2spPSJzZWxlY3QoY29tcGFueS5pZCkiPnt7Y29tcGFueS5uYW1lfX08L2E+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGxldGVyU2VydmljZSwgQ29tcGxldGVyRGF0YSB9IGZyb20gJ25nMi1jb21wbGV0ZXInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>formCon</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>formCon</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -337,10 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userManagement</entry>
-        <entry>registerForm</entry>
-        <entry>ngForm</entry>
-        <entry>create</entry>
         <entry>share</entry>
         <entry>file</entry>
         <entry>File</entry>
@@ -356,10 +351,13 @@
         <entry encoding="base64">XDw+XD4=</entry>
         <entry>ngFor</entry>
         <entry>ng2</entry>
+        <entry>dataservice</entry>
+        <entry>dataService</entry>
         <entry>company</entry>
+        <entry>form</entry>
+        <entry>formCon</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/that/this/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%s/var/let/g</entry>
         <entry>%s/thresholdSpeaker/_thresholdSpeaker/g</entry>
@@ -378,6 +376,7 @@
         <entry>wq</entry>
         <entry>ㅈ</entry>
         <entry>%s/companies/companyList/g</entry>
+        <entry>142</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

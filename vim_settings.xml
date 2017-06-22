@@ -70,12 +70,18 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498108463209">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="67" column="43" />
-        <mark key="]" line="67" column="41" />
-        <mark key="." line="67" column="41" />
-        <mark key="^" line="67" column="41" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/SecurityConfiguration.java" timestamp="1498111848281">
+        <mark key="[" line="141" column="47" />
+        <mark key="]" line="141" column="49" />
+        <mark key="." line="141" column="49" />
+        <mark key="^" line="141" column="49" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498112095339">
+        <mark key="'" line="71" column="4" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+        <mark key="^" line="68" column="9" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1497086135943">
         <mark key="'" line="62" column="6" />
@@ -109,11 +115,6 @@
         <mark key="]" line="35" column="119" />
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1497087381709">
-        <mark key="[" line="124" column="16" />
-        <mark key="]" line="124" column="54" />
-        <mark key="." line="123" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498086401617">
         <mark key="'" line="84" column="33" />
@@ -270,44 +271,44 @@
       <jump line="190" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbS5uZXh0KGtleXdvcmQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImNvbXBhbnkiIG5hbWU9ImNvbXBhbnkiICNjb21wYW55PSJuZ01vZGVsIiBwbGFjZWhvbGRlcj0ie3snZ2xvYmFsLmZvcm0uY29tcGFueS5wbGFjZWhvbGRlcicgfCB0cmFuc2xhdGV9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiAoa2V5dXApPSJzZWFyY2hDb21wYW55KGNvbXBhbnkudmFsdWUpIiBtaW5sZW5ndGg9NSBtYXhsZW5ndGg9NTAgcmVxdWlyZWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbS5uZXh0KGtleXdvcmQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5qc29ucAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlRXJyb3IgfSBmcm9tICcuLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5qc29ucAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlRXJyb3IgfSBmcm9tICcuLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -346,7 +347,6 @@
         <entry>login</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/mainSpeaker/_mainSpeaker/g</entry>
         <entry>%s/ = function //g</entry>
         <entry>%s/that/this/g</entry>
         <entry>%s/&quot;/'/g</entry>
@@ -365,6 +365,7 @@
         <entry>q!</entry>
         <entry>0</entry>
         <entry>wq</entry>
+        <entry>ㅈ</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

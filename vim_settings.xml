@@ -15,7 +15,6 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.service.ts" timestamp="1498006071737" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1497075264052">
         <mark key="'" line="37" column="13" />
         <mark key="[" line="53" column="42" />
@@ -29,7 +28,6 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/service/util/DRMDecodeAndAddWatermarkTest.java" timestamp="1497857700377" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1497087248346">
         <mark key="[" line="149" column="5" />
         <mark key="]" line="151" column="31" />
@@ -90,7 +88,6 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/sessions/sessions.service.ts" timestamp="1498108332147" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/MemberRepository.java" timestamp="1497083494280">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
@@ -122,12 +119,12 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498114910817">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498122008560">
         <mark key="'" line="136" column="25" />
-        <mark key="[" line="144" column="85" />
-        <mark key="]" line="144" column="89" />
-        <mark key="^" line="144" column="89" />
-        <mark key="." line="144" column="89" />
+        <mark key="[" line="143" column="28" />
+        <mark key="]" line="143" column="28" />
+        <mark key="." line="143" column="28" />
+        <mark key="^" line="143" column="32" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -160,7 +157,6 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.model.ts" timestamp="1498005012959" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.service.ts" timestamp="1498004282956">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="9" />
@@ -278,52 +274,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>ngFor</text>
+        <text encoding="base64">XDw+XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VhcmNoaW5nOiAnICsgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC91aS1zZWxlY3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSAqbmdGb3I9ImxldCBjb21wYW55IG9mIGNvbXBhbnlMaXN0IHwgYXN5bmMiPnt7Y29tcGFueX19PC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWktc2VsZWN0LWNob2ljZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ODthdXRvZXZlcjsxOzEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdCByZXNldC1zZWFyY2gtaW5wdXQ9ImZhbHNlIiBuZy1tb2RlbD0icmVnaXN0ZXJBY2NvdW50LmNvbXBhbnkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVpLXNlbGVjdC1tYXRjaCBhbGxvdy1jbGVhcj0idHJ1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gbmctYmluZD0iJHNlbGVjdC5zZWxlY3RlZC5uYW1lIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VpLXNlbGVjdC1tYXRjaD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1aS1zZWxlY3QtY2hvaWNlcyByZWZyZXNoPSJzZWFyY2hDb21wYW55KCRzZWxlY3Quc2VhcmNoKSIgcmVmcmVzaC1kZWxheT0iMjAwIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcGVhdD0iaXRlbSBpbiAoY29tcGFueUxpc3QpIHRyYWNrIGJ5IGl0ZW0uaWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIG5nLWJpbmQ9Iml0ZW0ubmFtZSI+PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb250cm9sLWxhYmVsIiB0cmFuc2xhdGU9Iml0eSI+b3RoZXJFbnRpdHk8L2xhYmVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VhcmNoaW5nOiAnICsgbmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSAqbmdGb3I9ImxldCBjb21wYW55IG9mIGNvbXBhbnlMaXN0IHwgYXN5bmMiPnt7Y29tcGFueX19PC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ngFor</last-search>
+      <last-search encoding="base64">XDw+XD4=</last-search>
       <last-offset />
-      <last-pattern>ngFor</last-pattern>
+      <last-pattern encoding="base64">XDw+XD4=</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>username</entry>
         <entry>userManagement</entry>
         <entry>registerForm</entry>
@@ -351,6 +346,7 @@
         <entry>company</entry>
         <entry>search</entry>
         <entry>ngFor</entry>
+        <entry encoding="base64">XDw+XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/that/this/g</entry>

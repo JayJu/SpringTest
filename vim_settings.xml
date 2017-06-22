@@ -128,12 +128,12 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498133726811">
-        <mark key="'" line="156" column="59" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="132" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="159" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498135113804">
+        <mark key="'" line="157" column="59" />
+        <mark key="[" line="142" column="41" />
+        <mark key="]" line="142" column="43" />
+        <mark key="." line="142" column="43" />
+        <mark key="^" line="142" column="43" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -282,8 +282,8 @@
       <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bmcyLWNvbXBsZXRlciAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiBuYW1lPSJ0ZXN0IiAjdGVzdCBbZGF0YXNvdXJjZV09ImRhdGFTZXJ2aWNlIiA+PC9uZzItY29tcGxldGVyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>

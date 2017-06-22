@@ -57,25 +57,25 @@
         <mark key="^" line="27" column="43" />
         <mark key="." line="27" column="43" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1497850585594">
-        <mark key="'" line="207" column="48" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498109010352">
+        <mark key="'" line="190" column="34" />
         <mark key="[" line="142" column="4" />
         <mark key="]" line="142" column="5" />
         <mark key="^" line="142" column="5" />
         <mark key="." line="142" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1498107582456">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1498108682963">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498106588815">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="42" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498108463209">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="67" column="43" />
+        <mark key="]" line="67" column="41" />
+        <mark key="." line="67" column="41" />
+        <mark key="^" line="67" column="41" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1497086135943">
         <mark key="'" line="62" column="6" />
@@ -84,7 +84,7 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/sessions/sessions.service.ts" timestamp="1498005854447" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/sessions/sessions.service.ts" timestamp="1498108332147" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/MemberRepository.java" timestamp="1497083494280">
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
@@ -129,7 +129,7 @@
         <mark key="." line="222" column="95" />
         <mark key="^" line="222" column="95" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1497859773201">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1498108928677">
         <mark key="[" line="117" column="19" />
         <mark key="]" line="117" column="38" />
         <mark key="." line="117" column="38" />
@@ -168,12 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="33" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="73" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
-      <jump line="105" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
-      <jump line="794" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
-      <jump line="86" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
       <jump line="47" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.jhipster/jhipster/1.1.3/1a6d1423cd1c39f84962dd4677bfb6f26bb44485/jhipster-1.1.3-sources.jar!/io/github/jhipster/config/JHipsterProperties.java" />
       <jump line="47" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="50" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
@@ -254,7 +248,6 @@
       <jump line="133" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" />
       <jump line="58" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" />
       <jump line="56" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
-      <jump line="212" column="54" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="214" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="227" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="206" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
@@ -268,55 +261,62 @@
       <jump line="97" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="67" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="63" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="157" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="191" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="211" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="212" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="87" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="94" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="190" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>searchCompany</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImNvbXBhbnkiIG5hbWU9ImNvbXBhbnkiICNjb21wYW55PSJuZ01vZGVsIiBwbGFjZWhvbGRlcj0ie3snZ2xvYmFsLmZvcm0uY29tcGFueS5wbGFjZWhvbGRlcicgfCB0cmFuc2xhdGV9fSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiAoa2V5dXApPSJzZWFyY2hDb21wYW55KGNvbXBhbnkudmFsdWUpIiBtaW5sZW5ndGg9NSBtYXhsZW5ndGg9NTAgcmVxdWlyZWQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlRXJyb3IgfSBmcm9tICcuLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgMTAxNTMzMSBvbiAyMDE3LTA2LTIxLgogKi8KaW1wb3J0IHsgSW5qZWN0YWJsZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnOwppbXBvcnQgeyBKc29ucCB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwppbXBvcnQgeyBoYW5kbGVFcnJvciB9IGZyb20gJy4uL2FzeW5jLWhhbmRsaW5nLm9ic2VydmFibGUnOwoKQEluamVjdGFibGUoKQpleHBvcnQgY2xhc3MgQ29tcGFueVNlcnZpY2UgewogICAgcHJpdmF0ZSByZXNvdXJjZVVybCA9ICcvYXBpL2NvbXBhbmllcyc7CgogICAgY29uc3RydWN0b3IocHJpdmF0ZSBqc29ucDogSnNvbnApIHsgfQoKICAgc2VhcmNoKG5hbWU6IHN0cmluZykgewogICAgICAgIGNvbnNvbGUubG9nKCdzZWFyY2hpbmc6ICcgKyBuYW1lKTsKCiAgICAgICAgcmV0dXJuIHRoaXMuanNvbnAKICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCiAgICAgICAgICAgIC5tYXAocmVzID0+IDxzdHJpbmdbXT5yZXMuanNvbigpWzFdKQogICAgICAgICAgICAuY2F0Y2goaGFuZGxlRXJyb3IpOwogICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5odHRwLmdldChgJHtra2t0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5qc29ucAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHBhcmFtcy5zZXQK</text>
+        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlRXJyb3IgfSBmcm9tICcuLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSnNvbnBNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9odHRwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGtkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>searchCompany</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>searchCompany</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>_localParticipant</last-replace>
       <last-substitute>localParticipant</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>registerAccount</entry>
         <entry>form</entry>
         <entry>dirty</entry>
         <entry>name</entry>
@@ -344,6 +343,7 @@
         <entry>company</entry>
         <entry>search</entry>
         <entry>searchCompany</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>%s/mainSpeaker/_mainSpeaker/g</entry>

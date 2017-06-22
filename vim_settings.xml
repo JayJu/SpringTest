@@ -46,9 +46,6 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/ConferenceApproval.java" timestamp="1497348275543">
-        <mark key="'" line="58" column="26" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/index.ts" timestamp="1498104214845">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="27" column="43" />
@@ -113,18 +110,24 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/browser-sync/lib/templates/script-tags.tmpl" timestamp="1498123617123">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="58" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/vm/ManagedMemberVM.java" timestamp="1497087310146">
         <mark key="[" line="35" column="109" />
         <mark key="]" line="35" column="119" />
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498122008560">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498123078295">
         <mark key="'" line="136" column="25" />
-        <mark key="[" line="143" column="28" />
-        <mark key="]" line="143" column="28" />
-        <mark key="." line="143" column="28" />
-        <mark key="^" line="143" column="32" />
+        <mark key="[" line="145" column="80" />
+        <mark key="]" line="145" column="80" />
+        <mark key="." line="145" column="80" />
+        <mark key="^" line="145" column="84" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -274,10 +277,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw+XD4=</text>

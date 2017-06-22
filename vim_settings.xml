@@ -64,11 +64,11 @@
         <mark key="^" line="142" column="5" />
         <mark key="." line="142" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1498112888549">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="38" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="13" column="38" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1498114816210">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="46" />
+        <mark key="^" line="14" column="71" />
+        <mark key="." line="16" column="46" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/SecurityConfiguration.java" timestamp="1498111848281">
         <mark key="[" line="141" column="47" />
@@ -76,12 +76,12 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498113113023">
-        <mark key="'" line="27" column="10" />
-        <mark key="[" line="69" column="60" />
-        <mark key="]" line="69" column="60" />
-        <mark key="." line="69" column="60" />
-        <mark key="^" line="69" column="24" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498114585664">
+        <mark key="'" line="44" column="64" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1497086135943">
         <mark key="'" line="62" column="6" />
@@ -122,12 +122,12 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498113147343">
-        <mark key="'" line="0" column="34" />
-        <mark key="[" line="143" column="74" />
-        <mark key="]" line="143" column="80" />
-        <mark key="^" line="143" column="80" />
-        <mark key="." line="143" column="80" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498114910817">
+        <mark key="'" line="136" column="25" />
+        <mark key="[" line="144" column="85" />
+        <mark key="]" line="144" column="89" />
+        <mark key="^" line="144" column="89" />
+        <mark key="." line="144" column="89" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -175,10 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="16" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="57" column="4" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
       <jump line="68" column="33" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
       <jump line="90" column="31" filename="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/resources/config/mybatis/mapper/BackupMapper.xml" />
       <jump line="40" column="26" filename="D:/Downloads/Chrome/Aspose.Slides-for-Java-master/Examples/src/main/java/com/aspose/slides/examples/Slides/Rendering/GeneratingThumbnailFromSlideInNotesSlidesView.java" />
@@ -210,7 +206,6 @@
       <jump line="30" column="73" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="16" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="33" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="41" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="49" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="50" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="18" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
@@ -275,55 +270,60 @@
       <jump line="152" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="156" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="0" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="28" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="30" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="41" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="44" column="64" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="136" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ODthdXRvZXZlcjsxOzEK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>ngFor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ODthdXRvZXZlcjsxOzEK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2VhcmNoaW5nOiAnICsgbmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSAqbmdGb3I9ImxldCBjb21wYW55IG9mIGNvbXBhbnlMaXN0IHwgYXN5bmMiPnt7Y29tcGFueX19PC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
+        <text encoding="base64">ODthdXRvZXZlcjsxOzEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5qc29ucAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKGhhbmRsZUVycm9yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGFuZGxlRXJyb3IgfSBmcm9tICcuLi9hc3luYy1oYW5kbGluZy5vYnNlcnZhYmxlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm1hcCgocmVzKSA9PiA8c3RyaW5nW10+cmVzLmpzb24oKVsxXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmdldChgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>ngFor</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>ngFor</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -331,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dirty</entry>
         <entry>name</entry>
         <entry>username</entry>
         <entry>userManagement</entry>
@@ -346,11 +345,12 @@
         <entry>Like</entry>
         <entry>Contain</entry>
         <entry>page</entry>
-        <entry>search</entry>
         <entry>searchCompany</entry>
         <entry>login</entry>
         <entry>companies</entry>
         <entry>company</entry>
+        <entry>search</entry>
+        <entry>ngFor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/that/this/g</entry>

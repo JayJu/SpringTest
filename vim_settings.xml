@@ -34,11 +34,11 @@
         <mark key="^" line="205" column="50" />
         <mark key="." line="205" column="50" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1497859803381">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="18" />
-        <mark key="^" line="69" column="18" />
-        <mark key="." line="69" column="18" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/CompanyService.java" timestamp="1498197683291">
+        <mark key="[" line="84" column="87" />
+        <mark key="]" line="88" column="33" />
+        <mark key="." line="88" column="33" />
+        <mark key="^" line="88" column="33" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1498196479436">
         <mark key="[" line="21" column="48" />
@@ -70,12 +70,12 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498196108545">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498197997283">
         <mark key="'" line="44" column="49" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="4" column="44" />
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="22" />
+        <mark key="." line="55" column="22" />
+        <mark key="^" line="55" column="22" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1497086135943">
         <mark key="'" line="62" column="6" />
@@ -133,11 +133,12 @@
         <mark key="." line="123" column="55" />
         <mark key="^" line="123" column="55" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498190599375">
-        <mark key="[" line="142" column="43" />
-        <mark key="]" line="142" column="62" />
-        <mark key="^" line="142" column="62" />
-        <mark key="." line="142" column="62" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498198032427">
+        <mark key="'" line="141" column="40" />
+        <mark key="[" line="141" column="63" />
+        <mark key="]" line="141" column="66" />
+        <mark key="^" line="141" column="66" />
+        <mark key="." line="141" column="66" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -176,17 +177,15 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" timestamp="1498196544000">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" timestamp="1498197920894">
         <mark key="'" line="21" column="13" />
-        <mark key="[" line="87" column="74" />
-        <mark key="]" line="87" column="74" />
-        <mark key="." line="87" column="74" />
-        <mark key="^" line="87" column="74" />
+        <mark key="[" line="87" column="77" />
+        <mark key="]" line="87" column="77" />
+        <mark key="." line="87" column="77" />
+        <mark key="^" line="87" column="77" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="81" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="145" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="219" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="220" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="142" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
@@ -280,60 +279,62 @@
       <jump line="42" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="47" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="147" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="49" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="50" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="87" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="21" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" />
+      <jump line="145" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="147" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="141" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDb21wYW55IHVzZXJDb21wYW55ID0gY29tcGFueVJlcG9zaXRvcnkuZmluZE9uZUJ5TmFtZShjb21wYW55TmFtZSkuZ2V0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>companyRepository</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>registerAccount.company</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55UmVwb3NpdG9yeS5maW5kb24K</text>
+        <text encoding="base64">ICAgICAgICBDb21wYW55IHVzZXJDb21wYW55ID0gY29tcGFueVJlcG9zaXRvcnkuZmluZE9uZUJ5TmFtZShjb21wYW55TmFtZSkuZ2V0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueUlkOiAnMScsCg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55UmVwb3NpdG9yeS5maW5kb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpICpuZ0Zvcj0ibGV0IGNvbXBhbnkgb2YgY29tcGFueUxpc3QgfGFzeW5jIj57e2NvbXBhbnkubmFtZX19PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcGFueUlkOiAnMScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmd1aS1hdXRvLWNvbXBsZXRlIFsobmdNb2RlbCldPSJyZWdpc3RlckFjY291bnQuY29tcGFueSIgW3NvdXJjZV09InNlYXJjaENvbXBhbnkoY29tcGFueS52YWx1ZSkiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpICpuZ0Zvcj0ibGV0IGNvbXBhbnkgb2YgY29tcGFueUxpc3QgfGFzeW5jIj57e2NvbXBhbnkubmFtZX19PC9saT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmd1aS1hdXRvLWNvbXBsZXRlIFsobmdNb2RlbCldPSJyZWdpc3RlckFjY291bnQuY29tcGFueSIgW3NvdXJjZV09ImNvbXBhbnlMaXN0Ii8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBuZ3VpLWF1dG8tY29tcGxldGUgWyhuZ01vZGVsKV09InJlZ2lzdGVyQWNjb3VudC5jb21wYW55IiBbc291cmNlXT0iY29tcGFueUxpc3QiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmd1aS1hdXRvLWNvbXBsZXRlIFsobmdNb2RlbCldPSJyZWdpc3RlckFjY291bnQuY29tcGFueSIgW3NvdXJjZV09InNlYXJjaENvbXBhbnkoY29tcGFueS52YWx1ZSkiLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmd1aS1hdXRvLWNvbXBsZXRlIFsobmdNb2RlbCldPSJyZWdpc3RlckFjY291bnQuY29tcGFueSIgW3NvdXJjZV09ImNvbXBhbnlMaXN0Ii8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>registerAccount.company</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>registerAccount.company</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -341,7 +342,6 @@
     </search>
     <history>
       <history-search>
-        <entry>File</entry>
         <entry>Page</entry>
         <entry>like</entry>
         <entry>Like</entry>
@@ -358,9 +358,10 @@
         <entry>dataService</entry>
         <entry>form</entry>
         <entry>formCon</entry>
-        <entry>company</entry>
         <entry>register</entry>
         <entry>create</entry>
+        <entry>company</entry>
+        <entry>registerAccount.company</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>

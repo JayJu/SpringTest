@@ -126,6 +126,9 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498195543013">
+        <mark key="'" line="49" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498190599375">
         <mark key="[" line="142" column="43" />
         <mark key="]" line="142" column="62" />
@@ -177,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="77" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="3" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="223" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
@@ -277,6 +279,7 @@
       <jump line="47" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="147" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="49" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -286,7 +289,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text>register</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
@@ -323,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search>register</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern>register</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +336,6 @@
     </search>
     <history>
       <history-search>
-        <entry>share</entry>
         <entry>file</entry>
         <entry>File</entry>
         <entry>Page</entry>
@@ -353,6 +355,7 @@
         <entry>form</entry>
         <entry>formCon</entry>
         <entry>company</entry>
+        <entry>register</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>

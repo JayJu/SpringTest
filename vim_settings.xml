@@ -128,12 +128,12 @@
         <mark key="." line="35" column="119" />
         <mark key="^" line="35" column="119" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498135113804">
-        <mark key="'" line="157" column="59" />
-        <mark key="[" line="142" column="41" />
-        <mark key="]" line="142" column="43" />
-        <mark key="." line="142" column="43" />
-        <mark key="^" line="142" column="43" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498176262391">
+        <mark key="'" line="147" column="25" />
+        <mark key="[" line="165" column="43" />
+        <mark key="]" line="165" column="65" />
+        <mark key="." line="165" column="65" />
+        <mark key="^" line="165" column="65" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
         <mark key="'" line="76" column="40" />
@@ -180,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="49" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="77" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
       <jump line="3" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.gitignore" />
@@ -280,16 +279,17 @@
       <jump line="42" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="47" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="147" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>formCon</text>
+        <text>company</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
@@ -326,9 +326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>formCon</last-search>
+      <last-search>company</last-search>
       <last-offset />
-      <last-pattern>formCon</last-pattern>
+      <last-pattern>company</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -353,9 +353,9 @@
         <entry>ng2</entry>
         <entry>dataservice</entry>
         <entry>dataService</entry>
-        <entry>company</entry>
         <entry>form</entry>
         <entry>formCon</entry>
+        <entry>company</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>

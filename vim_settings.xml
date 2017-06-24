@@ -177,6 +177,9 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498266807034">
+        <mark key="'" line="238" column="77" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" timestamp="1498197920894">
         <mark key="'" line="21" column="13" />
         <mark key="[" line="87" column="77" />
@@ -186,9 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="220" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="142" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="163" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
       <jump line="19" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="25" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
@@ -286,6 +286,9 @@
       <jump line="145" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="147" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="141" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="11" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="15" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="238" column="77" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -295,7 +298,7 @@
         <text>companyRepository</text>
       </register>
       <register name="/" type="4">
-        <text>registerAccount.company</text>
+        <text>spring_boot_version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">MTthdXRvZXZlcjsxOzEK</text>
@@ -332,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>registerAccount.company</last-search>
+      <last-search>spring_boot_version</last-search>
       <last-offset />
-      <last-pattern>registerAccount.company</last-pattern>
+      <last-pattern>spring_boot_version</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Page</entry>
         <entry>like</entry>
         <entry>Like</entry>
         <entry>Contain</entry>
@@ -362,6 +364,7 @@
         <entry>create</entry>
         <entry>company</entry>
         <entry>registerAccount.company</entry>
+        <entry>spring_boot_version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>

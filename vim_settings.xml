@@ -203,7 +203,8 @@
         <mark key="." line="87" column="77" />
         <mark key="^" line="87" column="77" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1498455304695">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1498463781367">
+        <mark key="'" line="34" column="9" />
         <mark key="[" line="76" column="60" />
         <mark key="]" line="76" column="87" />
         <mark key="^" line="76" column="87" />
@@ -211,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="35" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="9" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="22" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
@@ -311,6 +311,7 @@
       <jump line="238" column="77" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
       <jump line="204" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
+      <jump line="34" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -320,7 +321,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Depart</text>
+        <text>persis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIiwgbGFuZ0tleT0nIiArIGxhbmdLZXkgKyAnXCcnICsK</text>
@@ -357,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Depart</last-search>
+      <last-search>persis</last-search>
       <last-offset />
-      <last-pattern>Depart</last-pattern>
+      <last-pattern>persis</last-pattern>
       <last-replace>companyList</last-replace>
       <last-substitute>companies</last-substitute>
       <last-dir>1</last-dir>
@@ -367,8 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Contain</entry>
-        <entry>page</entry>
         <entry>searchCompany</entry>
         <entry>login</entry>
         <entry>companies</entry>
@@ -381,12 +380,14 @@
         <entry>form</entry>
         <entry>formCon</entry>
         <entry>register</entry>
-        <entry>create</entry>
         <entry>company</entry>
         <entry>registerAccount.company</entry>
         <entry>spring_boot_version</entry>
         <entry>approval_code</entry>
         <entry>Depart</entry>
+        <entry>resetDate</entry>
+        <entry>create</entry>
+        <entry>persis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/g</entry>

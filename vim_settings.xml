@@ -21,13 +21,6 @@
         <mark key="^" line="35" column="3" />
         <mark key="." line="35" column="3" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1497075264052">
-        <mark key="'" line="37" column="13" />
-        <mark key="[" line="53" column="42" />
-        <mark key="]" line="53" column="53" />
-        <mark key="." line="53" column="53" />
-        <mark key="^" line="53" column="53" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/user-management.json" timestamp="1497075662999">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="19" />
@@ -53,7 +46,7 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073107_added_entity_Member.xml" timestamp="1498455753163" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073107_added_entity_Member.xml" timestamp="1498461708542" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498455208085">
         <mark key="'" line="206" column="13" />
         <mark key="[" line="206" column="54" />
@@ -73,12 +66,11 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498197997283">
-        <mark key="'" line="44" column="49" />
-        <mark key="[" line="55" column="19" />
-        <mark key="]" line="55" column="22" />
-        <mark key="." line="55" column="22" />
-        <mark key="^" line="55" column="22" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/AddressGroup.json" timestamp="1498463011889">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="18" />
+        <mark key="." line="49" column="18" />
+        <mark key="^" line="49" column="18" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1498445939337">
         <mark key="'" line="46" column="12" />
@@ -93,13 +85,6 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1497347554615">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="143" column="17" />
-        <mark key="]" line="143" column="22" />
-        <mark key="^" line="143" column="22" />
-        <mark key="." line="143" column="22" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.model.ts" timestamp="1498005563179">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="40" />
@@ -112,17 +97,35 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" timestamp="1498460451398">
-        <mark key="[" line="119" column="52" />
-        <mark key="]" line="119" column="55" />
-        <mark key="^" line="119" column="55" />
-        <mark key="." line="119" column="55" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" timestamp="1498462108268">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="65" column="11" />
+        <mark key="^" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/AddressBook.json" timestamp="1498462619920">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="18" />
+        <mark key="." line="78" column="18" />
+        <mark key="^" line="78" column="18" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/browser-sync/lib/templates/script-tags.tmpl" timestamp="1498123617123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="58" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" timestamp="1498462258155">
+        <mark key="[" line="23" column="65" />
+        <mark key="]" line="23" column="69" />
+        <mark key="." line="23" column="69" />
+        <mark key="^" line="23" column="69" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_AddressBook.xml" timestamp="1498462220571">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/vm/ManagedMemberVM.java" timestamp="1498196050906">
         <mark key="[" line="35" column="121" />
@@ -153,27 +156,6 @@
         <mark key="]" line="120" column="0" />
         <mark key="^" line="77" column="23" />
         <mark key="." line="120" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498196175635">
-        <mark key="'" line="87" column="25" />
-        <mark key="[" line="123" column="52" />
-        <mark key="]" line="123" column="55" />
-        <mark key="." line="123" column="55" />
-        <mark key="^" line="123" column="55" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498198032427">
-        <mark key="'" line="141" column="40" />
-        <mark key="[" line="141" column="63" />
-        <mark key="]" line="141" column="66" />
-        <mark key="^" line="141" column="66" />
-        <mark key="." line="141" column="66" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/test/java/com/hae/hvcs/web/rest/CompanyResourceIntTest.java" timestamp="1497858056165">
-        <mark key="'" line="76" column="40" />
-        <mark key="[" line="218" column="84" />
-        <mark key="]" line="222" column="95" />
-        <mark key="." line="222" column="95" />
-        <mark key="^" line="222" column="95" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1498108928677">
         <mark key="[" line="117" column="19" />
@@ -332,10 +314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Depart</text>
@@ -344,31 +326,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIiwgbGFuZ0tleT0nIiArIGxhbmdLZXkgKyAnXCcnICsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJpc19lbmFibGVkIiB0eXBlPSJiaXQiPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJ1c2VyX2lkIiB0eXBlPSJiaWdpbnQiPgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICBQZXJzaXN0ZW50VG9rZW5SZXBvc2l0b3J5IHBlcnNpc3RlbnRUb2tlblJlcG9zaXRvcnksIEF1dGhvcml0eVJlcG9zaXRvcnkgYXV0aG9yaXR5UmVwb3NpdG9yeSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJuYW1lIiB0eXBlPSJ2YXJjaGFyKDI1NSkiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

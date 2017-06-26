@@ -34,6 +34,7 @@
         <mark key="." line="16" column="19" />
         <mark key="^" line="16" column="19" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073107_added_entity_constraints_Member.xml" timestamp="1498460371369" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1498450326533">
         <mark key="[" line="205" column="44" />
         <mark key="]" line="205" column="50" />
@@ -111,11 +112,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" timestamp="1498455750721">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="61" column="11" />
-        <mark key="^" line="61" column="11" />
-        <mark key="." line="61" column="11" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" timestamp="1498460451398">
+        <mark key="[" line="119" column="52" />
+        <mark key="]" line="119" column="55" />
+        <mark key="^" line="119" column="55" />
+        <mark key="." line="119" column="55" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/browser-sync/lib/templates/script-tags.tmpl" timestamp="1498123617123">
         <mark key="[" line="0" column="0" />
@@ -330,11 +331,11 @@
       <jump line="204" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Depart</text>

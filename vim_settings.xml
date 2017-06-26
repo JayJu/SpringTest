@@ -126,11 +126,11 @@
         <mark key="." line="35" column="124" />
         <mark key="^" line="35" column="124" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/UserResource.java" timestamp="1498439401729">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="^" line="153" column="80" />
-        <mark key="." line="153" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/UserResource.java" timestamp="1498442674666">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="36" />
+        <mark key="^" line="70" column="36" />
+        <mark key="." line="70" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498196175635">
         <mark key="'" line="87" column="25" />
@@ -297,11 +297,11 @@
       <jump line="238" column="77" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlciB1c2VyID0gdXNlclJlcG9zaXRvcnkuZmluZE9uZShuZXdVc2VyLmdldElkKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>UserMemberService</text>
       </register>
       <register name="-" type="4">
-        <text>newUser</text>
+        <text>UserMemberService</text>
       </register>
       <register name="/" type="4">
         <text>spring_boot_version</text>

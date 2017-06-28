@@ -21,6 +21,9 @@
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1498615883870">
+        <mark key="'" line="3" column="11" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1498196479436">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="48" />
@@ -308,6 +311,9 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498615854298">
+        <mark key="'" line="108" column="13" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1498525542672">
         <mark key="'" line="34" column="9" />
         <mark key="[" line="73" column="0" />
@@ -316,51 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="161" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="160" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="0" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="139" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="97" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="33" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="39" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="42" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="47" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="157" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="49" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="50" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="21" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" />
-      <jump line="145" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="147" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="141" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="11" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="15" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="238" column="77" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="204" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" />
-      <jump line="34" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" />
-      <jump line="249" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="252" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="260" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="265" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="267" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="271" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="273" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="285" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="290" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="292" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="296" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="298" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="310" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="319" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="323" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="328" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="340" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="354" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" />
-      <jump line="14" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Company.java" />
-      <jump line="57" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Company.java" />
-      <jump line="106" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Company.java" />
-      <jump line="236" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" />
       <jump line="284" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" />
       <jump line="288" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" />
       <jump line="87" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
@@ -416,6 +377,51 @@
       <jump line="58" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="54" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
       <jump line="57" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
+      <jump line="26" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="109" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="112" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="114" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="118" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="122" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="239" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="251" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="1" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="10" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="13" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="14" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="16" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="17" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="18" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="19" column="87" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="104" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="105" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="106" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="107" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="108" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="30" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="4" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="5" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="6" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="8" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="9" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="10" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="11" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="12" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="13" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="14" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="15" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="16" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="17" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="18" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="19" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="20" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="21" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="22" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="23" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="24" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="25" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="2" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="3" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -425,7 +431,7 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>department</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJ1c2VybmFtZSI6IHsKICAgICAgICAgICAgICAgICAgICAicmVxdWlyZWQiOiAiu+e/68DaIMDMuKfAuiDA1LfCwMwgx8q/5MfVtM+02SIsCiAgICAgICAgICAgICAgICAgICAgIm1pbmxlbmd0aCI6ICK757/rwNogwMy4p8C6IMD7vu61tSAxwNogwMy788DMvu6+3yDH1bTPtNkiLAogICAgICAgICAgICAgICAgICAgICJtYXhsZW5ndGgiOiAiu+e/68DaIMDMuKfAuiDD1rTrIDUwwNogse7B9sDUtM+02SIKICAgICAgICAgICAgICAgIH0sCg==</text>
@@ -458,13 +464,13 @@
         <text encoding="base64">ICAgICAgICB1c2VyLnRvU3RyaW5nKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>department</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>department</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>departmentName</last-replace>
       <last-substitute>department</last-substitute>
       <last-dir>1</last-dir>
@@ -472,8 +478,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry>persis</entry>
         <entry>address</entry>
         <entry>members</entry>
         <entry>Member</entry>
@@ -492,6 +496,8 @@
         <entry>lastname</entry>
         <entry>depart</entry>
         <entry>department</entry>
+        <entry>gradle</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/participantsSpeaking/_participantsSpeaking/g</entry>
@@ -500,7 +506,6 @@
         <entry>%s/ee/_ee/g</entry>
         <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>ㅈ</entry>
         <entry>%s/companies/companyList/g</entry>
@@ -514,6 +519,7 @@
         <entry>%s/lastname/lastName/g</entry>
         <entry>%s/department/departmentName/g</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />

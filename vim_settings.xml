@@ -122,11 +122,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.model.ts" timestamp="1498626642940">
-        <mark key="[" line="53" column="57" />
-        <mark key="]" line="54" column="47" />
-        <mark key="^" line="54" column="47" />
-        <mark key="." line="54" column="47" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.model.ts" timestamp="1498628624419">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" timestamp="1498623876578">
         <mark key="'" line="110" column="64" />
@@ -155,6 +155,9 @@
         <mark key="." line="87" column="77" />
         <mark key="^" line="87" column="77" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
+        <mark key="'" line="158" column="36" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1498551086188">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="48" column="37" />
@@ -174,11 +177,11 @@
         <mark key="^" line="29" column="26" />
         <mark key="." line="29" column="26" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.html" timestamp="1498627337671">
-        <mark key="[" line="22" column="85" />
-        <mark key="]" line="22" column="92" />
-        <mark key="." line="22" column="92" />
-        <mark key="^" line="22" column="92" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.html" timestamp="1498628804670">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="38" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1498473605647">
         <mark key="[" line="205" column="44" />
@@ -347,12 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" />
-      <jump line="28" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" />
-      <jump line="25" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" />
-      <jump line="43" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/CacheConfiguration.java" />
-      <jump line="52" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/CacheConfiguration.java" />
-      <jump line="53" column="75" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/CacheConfiguration.java" />
       <jump line="56" column="80" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/CacheConfiguration.java" />
       <jump line="22" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Company.java" />
       <jump line="146" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
@@ -447,55 +444,61 @@
       <jump line="6" column="7" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.service.ts" />
       <jump line="57" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.service.ts" />
       <jump line="17" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.service.ts" />
+      <jump line="111" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="78" column="40" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="85" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="86" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="87" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+      <jump line="158" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>saveAs</text>
+        <text>user-mana</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aCBqaGlTb3J0Qnk9ImFwcHJvdmFsQ29kZSI+IDxzcGFuIGpoaVRyYW5zbGF0ZT0idXNlck1hbmFnZW1lbnQuYXBwcm92YWxDb2RlIj5BcHByb3ZhbCBDb2RlPC9zcGFuPiA8c3BhbiBjbGFzcz0iZmEgZmEtc29ydCI+PC9zcGFuPjwvdGg+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD57e3VzZXIubGFuZ0tleX19PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8ZGl2ICpuZ0Zvcj0ibGV0IGF1dGhvcml0eSBvZiB1c2VyLmF1dGhvcml0aWVzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRhZyB0YWctaW5mbyI+e3sgYXV0aG9yaXR5IH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb21wYW55PzogYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpICsgIi5tZW1iZXJzIiwgamNhY2hlQ29uZmlndXJhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjb21wYW55PzogYW55Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpLCBqY2FjaGVDb25maWd1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpICsgIi5tZW1iZXJzIiwgamNhY2hlQ29uZmlndXJhdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlckFwcHJvdmFsLmNsYXNzLmdldE5hbWUoKSwgamNhY2hlQ29uZmlndXJhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpLCBqY2FjaGVDb25maWd1cmF0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlci5jbGFzcy5nZXROYW1lKCksIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlckFwcHJvdmFsLmNsYXNzLmdldE5hbWUoKSwgamNhY2hlQ29uZmlndXJhdGlvbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlci5jbGFzcy5nZXROYW1lKCksIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwcm92YWxfY29kZTogJ1InCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saveAs</last-search>
+      <last-search>user-mana</last-search>
       <last-offset />
-      <last-pattern>saveAs</last-pattern>
+      <last-pattern>user-mana</last-pattern>
       <last-replace>departmentName</last-replace>
       <last-substitute>department</last-substitute>
       <last-dir>1</last-dir>
@@ -503,10 +506,8 @@
     </search>
     <history>
       <history-search>
-        <entry>Member</entry>
         <entry>Employee</entry>
         <entry>managedMemberVM</entry>
-        <entry>user</entry>
         <entry>Company</entry>
         <entry>member</entry>
         <entry>users</entry>
@@ -523,6 +524,8 @@
         <entry>version</entry>
         <entry>auth</entry>
         <entry>saveAs</entry>
+        <entry>user</entry>
+        <entry>user-mana</entry>
       </history-search>
       <history-cmd>
         <entry>%s/participantsSpeaking/_participantsSpeaking/g</entry>

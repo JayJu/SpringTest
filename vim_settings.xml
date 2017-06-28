@@ -158,6 +158,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.service.ts" timestamp="1498629950114" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1498551086188">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="48" column="37" />
@@ -341,12 +342,6 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498615854298">
         <mark key="'" line="108" column="13" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/UserDTO.java" timestamp="1498525542672">
-        <mark key="'" line="34" column="9" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
       </file>
     </filemarks>
     <jumps>

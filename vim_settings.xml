@@ -79,6 +79,9 @@
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1498719331507">
+        <mark key="'" line="3" column="34" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/AddressBook.java" timestamp="1498449362125">
         <mark key="[" line="246" column="13" />
         <mark key="]" line="246" column="16" />
@@ -111,6 +114,9 @@
         <mark key="^" line="38" column="48" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MailService.java" timestamp="1498716978958" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" timestamp="1498719380047">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1498108928677">
         <mark key="[" line="117" column="19" />
         <mark key="]" line="117" column="38" />
@@ -301,6 +307,9 @@
         <mark key="." line="35" column="124" />
         <mark key="^" line="35" column="124" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/vm/ManagedUserVM.java" timestamp="1498455374327">
         <mark key="[" line="34" column="84" />
         <mark key="]" line="35" column="11" />
@@ -346,9 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="94" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="56" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
       <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
       <jump line="32" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/register.json" />
       <jump line="19" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/register.json" />
@@ -446,6 +452,9 @@
       <jump line="47" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="51" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="3" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" />
+      <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" />
+      <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,7 +464,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>JHipster</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -492,17 +501,16 @@
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>JHipster</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
-      <last-replace>departmentName</last-replace>
-      <last-substitute>department</last-substitute>
+      <last-pattern>JHipster</last-pattern>
+      <last-replace>HVCS</last-replace>
+      <last-substitute>JHipster</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uesrname</entry>
         <entry>error</entry>
         <entry>username</entry>
         <entry>firstname</entry>
@@ -522,9 +530,9 @@
         <entry>template</entry>
         <entry>mails</entry>
         <entry>mail</entry>
+        <entry>JHipster</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/participantsSpeaking/_participantsSpeaking/g</entry>
         <entry>%s/participants/_participants/g</entry>
         <entry>%s/streams/_streams/g</entry>
         <entry>%s/ee/_ee/g</entry>
@@ -543,6 +551,7 @@
         <entry>%s/department/departmentName/g</entry>
         <entry>q</entry>
         <entry>0</entry>
+        <entry>%s/JHipster/HVCS/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

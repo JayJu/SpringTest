@@ -57,22 +57,15 @@
         <mark key="^" line="146" column="13" />
         <mark key="." line="135" column="55" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/CacheConfiguration.java" timestamp="1498550195711">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" timestamp="1498177662399">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" timestamp="1498477359906">
         <mark key="'" line="25" column="58" />
         <mark key="[" line="25" column="54" />
         <mark key="]" line="25" column="57" />
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1498717084593">
+        <mark key="'" line="90" column="17" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_AddressBook.xml" timestamp="1498462220571">
         <mark key="[" line="56" column="0" />
@@ -117,6 +110,7 @@
         <mark key="." line="38" column="48" />
         <mark key="^" line="38" column="48" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MailService.java" timestamp="1498716978958" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/CompanyResource.java" timestamp="1498108928677">
         <mark key="[" line="117" column="19" />
         <mark key="]" line="117" column="38" />
@@ -173,7 +167,6 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.service.ts" timestamp="1498629950114" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1498551086188">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="48" column="37" />
@@ -210,11 +203,6 @@
         <mark key="]" line="88" column="33" />
         <mark key="." line="88" column="33" />
         <mark key="^" line="88" column="33" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/index.ts" timestamp="1498132229714">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498455208085">
         <mark key="'" line="206" column="13" />
@@ -255,8 +243,8 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1497347554615">
-        <mark key="'" line="37" column="21" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1498717136040">
+        <mark key="'" line="54" column="29" />
         <mark key="[" line="143" column="17" />
         <mark key="]" line="143" column="22" />
         <mark key="^" line="143" column="22" />
@@ -292,18 +280,13 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073109_added_entity_AddressGroup.xml" timestamp="1498477404296">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="4" column="103" />
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498637491773">
+      <file name="/Dummy.txt" timestamp="1498717455750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/mapper/UserMapper.java" timestamp="1498472344238">
@@ -324,7 +307,7 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498526911255">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498716674548">
         <mark key="'" line="227" column="62" />
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="15" />
@@ -363,20 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="142" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="85" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="48" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="96" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="54" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
-      <jump line="27" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="44" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="43" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="25" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="45" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="133" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="217" column="134" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="227" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="81" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="94" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="56" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
@@ -463,6 +432,20 @@
       <jump line="370" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" />
       <jump line="25" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-detail.component.html" />
       <jump line="159" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.html" />
+      <jump line="151" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
+      <jump line="217" column="134" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
+      <jump line="227" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
+      <jump line="94" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="21" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="80" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="90" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="31" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="45" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="47" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="51" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,7 +455,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Sho</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -509,9 +492,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sho</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>Sho</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>departmentName</last-replace>
       <last-substitute>department</last-substitute>
       <last-dir>1</last-dir>
@@ -519,13 +502,9 @@
     </search>
     <history>
       <history-search>
-        <entry>member</entry>
-        <entry>users</entry>
-        <entry>name</entry>
         <entry>uesrname</entry>
         <entry>error</entry>
         <entry>username</entry>
-        <entry>register</entry>
         <entry>firstname</entry>
         <entry>lastname</entry>
         <entry>department</entry>
@@ -539,6 +518,10 @@
         <entry>company</entry>
         <entry>companyName</entry>
         <entry>Sho</entry>
+        <entry>register</entry>
+        <entry>template</entry>
+        <entry>mails</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/participantsSpeaking/_participantsSpeaking/g</entry>

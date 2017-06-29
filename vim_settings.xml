@@ -57,6 +57,9 @@
         <mark key="^" line="146" column="13" />
         <mark key="." line="135" column="55" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" timestamp="1498722205359">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" timestamp="1498477359906">
         <mark key="'" line="25" column="58" />
         <mark key="[" line="25" column="54" />
@@ -122,6 +125,9 @@
         <mark key="]" line="117" column="38" />
         <mark key="." line="117" column="38" />
         <mark key="^" line="117" column="38" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" timestamp="1498551004245">
         <mark key="'" line="58" column="13" />
@@ -222,6 +228,9 @@
         <mark key="]" line="16" column="46" />
         <mark key="^" line="14" column="71" />
         <mark key="." line="16" column="46" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1498722176874">
+        <mark key="'" line="22" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498528247939">
         <mark key="'" line="55" column="12" />
@@ -355,9 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="32" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/register.json" />
-      <jump line="19" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/register.json" />
       <jump line="43" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="47" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
@@ -455,6 +461,9 @@
       <jump line="3" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" />
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" />
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" />
+      <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" />
+      <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" />
+      <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -464,7 +473,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>JHipster</text>
+        <text>hvcs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -501,17 +510,16 @@
       </register>
     </registers>
     <search>
-      <last-search>JHipster</last-search>
+      <last-search>hvcs</last-search>
       <last-offset />
-      <last-pattern>JHipster</last-pattern>
+      <last-pattern>hvcs</last-pattern>
       <last-replace>HVCS</last-replace>
-      <last-substitute>JHipster</last-substitute>
+      <last-substitute>hvcs</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>error</entry>
         <entry>username</entry>
         <entry>firstname</entry>
         <entry>lastname</entry>
@@ -531,9 +539,9 @@
         <entry>mails</entry>
         <entry>mail</entry>
         <entry>JHipster</entry>
+        <entry>hvcs</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/participants/_participants/g</entry>
         <entry>%s/streams/_streams/g</entry>
         <entry>%s/ee/_ee/g</entry>
         <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
@@ -552,6 +560,7 @@
         <entry>q</entry>
         <entry>0</entry>
         <entry>%s/JHipster/HVCS/g</entry>
+        <entry>%s/hvcs/HVCS/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -44,6 +44,13 @@
         <mark key="." line="157" column="29" />
         <mark key="^" line="50" column="35" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KurentoRoom.ts" timestamp="1498810298441">
+        <mark key="'" line="25" column="61" />
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="9" />
+        <mark key="^" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/SecurityConfiguration.java" timestamp="1498111848281">
         <mark key="[" line="141" column="47" />
         <mark key="]" line="141" column="49" />
@@ -81,6 +88,13 @@
         <mark key="]" line="14" column="57" />
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServer.ts" timestamp="1498810920229">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="320" column="26" />
+        <mark key="]" line="320" column="26" />
+        <mark key="^" line="320" column="26" />
+        <mark key="." line="320" column="26" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1498719331507">
         <mark key="'" line="3" column="34" />
@@ -169,11 +183,18 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="130" column="7" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1498809493720">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="59" />
-        <mark key="." line="0" column="29" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1498809570623">
+        <mark key="'" line="0" column="62" />
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASStream.ts" timestamp="1498810677179">
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="67" column="5" />
+        <mark key="." line="67" column="5" />
+        <mark key="^" line="72" column="42" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" timestamp="1498473620826">
         <mark key="'" line="21" column="13" />
@@ -304,6 +325,19 @@
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASWebRtcPeer.ts" timestamp="1498810390196">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="48" column="1" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="48" column="1" />
+        <mark key="^" line="48" column="1" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASRoom.ts" timestamp="1498810954818">
+        <mark key="'" line="31" column="41" />
+        <mark key="[" line="77" column="5" />
+        <mark key="]" line="77" column="5" />
+        <mark key="." line="77" column="5" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="4" column="103" />
@@ -368,17 +402,18 @@
         <mark key="^" line="11" column="9" />
         <mark key="." line="11" column="9" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServerAPI.ts" timestamp="1498810741586">
+        <mark key="'" line="36" column="18" />
+        <mark key="[" line="453" column="1" />
+        <mark key="]" line="453" column="1" />
+        <mark key="." line="453" column="1" />
+        <mark key="^" line="453" column="1" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498615854298">
         <mark key="'" line="108" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="30" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/register.json" />
-      <jump line="22" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/register.json" />
-      <jump line="132" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="184" column="97" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="185" column="144" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="186" column="56" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="44" column="51" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
@@ -473,13 +508,19 @@
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" />
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" />
       <jump line="299" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalWebRtcPeer.ts" />
+      <jump line="0" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" />
+      <jump line="26" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KurentoRoom.ts" />
+      <jump line="0" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASWebRtcPeer.ts" />
+      <jump line="36" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServerAPI.ts" />
+      <jump line="16" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServer.ts" />
+      <jump line="31" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASRoom.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -488,34 +529,34 @@
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNvbnRyb2wtbGFiZWwiIGpoaVRyYW5zbGF0ZT0idXNlck1hbmFnZW1lbnQuZW1haWwiPkVtYWlsPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJlbWFpbCIgI2VtYWlsSW5wdXQ9Im5nTW9kZWwiCiAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0idXNlci5lbWFpbCIgbWlubGVuZ3RoPSI1IiByZXF1aXJlZCBtYXhsZW5ndGg9IjEwMCI+CgogICAgICAgICAgICA8ZGl2ICpuZ0lmPSJlbWFpbElucHV0LmRpcnR5ICYmIGVtYWlsSW5wdXQuaW52YWxpZCI+CiAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LWRhbmdlciIKICAgICAgICAgICAgICAgICAgICpuZ0lmPSJlbWFpbElucHV0LmVycm9ycy5yZXF1aXJlZCIgamhpVHJhbnNsYXRlPSJlbnRpdHkudmFsaWRhdGlvbi5yZXF1aXJlZCI+CiAgICAgICAgICAgICAgICAgICAgVGhpcyBmaWVsZCBpcyByZXF1aXJlZC4KICAgICAgICAgICAgICAgIDwvc21hbGw+CgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiCiAgICAgICAgICAgICAgICAgICAqbmdJZj0iZW1haWxJbnB1dC5lcnJvcnMubWF4bGVuZ3RoIiBqaGlUcmFuc2xhdGU9ImVudGl0eS52YWxpZGF0aW9uLm1heGxlbmd0aCIKICAgICAgICAgICAgICAgICAgIHRyYW5zbGF0ZS12YWx1ZS1tYXg9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgVGhpcyBmaWVsZCBjYW5ub3QgYmUgbG9uZ2VyIHRoYW4gMTAwIGNoYXJhY3RlcnMuCiAgICAgICAgICAgICAgICA8L3NtYWxsPgoKICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0iZm9ybS10ZXh0IHRleHQtZGFuZ2VyIgogICAgICAgICAgICAgICAgICAgKm5nSWY9ImVtYWlsSW5wdXQuZXJyb3JzLm1pbmxlbmd0aCIgamhpVHJhbnNsYXRlPSJlbnRpdHkudmFsaWRhdGlvbi5taW5sZW5ndGgiCiAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGUtdmFsdWUtbWluPSI1Ij4KICAgICAgICAgICAgICAgICAgICBUaGlzIGZpZWxkIGlzIHJlcXVpcmVkIHRvIGJlIGF0IGxlYXN0IDUgY2hhcmFjdGVycy4KICAgICAgICAgICAgICAgIDwvc21hbGw+CgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiCiAgICAgICAgICAgICAgICAgICAqbmdJZj0iZW1haWxJbnB1dC5lcnJvcnMuZW1haWwiIGpoaVRyYW5zbGF0ZT0iZ2xvYmFsLm1lc3NhZ2VzLnZhbGlkYXRlLmVtYWlsLmludmFsaWQiPgogICAgICAgICAgICAgICAgICAgIFlvdXIgZW1haWwgaXMgaW52YWxpZC4KICAgICAgICAgICAgICAgICA8L3NtYWxsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImFjdGl2YXRlZCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIFtkaXNhYmxlZF09InVzZXIuaWQgPT09IG51bGwiIHR5cGU9ImNoZWNrYm94IiBpZD0iYWN0aXZhdGVkIiBuYW1lPSJhY3RpdmF0ZWQiIFsobmdNb2RlbCldPSJ1c2VyLmFjdGl2YXRlZCI+CiAgICAgICAgICAgICAgICA8c3BhbiBqaGlUcmFuc2xhdGU9InVzZXJNYW5hZ2VtZW50LmFjdGl2YXRlZCI+QWN0aXZhdGVkPC9zcGFuPgogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0tBU1Jvb20nOiBLQVNSb29tS0FTUm9vbSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgS0FTV2ViUnRjUGVlciB9IGZyb20gJy4vS0FTV2ViUnRjUGVlcic7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8ZGl2ICpuZ0Zvcj0ibGV0IGF1dGhvcml0eSBvZiB1c2VyLmF1dGhvcml0aWVzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRhZyB0YWctaW5mbyI+e3sgYXV0aG9yaXR5IH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">aW1wb3J0ICcuL0tBU0Nvbm5lY3Rpb24nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0ICogZnJvbSBLQVNTdHJlYW07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjb21wYW55PzogYW55Owo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNvbnRyb2wtbGFiZWwiIGpoaVRyYW5zbGF0ZT0idXNlck1hbmFnZW1lbnQuZW1haWwiPkVtYWlsPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9ImVtYWlsIiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJlbWFpbCIgI2VtYWlsSW5wdXQ9Im5nTW9kZWwiCiAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0idXNlci5lbWFpbCIgbWlubGVuZ3RoPSI1IiByZXF1aXJlZCBtYXhsZW5ndGg9IjEwMCI+CgogICAgICAgICAgICA8ZGl2ICpuZ0lmPSJlbWFpbElucHV0LmRpcnR5ICYmIGVtYWlsSW5wdXQuaW52YWxpZCI+CiAgICAgICAgICAgICAgICA8c21hbGwgY2xhc3M9ImZvcm0tdGV4dCB0ZXh0LWRhbmdlciIKICAgICAgICAgICAgICAgICAgICpuZ0lmPSJlbWFpbElucHV0LmVycm9ycy5yZXF1aXJlZCIgamhpVHJhbnNsYXRlPSJlbnRpdHkudmFsaWRhdGlvbi5yZXF1aXJlZCI+CiAgICAgICAgICAgICAgICAgICAgVGhpcyBmaWVsZCBpcyByZXF1aXJlZC4KICAgICAgICAgICAgICAgIDwvc21hbGw+CgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiCiAgICAgICAgICAgICAgICAgICAqbmdJZj0iZW1haWxJbnB1dC5lcnJvcnMubWF4bGVuZ3RoIiBqaGlUcmFuc2xhdGU9ImVudGl0eS52YWxpZGF0aW9uLm1heGxlbmd0aCIKICAgICAgICAgICAgICAgICAgIHRyYW5zbGF0ZS12YWx1ZS1tYXg9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgVGhpcyBmaWVsZCBjYW5ub3QgYmUgbG9uZ2VyIHRoYW4gMTAwIGNoYXJhY3RlcnMuCiAgICAgICAgICAgICAgICA8L3NtYWxsPgoKICAgICAgICAgICAgICAgIDxzbWFsbCBjbGFzcz0iZm9ybS10ZXh0IHRleHQtZGFuZ2VyIgogICAgICAgICAgICAgICAgICAgKm5nSWY9ImVtYWlsSW5wdXQuZXJyb3JzLm1pbmxlbmd0aCIgamhpVHJhbnNsYXRlPSJlbnRpdHkudmFsaWRhdGlvbi5taW5sZW5ndGgiCiAgICAgICAgICAgICAgICAgICB0cmFuc2xhdGUtdmFsdWUtbWluPSI1Ij4KICAgICAgICAgICAgICAgICAgICBUaGlzIGZpZWxkIGlzIHJlcXVpcmVkIHRvIGJlIGF0IGxlYXN0IDUgY2hhcmFjdGVycy4KICAgICAgICAgICAgICAgIDwvc21hbGw+CgogICAgICAgICAgICAgICAgPHNtYWxsIGNsYXNzPSJmb3JtLXRleHQgdGV4dC1kYW5nZXIiCiAgICAgICAgICAgICAgICAgICAqbmdJZj0iZW1haWxJbnB1dC5lcnJvcnMuZW1haWwiIGpoaVRyYW5zbGF0ZT0iZ2xvYmFsLm1lc3NhZ2VzLnZhbGlkYXRlLmVtYWlsLmludmFsaWQiPgogICAgICAgICAgICAgICAgICAgIFlvdXIgZW1haWwgaXMgaW52YWxpZC4KICAgICAgICAgICAgICAgICA8L3NtYWxsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWNoZWNrIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWNoZWNrLWxhYmVsIiBmb3I9ImFjdGl2YXRlZCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY2hlY2staW5wdXQiIFtkaXNhYmxlZF09InVzZXIuaWQgPT09IG51bGwiIHR5cGU9ImNoZWNrYm94IiBpZD0iYWN0aXZhdGVkIiBuYW1lPSJhY3RpdmF0ZWQiIFsobmdNb2RlbCldPSJ1c2VyLmFjdGl2YXRlZCI+CiAgICAgICAgICAgICAgICA8c3BhbiBqaGlUcmFuc2xhdGU9InVzZXJNYW5hZ2VtZW50LmFjdGl2YXRlZCI+QWN0aXZhdGVkPC9zcGFuPgogICAgICAgICAgICA8L2xhYmVsPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpICsgIi5tZW1iZXJzIiwgamNhY2hlQ29uZmlndXJhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpLCBqY2FjaGVDb25maWd1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8ZGl2ICpuZ0Zvcj0ibGV0IGF1dGhvcml0eSBvZiB1c2VyLmF1dGhvcml0aWVzIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InRhZyB0YWctaW5mbyI+e3sgYXV0aG9yaXR5IH19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;/'/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -529,7 +570,6 @@
     </search>
     <history>
       <history-search>
-        <entry>firstname</entry>
         <entry>lastname</entry>
         <entry>department</entry>
         <entry>gradle</entry>
@@ -548,6 +588,7 @@
         <entry>mail</entry>
         <entry>JHipster</entry>
         <entry>hvcs</entry>
+        <entry>RpcBuilder</entry>
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
@@ -569,8 +610,8 @@
         <entry>0</entry>
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
-        <entry>w</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

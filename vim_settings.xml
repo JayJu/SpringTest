@@ -169,6 +169,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="130" column="7" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1498809493720">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="59" />
+        <mark key="." line="0" column="29" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MemberService.java" timestamp="1498473620826">
         <mark key="'" line="21" column="13" />
         <mark key="[" line="87" column="77" />
@@ -215,6 +221,9 @@
         <mark key="]" line="88" column="33" />
         <mark key="." line="88" column="33" />
         <mark key="^" line="88" column="33" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalWebRtcPeer.ts" timestamp="1498809382258">
+        <mark key="'" line="299" column="12" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498455208085">
         <mark key="'" line="206" column="13" />
@@ -364,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="47" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="46" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="30" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/register.json" />
@@ -464,16 +472,17 @@
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" />
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" />
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" />
+      <jump line="299" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalWebRtcPeer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>hvcs</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -506,21 +515,20 @@
         <text encoding="base64">ICAgICAgICAgICAgLy9jbS5jcmVhdGVDYWNoZShjb20uaGFlLmh2Y3MuZG9tYWluLk1lbWJlclJvbGUuY2xhc3MuZ2V0TmFtZSgpLCBqY2FjaGVDb25maWd1cmF0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>hvcs</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>hvcs</last-pattern>
-      <last-replace>HVCS</last-replace>
-      <last-substitute>hvcs</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>username</entry>
         <entry>firstname</entry>
         <entry>lastname</entry>
         <entry>department</entry>
@@ -540,9 +548,9 @@
         <entry>mail</entry>
         <entry>JHipster</entry>
         <entry>hvcs</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/streams/_streams/g</entry>
         <entry>%s/ee/_ee/g</entry>
         <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
@@ -562,6 +570,7 @@
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
         <entry>w</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

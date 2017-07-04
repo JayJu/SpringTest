@@ -191,12 +191,12 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1498809570623">
-        <mark key="'" line="0" column="62" />
-        <mark key="[" line="0" column="53" />
-        <mark key="]" line="0" column="62" />
-        <mark key="^" line="0" column="62" />
-        <mark key="." line="0" column="62" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1499159602897">
+        <mark key="'" line="273" column="0" />
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASStream.ts" timestamp="1498810677179">
         <mark key="[" line="67" column="5" />
@@ -210,6 +210,9 @@
         <mark key="]" line="87" column="77" />
         <mark key="." line="87" column="77" />
         <mark key="^" line="87" column="77" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" timestamp="1499158938706">
+        <mark key="'" line="16" column="82" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
@@ -269,6 +272,12 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1498722176874">
         <mark key="'" line="22" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/tsconfig.json" timestamp="1499159481702">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1499157649468">
         <mark key="[" line="5" column="0" />
@@ -426,9 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="10" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="13" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="14" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="16" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="17" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
@@ -526,16 +532,19 @@
       <jump line="19" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="15" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="5" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="16" column="82" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" />
+      <jump line="19" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" />
+      <jump line="273" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>es2015</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>es2015</text>
       </register>
       <register name="/" type="4">
-        <text>Jsonp</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -572,9 +581,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Jsonp</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>Jsonp</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -596,12 +605,12 @@
         <entry>mail</entry>
         <entry>JHipster</entry>
         <entry>hvcs</entry>
-        <entry>RpcBuilder</entry>
-        <entry>&quot;</entry>
         <entry>saver</entry>
         <entry>async</entry>
         <entry>company</entry>
         <entry>Jsonp</entry>
+        <entry>RpcBuilder</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ee/_ee/g</entry>
@@ -621,8 +630,8 @@
         <entry>0</entry>
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
-        <entry>%s/&quot;/'/g</entry>
         <entry>q!</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

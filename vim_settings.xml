@@ -30,12 +30,12 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.service.ts" timestamp="1498627473386">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.service.ts" timestamp="1499148002682">
         <mark key="'" line="17" column="1" />
-        <mark key="[" line="57" column="10" />
-        <mark key="]" line="57" column="12" />
-        <mark key="^" line="57" column="12" />
-        <mark key="." line="57" column="12" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="1" />
+        <mark key="^" line="6" column="1" />
+        <mark key="." line="6" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Company.java" timestamp="1498478297803">
         <mark key="'" line="22" column="45" />
@@ -66,6 +66,9 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" timestamp="1498722205359">
         <mark key="'" line="22" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" timestamp="1499148093119">
+        <mark key="'" line="23" column="21" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" timestamp="1498477359906">
         <mark key="'" line="25" column="58" />
@@ -261,12 +264,12 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1498722176874">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1498528247939">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1499147736416">
         <mark key="'" line="55" column="12" />
-        <mark key="[" line="61" column="23" />
-        <mark key="]" line="61" column="24" />
-        <mark key="." line="61" column="24" />
-        <mark key="^" line="61" column="24" />
+        <mark key="[" line="75" column="2" />
+        <mark key="]" line="73" column="1" />
+        <mark key="." line="75" column="3" />
+        <mark key="^" line="73" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/AddressGroup.json" timestamp="1498463011889">
         <mark key="[" line="49" column="15" />
@@ -344,9 +347,6 @@
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498717455750">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/mapper/UserMapper.java" timestamp="1498472344238">
         <mark key="[" line="35" column="47" />
         <mark key="]" line="35" column="58" />
@@ -416,7 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="144" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="186" column="56" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="44" column="51" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="57" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
@@ -516,16 +515,17 @@
       <jump line="36" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServerAPI.ts" />
       <jump line="16" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServer.ts" />
       <jump line="31" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASRoom.ts" />
+      <jump line="23" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>saver</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
@@ -562,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>saver</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>saver</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lastname</entry>
         <entry>department</entry>
         <entry>gradle</entry>
         <entry>version</entry>
@@ -592,6 +591,7 @@
         <entry>hvcs</entry>
         <entry>RpcBuilder</entry>
         <entry>&quot;</entry>
+        <entry>saver</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ee/_ee/g</entry>

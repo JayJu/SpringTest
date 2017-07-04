@@ -57,12 +57,12 @@
         <mark key="." line="141" column="49" />
         <mark key="^" line="141" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.html" timestamp="1498637177401">
-        <mark key="'" line="159" column="9" />
-        <mark key="[" line="135" column="55" />
-        <mark key="]" line="135" column="55" />
-        <mark key="^" line="146" column="13" />
-        <mark key="." line="135" column="55" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.html" timestamp="1499158241544">
+        <mark key="'" line="162" column="9" />
+        <mark key="[" line="137" column="84" />
+        <mark key="]" line="137" column="88" />
+        <mark key="^" line="137" column="88" />
+        <mark key="." line="137" column="88" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" timestamp="1498722205359">
         <mark key="'" line="22" column="0" />
@@ -185,6 +185,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="130" column="7" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.ts" timestamp="1499157797109">
+        <mark key="[" line="58" column="5" />
+        <mark key="]" line="59" column="3" />
+        <mark key="^" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1498809570623">
         <mark key="'" line="0" column="62" />
         <mark key="[" line="0" column="53" />
@@ -228,10 +234,10 @@
         <mark key="." line="24" column="43" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.html" timestamp="1498637570694">
-        <mark key="[" line="58" column="60" />
-        <mark key="]" line="58" column="61" />
-        <mark key="." line="58" column="61" />
-        <mark key="^" line="58" column="61" />
+        <mark key="[" line="60" column="60" />
+        <mark key="]" line="60" column="61" />
+        <mark key="." line="60" column="61" />
+        <mark key="^" line="60" column="61" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/dto/MemberDTO.java" timestamp="1498473605647">
         <mark key="[" line="205" column="44" />
@@ -255,21 +261,20 @@
         <mark key="." line="207" column="65" />
         <mark key="^" line="207" column="65" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1498114816210">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="46" />
-        <mark key="^" line="14" column="71" />
-        <mark key="." line="16" column="46" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1499156757150">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1498722176874">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1499155332951">
-        <mark key="'" line="54" column="12" />
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="50" />
-        <mark key="." line="44" column="50" />
-        <mark key="^" line="44" column="50" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1499157649468">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="41" column="99" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/AddressGroup.json" timestamp="1498463011889">
         <mark key="[" line="49" column="15" />
@@ -278,6 +283,11 @@
         <mark key="^" line="49" column="18" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/modal/custom-modal.service.ts" timestamp="1499145756707" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.ts" timestamp="1499158340400">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1498472457208">
         <mark key="'" line="354" column="16" />
         <mark key="[" line="25" column="0" />
@@ -376,8 +386,8 @@
         <mark key="^" line="124" column="15" />
         <mark key="." line="124" column="15" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1498550967466">
-        <mark key="'" line="186" column="56" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1499157522466">
+        <mark key="'" line="156" column="94" />
         <mark key="[" line="186" column="66" />
         <mark key="]" line="186" column="69" />
         <mark key="^" line="186" column="69" />
@@ -416,20 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="56" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="44" column="51" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="57" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="58" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
-      <jump line="54" column="45" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="57" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
-      <jump line="26" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="109" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="112" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="114" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="118" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="122" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="239" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="251" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="1" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="10" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="13" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
@@ -516,55 +512,69 @@
       <jump line="16" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServer.ts" />
       <jump line="31" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASRoom.ts" />
       <jump line="23" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
+      <jump line="185" column="54" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="166" column="89" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="167" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="169" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="170" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="171" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="173" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="174" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="175" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="1" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="156" column="94" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
+      <jump line="19" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="15" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
+      <jump line="5" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>saver</text>
+        <text>Jsonp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnlMaXN0Lgo=</text>
+        <text encoding="base64">CiAgICBzZWFyY2hDb21wYW55KGtleXdvcmQ6IHN0cmluZykgewogICAgICAgIGlmKGtleXdvcmQubGVuZ3RoID4gMCkgewogICAgICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbS5uZXh0KGtleXdvcmQpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2V5d29yZDogJytrZXl3b3JkKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbQogICAgICAgICAgICAuZGVib3VuY2VUaW1lKDMwMCkKICAgICAgICAgICAgLmRpc3RpbmN0VW50aWxDaGFuZ2VkKCkKICAgICAgICAgICAgLnN3aXRjaE1hcCgoa2V5d29yZDogc3RyaW5nKSA9PiB0aGlzLmNvbXBhbnlMaXN0ID0gdGhpcy5jb21wYW55U2VydmljZS5zZWFyY2goa2V5d29yZCkpCiAgICAgICAgICAgIC5zdWJzY3JpYmUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbXBhbnlTZXJ2aWNlOiBDb21wYW55U2VydmljZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0tBU1Jvb20nOiBLQVNSb29tS0FTUm9vbSwK</text>
+        <text encoding="base64">ICAgIC8vIFJ4SlMKICAgIHByaXZhdGUgc2VhcmNoS2V5U3RyZWFtID0gbmV3IFN1YmplY3Q8c3RyaW5nPigpOwogICAgY29tcGFueUxpc3Q6IE9ic2VydmFibGU8Q29tcGFueVtdPjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgS0FTV2ViUnRjUGVlciB9IGZyb20gJy4vS0FTV2ViUnRjUGVlcic7Cg==</text>
+        <text encoding="base64">ICAgIHByb3ZpZGVyczogW0NvbXBhbnlTZXJ2aWNlXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL0tBU0Nvbm5lY3Rpb24nOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueSB9IGZyb20gJy4uLy4uL3NoYXJlZCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogZnJvbSBLQVNTdHJlYW07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcGFueVNlcnZpY2UgfSBmcm9tICcuLi8uLi9zaGFyZWQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>saver</last-search>
+      <last-search>Jsonp</last-search>
       <last-offset />
-      <last-pattern>saver</last-pattern>
+      <last-pattern>Jsonp</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -572,15 +582,12 @@
     </search>
     <history>
       <history-search>
-        <entry>department</entry>
-        <entry>gradle</entry>
         <entry>version</entry>
         <entry>auth</entry>
         <entry>saveAs</entry>
         <entry>user</entry>
         <entry>user-mana</entry>
         <entry>depart</entry>
-        <entry>company</entry>
         <entry>companyName</entry>
         <entry>Sho</entry>
         <entry>register</entry>
@@ -592,12 +599,14 @@
         <entry>RpcBuilder</entry>
         <entry>&quot;</entry>
         <entry>saver</entry>
+        <entry>async</entry>
+        <entry>company</entry>
+        <entry>Jsonp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ee/_ee/g</entry>
         <entry>%s/__participantsSpeaking/_participantsSpeaking/g</entry>
         <entry>%s/localParticipant/_localParticipant/g</entry>
-        <entry>q!</entry>
         <entry>ㅈ</entry>
         <entry>%s/companies/companyList/g</entry>
         <entry>142</entry>
@@ -613,6 +622,7 @@
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>q!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

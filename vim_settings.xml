@@ -130,7 +130,6 @@
         <mark key="." line="38" column="48" />
         <mark key="^" line="38" column="48" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/MailService.java" timestamp="1498716978958" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" timestamp="1498719380047">
         <mark key="'" line="25" column="0" />
       </file>
@@ -275,6 +274,7 @@
         <mark key="." line="49" column="18" />
         <mark key="^" line="49" column="18" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/modal/custom-modal.service.ts" timestamp="1499145756707" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1498472457208">
         <mark key="'" line="354" column="16" />
         <mark key="[" line="25" column="0" />
@@ -359,6 +359,7 @@
         <mark key="." line="35" column="124" />
         <mark key="^" line="35" column="124" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" timestamp="1499145856321" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
         <mark key="'" line="25" column="0" />
       </file>
@@ -396,6 +397,7 @@
         <mark key="^" line="24" column="24" />
         <mark key="." line="27" column="46" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.html" timestamp="1499145914829" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.service.ts" timestamp="1498004282956">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="9" />

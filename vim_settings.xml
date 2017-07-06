@@ -24,6 +24,12 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1498615883870">
         <mark key="'" line="3" column="11" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ScheduleGroup.json" timestamp="1499321825101">
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1498196479436">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="48" />
@@ -74,6 +80,12 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceAttend.json" timestamp="1499321182044">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073108_added_entity_constraints_AddressBook.xml" timestamp="1498477359906">
         <mark key="'" line="25" column="58" />
         <mark key="[" line="25" column="54" />
@@ -89,6 +101,18 @@
         <mark key="]" line="56" column="0" />
         <mark key="^" line="29" column="11" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceMail.json" timestamp="1499321593275">
+        <mark key="[" line="39" column="16" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Conference.json" timestamp="1499321051053">
+        <mark key="[" line="77" column="16" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="17" />
+        <mark key="^" line="77" column="17" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073109_added_entity_constraints_AddressGroup.xml" timestamp="1498477440833">
         <mark key="[" line="14" column="54" />
@@ -106,11 +130,11 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1498719331507">
         <mark key="'" line="3" column="34" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/AddressBook.java" timestamp="1498449362125">
-        <mark key="[" line="246" column="13" />
-        <mark key="]" line="246" column="16" />
-        <mark key="." line="246" column="16" />
-        <mark key="^" line="246" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/AddressBook.java" timestamp="1499322120532">
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="37" />
+        <mark key="." line="85" column="37" />
+        <mark key="^" line="85" column="37" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/master.xml" timestamp="1498477275051">
         <mark key="[" line="6" column="0" />
@@ -118,11 +142,11 @@
         <mark key="^" line="12" column="133" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/AddressGroup.java" timestamp="1498449479986">
-        <mark key="[" line="139" column="20" />
-        <mark key="]" line="139" column="20" />
-        <mark key="." line="139" column="23" />
-        <mark key="^" line="139" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/AddressGroup.java" timestamp="1499322241861">
+        <mark key="[" line="57" column="31" />
+        <mark key="]" line="57" column="36" />
+        <mark key="." line="57" column="36" />
+        <mark key="^" line="57" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/UserResource.java" timestamp="1498476644865">
         <mark key="[" line="10" column="0" />
@@ -168,6 +192,12 @@
         <mark key="]" line="51" column="68" />
         <mark key="^" line="51" column="69" />
         <mark key="." line="51" column="68" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceAttendHistory.json" timestamp="1499321234797">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" timestamp="1498630950154">
         <mark key="'" line="370" column="35" />
@@ -260,6 +290,12 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalWebRtcPeer.ts" timestamp="1498809382258">
         <mark key="'" line="299" column="12" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceApproval.json" timestamp="1499321107827">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/UserService.java" timestamp="1498455208085">
         <mark key="'" line="206" column="13" />
@@ -357,12 +393,6 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASRoom.ts" timestamp="1498810954818">
-        <mark key="'" line="31" column="41" />
-        <mark key="[" line="77" column="5" />
-        <mark key="]" line="77" column="5" />
-        <mark key="." line="77" column="5" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="4" column="103" />
@@ -384,8 +414,20 @@
         <mark key="." line="35" column="124" />
         <mark key="^" line="35" column="124" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
         <mark key="'" line="25" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceFile.json" timestamp="1499321518237">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="21" />
+        <mark key="." line="41" column="21" />
+        <mark key="^" line="41" column="21" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/vm/ManagedUserVM.java" timestamp="1498455374327">
         <mark key="[" line="34" column="84" />
@@ -393,12 +435,24 @@
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1499320808985">
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1498716674548">
         <mark key="'" line="227" column="62" />
         <mark key="[" line="124" column="12" />
         <mark key="]" line="124" column="15" />
         <mark key="^" line="124" column="15" />
         <mark key="." line="124" column="15" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ScheduleLog.json" timestamp="1499321890972">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" timestamp="1499157522466">
         <mark key="'" line="156" column="94" />
@@ -433,6 +487,12 @@
         <mark key="]" line="453" column="1" />
         <mark key="." line="453" column="1" />
         <mark key="^" line="453" column="1" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Schedule.json" timestamp="1499321759762">
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498615854298">
         <mark key="'" line="108" column="13" />
@@ -542,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>es2015</text>
+        <text>�</text>
       </register>
       <register name="-" type="4">
-        <text>es2015</text>
+        <text>�</text>
       </register>
       <register name="/" type="4">
         <text>strap</text>

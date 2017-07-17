@@ -230,6 +230,12 @@
         <mark key="^" line="55" column="11" />
         <mark key="." line="55" column="10" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ApplicationProperties.java" timestamp="1500279056469">
+        <mark key="[" line="183" column="13" />
+        <mark key="]" line="185" column="60" />
+        <mark key="^" line="185" column="60" />
+        <mark key="." line="185" column="60" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASConnection.ts" timestamp="1499159602897">
         <mark key="'" line="273" column="0" />
         <mark key="[" line="0" column="19" />
@@ -354,12 +360,12 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500274732816">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500278996451">
         <mark key="'" line="54" column="29" />
-        <mark key="[" line="164" column="23" />
-        <mark key="]" line="165" column="44" />
-        <mark key="^" line="165" column="44" />
-        <mark key="." line="165" column="44" />
+        <mark key="[" line="165" column="45" />
+        <mark key="]" line="166" column="47" />
+        <mark key="^" line="166" column="47" />
+        <mark key="." line="166" column="47" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.model.ts" timestamp="1498005563179">
         <mark key="[" line="18" column="31" />
@@ -401,11 +407,11 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500274646743">
-        <mark key="[" line="45" column="13" />
-        <mark key="]" line="45" column="7" />
-        <mark key="^" line="45" column="7" />
-        <mark key="." line="45" column="7" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500279071785">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="78" />
+        <mark key="^" line="45" column="78" />
+        <mark key="." line="45" column="78" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
@@ -619,10 +625,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -631,31 +637,31 @@
         <text encoding="base64">ICAgICAgICA8ZGQ+e3t1c2VyLmxhc3RNb2RpZmllZERhdGUgfCBkYXRlOidkZC9NTS95eSBISDptbSd9fTwvZGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dChQUk9QX0lNQVBfU1RPUkVfUFJPVE9DT0wsIGFwcGxpY2F0aW9uUHJvcGVydGllcy5nZXRNYWlsKCkuZ2V0SW1hcCgpLmdldFByb3RvY29sKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkICgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dChQUk9QX0lNQVBfU09DS0VURkFDVE9SWV9GQUxMQkFDSywgYXBwbGljYXRpb25Qcm9wZXJ0aWVzLmdldE1haWwoKS5nZXRJbWFwKCkuZ2V0U29ja2V0RmFjdG9yeUNsYXNzKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBc3luYwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dChQUk9QX0lNQVBfU09DS0VURkFDVE9SWV9DTEFTUywgYXBwbGljYXRpb25Qcm9wZXJ0aWVzLmdldE1haWwoKS5nZXRJbWFwKCkuZ2V0U29ja2V0RmFjdG9yeUNsYXNzKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnNvbGUubG9nKCdzZWFyY2hpbmc6ICcgKyBgJHt0aGlzLnJlc291cmNlVXJsfS9zZWFyY2gvJHtuYW1lfWApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmlkKCJpbWFwSW4iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzZWFyY2hDb21wYW55KGtleXdvcmQ6IHN0cmluZykgewogICAgICAgIGlmKGtleXdvcmQubGVuZ3RoID4gMCkgewogICAgICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbS5uZXh0KGtleXdvcmQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaEtleVN0cmVhbQogICAgICAgICAgICAuZGVib3VuY2VUaW1lKDMwMCkKICAgICAgICAgICAgLmRpc3RpbmN0VW50aWxDaGFuZ2VkKCkKICAgICAgICAgICAgLnN3aXRjaE1hcCgoa2V5d29yZDogc3RyaW5nKSA9PiB0aGlzLmNvbXBhbnlMaXN0ID0gdGhpcy5jb21wYW55U2VydmljZS5zZWFyY2goa2V5d29yZCkpCiAgICAgICAgICAgIC5zdWJzY3JpYmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbXBhbnlTZXJ2aWNlOiBDb21wYW55U2VydmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNTaG91bGRNYXJrTWVzc2FnZUFzUmVhZCgpIHsKICAgICAgICAgICAgICAgIHJldHVybiBzaG91bGRNYXJrTWVzc2FnZUFzUmVhZDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0U2hvdWxkTWFya01lc3NhZ2VBc1JlYWQoYm9vbGVhbiBzaG91bGRNYXJrTWVzc2FnZUFzUmVhZCkgewogICAgICAgICAgICAgICAgdGhpcy5zaG91bGRNYXJrTWVzc2FnZUFzUmVhZCA9IHNob3VsZE1hcmtNZXNzYWdlQXNSZWFkOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

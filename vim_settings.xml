@@ -354,12 +354,12 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1498717136040">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500274732816">
         <mark key="'" line="54" column="29" />
-        <mark key="[" line="143" column="17" />
-        <mark key="]" line="143" column="22" />
-        <mark key="^" line="143" column="22" />
-        <mark key="." line="143" column="22" />
+        <mark key="[" line="164" column="23" />
+        <mark key="]" line="165" column="44" />
+        <mark key="^" line="165" column="44" />
+        <mark key="." line="165" column="44" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.model.ts" timestamp="1498005563179">
         <mark key="[" line="18" column="31" />
@@ -401,7 +401,12 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500270235966" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500274646743">
+        <mark key="[" line="45" column="13" />
+        <mark key="]" line="45" column="7" />
+        <mark key="^" line="45" column="7" />
+        <mark key="." line="45" column="7" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
         <mark key="]" line="4" column="103" />
@@ -613,11 +618,11 @@
       <jump line="109" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>sendEmailFromTemplate</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>file</text>

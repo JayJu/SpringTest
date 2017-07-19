@@ -413,11 +413,11 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500447200565">
-        <mark key="[" line="94" column="31" />
-        <mark key="]" line="94" column="36" />
-        <mark key="." line="94" column="36" />
-        <mark key="^" line="94" column="36" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500449243849">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="82" column="86" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
@@ -630,44 +630,44 @@
       <jump line="75" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GenericMessage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>GenericMessage</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBsb2cuZGVidWcgKCJwYXlsb2FkOiB7fSIsICgoTWltZU11bHRpcGFydCkgcGF5bG9hZCkuZ2V0Qm9keVBhcnQoMCkuZ2V0Q29udGVudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImZyb206IHt9IiwgZ2VuZXJpY01lc3NhZ2UuZ2V0SGVhZGVycygpLmdldChNYWlsSGVhZGVycy5GUk9NKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuZ2V0UGF5bG9hZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmhhbmRsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5lcmljTWVzc2FnZS5nZXRIZWFkZXJzKCkuZ2V0KE1haWxIZWFkZXJzLlNVQkpFQ1QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keVBhcnQuZ2V0aAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInN1YmplY3Q6IHt9IiwgZ2VuZXJpY01lc3NhZ2UuZ2V0SGVhZGVycygpLmdldChNYWlsSGVhZGVycy5TVUJKRUNUKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBHZW5lcmljTWVzc2FnZSBtID0gKEdlbmVyaWNNZXNzYWdlKW1lc3NhZ2U7CiAgICAgICAgbS5nZXRQYXlsb2FkKCkuCiAgICAgICAgICAgICAgICBsb2cuZGVidWcoIm1lc3NhZ2U6IHt9IiwoIChHZW5lcmljTWVzc2FnZSltZXNzYWdlKS50b1N0cmluZygpKTsKLy8gICAgICAgICAgICAgICAgaWYgKHBheWxvYWQgaW5zdGFuY2VvZiBNaW1lTXVsdGlwYXJ0KSB7Ci8vICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygibWVzc2FnZToge30iLCAoKE1pbWVNdWx0aXBhcnQpIHBheWxvYWQpLmdldEJvZHlQYXJ0KDApLmdldENvbnRlbnQoKSk7Ci8vICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygicGF5bG9hZDoge30iLCBwYXlsb2FkKTsKCgovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0gY2F0Y2goRXhjZXB0aW9uIGUpIHtlLnByaW50U3RhY2tUcmFjZSgpO30KLy8gICAgICAgIG8uZ2V0Qm9keVBhcnQoMSkuZ2V0Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oby50b1N0cmluZygpKTsKLy8gICAgICAgIGxvZy5kZWJ1ZygiaGVhZGVyOiB7fSIgKyBoZWFkZXJzKTsKLy8gICAgICAgIGxvZy5kZWJ1ZygicGF5bG9hZDoge30iICsgcGF5bG9hZCk7CgogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSU9VdGlscy50b1N0cmluZyhtdWx0aXBhcnQuZ2V0Qm9keVBhcnQoMCkuZ2V0SW5wdXRTdHJlYW0oKSwgIlVURi04Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2UudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGF5bG9hZCBpbnN0YW5jZW9mIE1pbWVNdWx0aXBhcnQpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRkICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBNdWx0aXBhcnQgbXVsdGlwYXJ0ID0gKE11bHRpcGFydCkgbWVzc2FnZVswXS5nZXRDb250ZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

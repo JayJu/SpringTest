@@ -413,11 +413,11 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500435996640">
-        <mark key="[" line="68" column="28" />
-        <mark key="]" line="68" column="45" />
-        <mark key="." line="68" column="45" />
-        <mark key="^" line="68" column="45" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500437106305">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="69" column="38" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
@@ -630,8 +630,8 @@
       <jump line="75" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoTWFpbEhlYWRlcnMuVE8sICJwYXlsb2FkLnRvIikK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -640,34 +640,34 @@
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoIm1haWwuaW1hcC5zdGFydHRscy5lbmFibGUiLCAidHJ1ZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoTWFpbEhlYWRlcnMuU1VCSkVDVCwgInBheWxvYWQuc3ViamVjdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoIm1haWwuaW1hcC5zdGFydHRscy5yZXF1aXJlZCIsICJ0cnVlIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoTWFpbEhlYWRlcnMuVE8sICJwYXlsb2FkLnRvIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1dChNYWlsSGVhZGVycy5TVUJKRUNULCAicGF5bG9hZC5zdWJqZWN0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoIm1haWwuaW1hcC5zdGFydHRscy5yZXF1aXJlZCIsICJ0cnVlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmltYXBDaGFubmVsID0gaW1hcENoYW5uZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN0b3JlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUG9sbGFibGVDaGFubmVsIGltYXBDaGFubmVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLjxNZXNzYWdlPmhhbmRsZSgoKHBheWxvYWQsIGhlYWRlcnMpIC0+IGxvZy5kZWJ1ZygibWFpbCByZWNlaXZlZC4uIHN1YmplY3Q6IHt9IiwgcGF5bG9hZC5nZXRTdWJqZWN0KCkudG9TdHJpbmcoKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmltYXBDaGFubmVsID0gaW1hcENoYW5uZWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLjxNZXNzYWdlPmhhbmRsZSgoKHBheWxvYWQsIGhlYWRlcnMpIC0+IGxvZy5kZWJ1ZyhwYXlsb2FkLmdldENvbnRlbnQoKS50b1N0cmluZygpKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

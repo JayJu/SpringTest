@@ -35,6 +35,12 @@
         <mark key="." line="39" column="20" />
         <mark key="^" line="39" column="20" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/logback-spring.xml" timestamp="1500507993624">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="35" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/CompanyRepository.java" timestamp="1498196479436">
         <mark key="[" line="21" column="48" />
         <mark key="]" line="21" column="48" />
@@ -366,8 +372,8 @@
         <mark key="^" line="18" column="42" />
         <mark key="." line="18" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500341963586">
-        <mark key="'" line="54" column="29" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500506980210">
+        <mark key="'" line="129" column="28" />
         <mark key="[" line="172" column="44" />
         <mark key="]" line="172" column="48" />
         <mark key="^" line="172" column="48" />
@@ -413,11 +419,11 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500460153349">
-        <mark key="[" line="114" column="38" />
-        <mark key="]" line="114" column="54" />
-        <mark key="." line="114" column="54" />
-        <mark key="^" line="114" column="54" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500509222841">
+        <mark key="[" line="127" column="38" />
+        <mark key="]" line="127" column="36" />
+        <mark key="." line="127" column="36" />
+        <mark key="^" line="127" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/users.csv" timestamp="1498526123052">
         <mark key="[" line="4" column="102" />
@@ -523,19 +529,11 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1498615854298">
-        <mark key="'" line="108" column="13" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1500508919566">
+        <mark key="'" line="182" column="58" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="6" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="8" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="9" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="10" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="11" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="12" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="13" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="14" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="15" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="16" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
@@ -628,75 +626,63 @@
       <jump line="106" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
       <jump line="109" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
       <jump line="75" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" />
+      <jump line="100" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="125" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="128" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="129" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="226" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="156" column="71" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="157" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="182" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIMPiw7M6IGh0dHA6Ly9nb25nYW0xMDAudGlzdG9yeS5jb20vMTAgW7D4sKggvbrF5LiuXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygib3JnOiB7fSIgKyBvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvKTsK</text>
+        <text encoding="base64">ICAgIMPiw7M6IGh0dHA6Ly9nb25nYW0xMDAudGlzdG9yeS5jb20vMTAgW7D4sKggvbrF5LiuXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCArPSBvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1Zygib3JnOiB7fSIgKyBvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihvKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyByZXN1bHRsZXQgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdCArPSBvOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGpqampqampqampqampqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyByZXN1bHRsZXQgPSAiIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZ0J1ZmZlcgo=</text>
+        <text encoding="base64">ICAgIGpqampqampqampqampqago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdC4K</text>
       </register>
-      <register name="9" type="4">
-        <text>//public void processMessageBody(Message message) {
-//        try {
-//            Object content = message.getContent(); // check for string // then check for multipart
-//            if (content instanceof String) {
-//                System.out.println(content);
-//            } else if (content instanceof Multipart) {
-//                Multipart multiPart = (Multipart) content;
-//                procesMultiPart(multiPart);
-//            } else if (content instanceof InputStream) {
-//                InputStream inStream = (InputStream) content;
-//                int ch;
-//                while ((ch = inStream.read()) != -1) {
-//                    System.out.write(ch);
-//                }
-//            }
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        } catch (MessagingException e) {
-//            e.printStackTrace();
-//        }
-//} /** * recursively processes multipart messages * * @param content */</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIFN0cmluZ0J1ZmZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -704,7 +690,6 @@
     </search>
     <history>
       <history-search>
-        <entry>depart</entry>
         <entry>companyName</entry>
         <entry>Sho</entry>
         <entry>template</entry>
@@ -724,6 +709,7 @@
         <entry>&quot;</entry>
         <entry>register</entry>
         <entry>file</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>%s/localParticipant/_localParticipant/g</entry>

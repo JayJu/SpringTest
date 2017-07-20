@@ -239,10 +239,11 @@
         <mark key="." line="48" column="1" />
         <mark key="^" line="48" column="1" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500511930995">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" timestamp="1500514495012">
+        <mark key="[" line="85" column="67" />
+        <mark key="]" line="85" column="72" />
+        <mark key="." line="85" column="72" />
+        <mark key="^" line="85" column="72" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
         <mark key="[" line="33" column="16" />
@@ -250,8 +251,11 @@
         <mark key="." line="33" column="19" />
         <mark key="^" line="33" column="19" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/ConferenceMailService.java" timestamp="1500513674018">
-        <mark key="[" line="110" column="5" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/ConferenceMailService.java" timestamp="1500514450138">
+        <mark key="[" line="114" column="69" />
+        <mark key="]" line="115" column="6" />
+        <mark key="^" line="115" column="6" />
+        <mark key="." line="115" column="6" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
         <mark key="'" line="25" column="0" />
@@ -663,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -675,31 +679,31 @@
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb25mZXJlbmNlX21haWxfdHlwZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IE9wICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IE9wICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFJldHVybk1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHJldHVybk1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuTWVzc2FnZSA9IHJldHVybk1lc3NhZ2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dCgibWFpbC5pbWFwLnN0YXJ0dGxzLmVuYWJsZSIsICJ0cnVlIikK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFJldHVybk1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHJldHVybk1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuTWVzc2FnZSA9IHJldHVybk1lc3NhZ2U7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dCgibWFpbC5pbWFwLnN0YXJ0dGxzLmVuYWJsZSIsICJ0cnVlIikK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBwcm9jUGF5bG9hZChHZW5lcmljTWVzc2FnZSBtc2cpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIE11bHRpcGFydCBtdWx0aXBhcnQgPSAoTXVsdGlwYXJ0KSBtc2cuZ2V0UGF5bG9hZCgpOwogICAgICAgIEJvZHlQYXJ0IGJvZHlQYXJ0ID0gbXVsdGlwYXJ0LmdldEJvZHlQYXJ0KDApOwogICAgICAgIGxvZy5kZWJ1ZygiYm9keToge30iLCBib2R5UGFydC5nZXRDb250ZW50KCkpOwovLyAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtdWx0aXBhcnQuZ2V0Q291bnQoKTsgaSsrKSB7Ci8vICAgICAgICAgICAgQm9keVBhcnQgYm9keVBhcnQgPSBtdWx0aXBhcnQuZ2V0Qm9keVBhcnQoaSk7Ci8vICAgICAgICAgICAgbG9nLmRlYnVnKCJib2R5OiB7fSIsIGJvZHlQYXJ0LmdldENvbnRlbnQoKSk7Ci8vICAgICAgICAgICAgaWYgKGJvZHlQYXJ0LmdldENvbnRlbnRUeXBlKCkuY29udGFpbnMoInhtbCIpICYmIGJvZHlQYXJ0LmdldEZpbGVOYW1lKCkuc3RhcnRzV2l0aCgiaW52b2ljZSIpKQovLyAgICAgICAgICAgICAgICByZXR1cm4gSU9VdGlscy50b1N0cmluZyhib2R5UGFydC5nZXRJbnB1dFN0cmVhbSgpLCAiVVRGLTgiKTsKLy8gICAgICAgIH0KLy8gICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIk9vcHMgLi4uIG5vIGludm9pY2UgZm91bmQgaW4gZW1haWwiKTsKICAgICAgICAgICAgICAgIHJldHVybiBJT1V0aWxzLnRvU3RyaW5nKGJvZHlQYXJ0LmdldElucHV0U3RyZWFtKCksICJVVEYtOCIpOwogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0cnkgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -528,11 +528,11 @@
         <mark key="." line="35" column="124" />
         <mark key="^" line="35" column="124" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" timestamp="1499325443047">
-        <mark key="[" line="175" column="10" />
-        <mark key="]" line="175" column="10" />
-        <mark key="^" line="175" column="10" />
-        <mark key="." line="175" column="10" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" timestamp="1500621127749">
+        <mark key="[" line="185" column="58" />
+        <mark key="]" line="185" column="58" />
+        <mark key="^" line="185" column="58" />
+        <mark key="." line="185" column="58" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" timestamp="1499325661440">
         <mark key="'" line="59" column="14" />
@@ -705,7 +705,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>conferenceApp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb25mZXJlbmNlX21haWxfdHlwZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
@@ -738,13 +738,13 @@
         <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFJldHVybk1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHJldHVybk1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuTWVzc2FnZSA9IHJldHVybk1lc3NhZ2U7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>conferenceApp</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>conferenceApp</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -752,8 +752,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mails</entry>
-        <entry>mail</entry>
         <entry>JHipster</entry>
         <entry>hvcs</entry>
         <entry>saver</entry>
@@ -772,10 +770,10 @@
         <entry>serucity</entry>
         <entry>security</entry>
         <entry>li</entry>
+        <entry>conferenceApproval</entry>
+        <entry>conferenceApp</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/localParticipant/_localParticipant/g</entry>
-        <entry>ㅈ</entry>
         <entry>%s/companies/companyList/g</entry>
         <entry>142</entry>
         <entry>%s/members/users/g</entry>
@@ -793,7 +791,9 @@
         <entry>176</entry>
         <entry>%</entry>
         <entry>wq</entry>
+        <entry>186</entry>
         <entry>w</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />

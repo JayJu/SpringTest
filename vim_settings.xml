@@ -346,8 +346,8 @@
         <mark key="." line="25" column="57" />
         <mark key="^" line="25" column="57" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1498717084593">
-        <mark key="'" line="90" column="17" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1500611237730">
+        <mark key="'" line="48" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASServer.ts" timestamp="1498810920229">
         <mark key="'" line="16" column="2" />
@@ -576,8 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="15" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="16" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="17" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="18" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
@@ -676,6 +674,8 @@
       <jump line="156" column="71" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="157" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="182" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="24" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="48" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -685,7 +685,7 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>security</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb25mZXJlbmNlX21haWxfdHlwZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
@@ -722,9 +722,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>security</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>security</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -732,8 +732,6 @@
     </search>
     <history>
       <history-search>
-        <entry>companyName</entry>
-        <entry>Sho</entry>
         <entry>template</entry>
         <entry>mails</entry>
         <entry>mail</entry>
@@ -752,6 +750,8 @@
         <entry>register</entry>
         <entry>file</entry>
         <entry>log</entry>
+        <entry>serucity</entry>
+        <entry>security</entry>
       </history-search>
       <history-cmd>
         <entry>%s/localParticipant/_localParticipant/g</entry>

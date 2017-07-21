@@ -571,8 +571,12 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1500508919566">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1500614895040">
         <mark key="'" line="182" column="58" />
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="13" />
+        <mark key="^" line="205" column="28" />
+        <mark key="." line="205" column="13" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.yo-rc.json" timestamp="1500612644470">
         <mark key="[" line="11" column="27" />
@@ -685,10 +689,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>session</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>security</text>
@@ -697,34 +701,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb25mZXJlbmNlX21haWxfdHlwZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSX0VNQUlMLCBhdHRlbmRlZS5nZXRBdHRlbmRlZUlkKCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdpby5qc29ud2VidG9rZW4nLCBuYW1lOiAnamp3dCcsIHZlcnNpb246ICcwLjcuMCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW5kZWUuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSX0VNQUlMLCBhdHRlbmRlZS5nZXRBdHRlbmRlZUlkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mZXJlbmNlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW5kZWUuZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mZXJlbmNlLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSLCApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IE9wICAgCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IE9wICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFJldHVybk1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHJldHVybk1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuTWVzc2FnZSA9IHJldHVybk1lc3NhZ2U7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLnB1dCgibWFpbC5pbWFwLnN0YXJ0dGxzLmVuYWJsZSIsICJ0cnVlIikK</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFJldHVybk1lc3NhZ2UoKSB7CiAgICAgICAgcmV0dXJuIHJldHVybk1lc3NhZ2U7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0UmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewogICAgICAgIHRoaXMucmV0dXJuTWVzc2FnZSA9IHJldHVybk1lc3NhZ2U7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -767,7 +771,6 @@
         <entry>%s/members/users/g</entry>
         <entry>%s/Member/User/g</entry>
         <entry>%s/managedMemberVM/managedUserVM/g</entry>
-        <entry>wq</entry>
         <entry>%s/firstname/firstName/g</entry>
         <entry>%s/lastname/lastName/g</entry>
         <entry>%s/department/departmentName/g</entry>
@@ -780,6 +783,7 @@
         <entry>176</entry>
         <entry>%</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

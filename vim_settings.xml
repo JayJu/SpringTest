@@ -199,12 +199,12 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500879499355">
-        <mark key="'" line="157" column="43" />
-        <mark key="[" line="155" column="57" />
-        <mark key="]" line="153" column="42" />
-        <mark key="^" line="153" column="42" />
-        <mark key="." line="153" column="42" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500880902377">
+        <mark key="'" line="155" column="43" />
+        <mark key="[" line="183" column="30" />
+        <mark key="]" line="183" column="56" />
+        <mark key="^" line="183" column="56" />
+        <mark key="." line="183" column="56" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
         <mark key="[" line="33" column="16" />
@@ -263,11 +263,10 @@
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/UserRepository.java" timestamp="1500878487548">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="16" />
-        <mark key="^" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/UserRepository.java" timestamp="1500880693734">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/logback-spring.xml" timestamp="1500507993624">
         <mark key="[" line="62" column="36" />
@@ -291,13 +290,19 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1500880953465">
+        <mark key="[" line="120" column="96" />
+        <mark key="]" line="120" column="96" />
+        <mark key="." line="120" column="96" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1500611237730">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" timestamp="1500874347685">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="97" />
-        <mark key="." line="60" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" timestamp="1500881051277">
+        <mark key="'" line="60" column="58" />
+        <mark key="[" line="51" column="62" />
+        <mark key="]" line="51" column="62" />
+        <mark key="." line="51" column="62" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_constraints_ConferenceFile.xml" timestamp="1500873881668">
         <mark key="[" line="20" column="54" />
@@ -481,10 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="21" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="80" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="90" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
       <jump line="31" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
@@ -576,60 +577,64 @@
       <jump line="267" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="20" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="55" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="157" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="52" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="184" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="53" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="156" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="258" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="53" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="157" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
+      <jump line="57" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
+      <jump line="60" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>userRepo</text>
+        <text>conferenceFile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VGaWxlcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VpZGVvcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgLnN3aXRjaE1hcCgoa2V5d29yZDogc3RyaW5nKSA9PiB0aGlzLmNvbXBhbnlTZXJ2aWNlLnNlYXJjaChrZXl3b3JkKS5zdWJzY3JpYmUoKHJlczogUmVzcG9uc2UpID0+IHt0aGlzLmNvbXBhbnlMaXN0ID0gcmVzLmpzb24oKTt9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFVzZXI+IGZpbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLnN1YnNjcmliZSgocmVzOiBSZXNwb25zZSkgPT4geyByZXMuanNvbigpO30sIChyZXM6IFJlc3BvbnNlKSA9Pnt9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VGaWxlcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLnN1YnNjcmliZSgocmVzOiBSZXNwb25zZSkgPT4geyB0aGlzLmNvbXBhbnlMaXN0ID0gcmVzLmpzb24oKX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VpZGVvcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>userRepo</last-search>
+      <last-search>conferenceFile</last-search>
       <last-offset />
-      <last-pattern>userRepo</last-pattern>
+      <last-pattern>conferenceFile</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -637,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>register</entry>
         <entry>log</entry>
         <entry>serucity</entry>
         <entry>security</entry>
@@ -657,6 +661,7 @@
         <entry>conference_id</entry>
         <entry>conference</entry>
         <entry>userRepo</entry>
+        <entry>conferenceFile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

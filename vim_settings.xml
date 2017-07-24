@@ -210,9 +210,7 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="20" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1498722176874">
-        <mark key="'" line="22" column="0" />
-      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1500865465164" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/HvcsCodec.java" timestamp="1500511184364">
         <mark key="[" line="11" column="41" />
         <mark key="]" line="11" column="38" />
@@ -492,11 +490,11 @@
         <mark key="^" line="24" column="51" />
         <mark key="." line="24" column="51" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalEmail.html" timestamp="1500525852366">
-        <mark key="[" line="8" column="70" />
-        <mark key="]" line="8" column="73" />
-        <mark key="." line="8" column="73" />
-        <mark key="^" line="8" column="73" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalEmail.html" timestamp="1500865431602">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/repository/MemberRepository.java" timestamp="1498449599957">
         <mark key="[" line="18" column="42" />

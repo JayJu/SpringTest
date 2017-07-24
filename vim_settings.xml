@@ -325,6 +325,13 @@
         <mark key="^" line="74" column="23" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" timestamp="1500882742648">
+        <mark key="'" line="48" column="4" />
+        <mark key="[" line="90" column="19" />
+        <mark key="]" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+        <mark key="^" line="92" column="21" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" timestamp="1498719380047">
         <mark key="'" line="25" column="0" />
       </file>
@@ -486,8 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="108" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="45" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="47" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
@@ -586,55 +591,57 @@
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
       <jump line="57" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
       <jump line="60" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
+      <jump line="82" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
+      <jump line="48" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>conferenceFile</text>
+        <text>cors</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPFVzZXI+IGZpbmQK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VGaWxlcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VpZGVvcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFVzZXI+IGZpbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conferenceFile</last-search>
+      <last-search>cors</last-search>
       <last-offset />
-      <last-pattern>conferenceFile</last-pattern>
+      <last-pattern>cors</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -642,10 +649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>serucity</entry>
-        <entry>security</entry>
-        <entry>li</entry>
         <entry>conferenceApproval</entry>
         <entry>conferenceApp</entry>
         <entry>h2</entry>
@@ -662,6 +665,10 @@
         <entry>conference</entry>
         <entry>userRepo</entry>
         <entry>conferenceFile</entry>
+        <entry>crsf</entry>
+        <entry>CSRF</entry>
+        <entry>register</entry>
+        <entry>cors</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

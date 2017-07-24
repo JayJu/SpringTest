@@ -161,7 +161,6 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073110_added_entity_Company.xml" timestamp="1500858939503" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1498551086188">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="48" column="37" />
@@ -330,7 +329,6 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" timestamp="1498722205359">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/User.java" timestamp="1500858724833" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500525844971">
         <mark key="[" line="8" column="70" />
         <mark key="]" line="8" column="73" />
@@ -376,6 +374,13 @@
         <mark key="^" line="74" column="23" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" timestamp="1500860978463">
+        <mark key="'" line="90" column="18" />
+        <mark key="[" line="104" column="74" />
+        <mark key="]" line="105" column="70" />
+        <mark key="^" line="105" column="70" />
+        <mark key="." line="105" column="70" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-detail.component.html" timestamp="1498635938921">
         <mark key="'" line="25" column="63" />
         <mark key="[" line="38" column="47" />
@@ -395,11 +400,11 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.ts" timestamp="1499325343325">
-        <mark key="[" line="55" column="10" />
-        <mark key="]" line="55" column="10" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="55" column="10" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.ts" timestamp="1500861214681">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ApplicationProperties.java" timestamp="1500280387194">
         <mark key="[" line="201" column="0" />
@@ -606,7 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="23" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="24" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="25" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
@@ -706,55 +710,56 @@
       <jump line="26" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.html" />
       <jump line="19" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="188" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="90" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnlMaXN0ID0gQ29tcGFueVtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>h2</text>
+        <text>finish</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb21wYW55X25hbWUiIHR5cGU9InZhcmNoYXIoMjU1KSI+CiAgICAgICAgICAgICAgICA8Y29uc3RyYWludHMgbnVsbGFibGU9InRydWUiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnlMaXN0ID0gQ29tcGFueVtdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdpby5qc29ud2VidG9rZW4nLCBuYW1lOiAnamp3dCcsIHZlcnNpb246ICcwLjcuMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSX0VNQUlMLCBhdHRlbmRlZS5nZXRBdHRlbmRlZUlkKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgLnN3aXRjaE1hcCgoa2V5d29yZDogc3RyaW5nKSA9PiB0aGlzLmNvbXBhbnlTZXJ2aWNlLnNlYXJjaChrZXl3b3JkKS5zdWJzY3JpYmUoKHJlczogUmVzcG9uc2UpID0+IHt0aGlzLmNvbXBhbnlMaXN0ID0gcmVzLmpzb24oKTt9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW5kZWUuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mZXJlbmNlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLnN1YnNjcmliZSgocmVzOiBSZXNwb25zZSkgPT4geyByZXMuanNvbigpO30sIChyZXM6IFJlc3BvbnNlKSA9Pnt9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShVU0VSLCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLnN1YnNjcmliZSgocmVzOiBSZXNwb25zZSkgPT4geyB0aGlzLmNvbXBhbnlMaXN0ID0gcmVzLmpzb24oKX0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLnN3aXRjaE1hcCgoa2V5d29yZDogc3RyaW5nKSA9PiB0aGlzLmNvbXBhbnlTZXJ2aWNlLnNlYXJjaChrZXl3b3JkKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IE9wICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnlMaXN0ID0gQ29tcGFueVtdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdpby5qc29ud2VidG9rZW4nLCBuYW1lOiAnamp3dCcsIHZlcnNpb246ICcwLjcuMCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>h2</last-search>
+      <last-search>finish</last-search>
       <last-offset />
-      <last-pattern>h2</last-pattern>
+      <last-pattern>finish</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -762,7 +767,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hvcs</entry>
         <entry>saver</entry>
         <entry>async</entry>
         <entry>company</entry>
@@ -782,6 +786,7 @@
         <entry>conferenceApproval</entry>
         <entry>conferenceApp</entry>
         <entry>h2</entry>
+        <entry>finish</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

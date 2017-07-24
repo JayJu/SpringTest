@@ -113,6 +113,12 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="28" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500864523545">
+        <mark key="[" line="211" column="35" />
+        <mark key="]" line="211" column="47" />
+        <mark key="." line="211" column="47" />
+        <mark key="^" line="211" column="47" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.model.ts" timestamp="1498631002925">
         <mark key="'" line="36" column="8" />
         <mark key="[" line="51" column="68" />
@@ -713,11 +719,11 @@
       <jump line="90" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>reservation</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>reservation</text>
       </register>
       <register name="/" type="4">
         <text>finish</text>

@@ -117,11 +117,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="28" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500875152049">
-        <mark key="[" line="211" column="35" />
-        <mark key="]" line="211" column="47" />
-        <mark key="." line="211" column="47" />
-        <mark key="^" line="211" column="47" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500876428270">
+        <mark key="[" line="205" column="69" />
+        <mark key="]" line="205" column="93" />
+        <mark key="." line="205" column="93" />
+        <mark key="^" line="205" column="93" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/user/user.model.ts" timestamp="1498631002925">
         <mark key="'" line="36" column="8" />
@@ -273,6 +273,11 @@
         <mark key="]" line="115" column="6" />
         <mark key="^" line="115" column="6" />
         <mark key="." line="115" column="6" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500876676705">
+        <mark key="[" line="265" column="35" />
+        <mark key="]" line="265" column="35" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
         <mark key="'" line="25" column="0" />
@@ -754,16 +759,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VGaWxlcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>conference</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VWaWRlb3MiLCBqY2FjaGVDb25maWd1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY20uY3JlYXRlQ2FjaGUoQ29uZmVyZW5jZS5jbGFzcy5nZXROYW1lKCkgKyAiLmNvbmZlcmVuY2VGaWxlcyIsIGpjYWNoZUNvbmZpZ3VyYXRpb24pOwo=</text>

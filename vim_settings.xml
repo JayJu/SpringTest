@@ -199,11 +199,12 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500883476832">
-        <mark key="'" line="155" column="43" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500884395737">
+        <mark key="'" line="157" column="43" />
+        <mark key="[" line="159" column="17" />
+        <mark key="]" line="160" column="54" />
+        <mark key="." line="160" column="54" />
+        <mark key="^" line="160" column="54" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
         <mark key="[" line="33" column="16" />
@@ -594,11 +595,11 @@
       <jump line="48" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>

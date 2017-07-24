@@ -290,10 +290,10 @@
         <mark key="." line="8" column="73" />
         <mark key="^" line="8" column="73" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1500880953465">
-        <mark key="[" line="120" column="96" />
-        <mark key="]" line="120" column="96" />
-        <mark key="." line="120" column="96" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1500887978421">
+        <mark key="[" line="115" column="96" />
+        <mark key="]" line="115" column="96" />
+        <mark key="." line="115" column="96" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1500611237730">
         <mark key="'" line="48" column="0" />
@@ -596,10 +596,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>
@@ -608,31 +608,31 @@
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENvbmZlcmVuY2VGaWxlcyhjb25mZXJlbmNlRmlsZVNlcnZpY2Uuc2F2ZUNvbmZlcmVuY2VGaWxlcyhyZXN1bHQsIGhvc3RJZCwgQXBwcm92YWxDb2RlLkEpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudExvZ2luVXNlci5nZXRDb21wYW55KCkuaXNIa21jKCkgJiYgaXNJdGVybmFsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

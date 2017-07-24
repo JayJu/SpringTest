@@ -9,11 +9,6 @@
         <mark key="." line="19" column="53" />
         <mark key="^" line="19" column="53" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="8" column="74" />
-        <mark key="." line="8" column="74" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1498615883870">
         <mark key="'" line="3" column="11" />
       </file>
@@ -468,11 +463,6 @@
         <mark key="." line="49" column="18" />
         <mark key="^" line="49" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.ts" timestamp="1499158340400">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Member.java" timestamp="1498472457208">
         <mark key="'" line="354" column="16" />
         <mark key="[" line="25" column="0" />
@@ -515,6 +505,9 @@
         <mark key="]" line="4" column="103" />
         <mark key="^" line="4" column="103" />
         <mark key="." line="4" column="103" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500856549088">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/service/mapper/UserMapper.java" timestamp="1498472344238">
         <mark key="[" line="35" column="47" />
@@ -581,8 +574,8 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1500614895040">
-        <mark key="'" line="182" column="58" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1500854999093">
+        <mark key="'" line="188" column="17" />
         <mark key="[" line="205" column="12" />
         <mark key="]" line="205" column="13" />
         <mark key="^" line="205" column="28" />
@@ -596,8 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="21" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="22" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="23" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
       <jump line="24" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
@@ -696,6 +687,8 @@
       <jump line="11" column="79" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-delete-dialog.component.html" />
       <jump line="4" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-delete-dialog.component.html" />
       <jump line="26" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.html" />
+      <jump line="19" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="188" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -705,7 +698,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>conferenceApp</text>
+        <text>h2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJjb25mZXJlbmNlX21haWxfdHlwZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CiAgICAgICAgICAgIDwvY29sdW1uPgo=</text>
@@ -742,9 +735,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conferenceApp</last-search>
+      <last-search>h2</last-search>
       <last-offset />
-      <last-pattern>conferenceApp</last-pattern>
+      <last-pattern>h2</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -752,7 +745,6 @@
     </search>
     <history>
       <history-search>
-        <entry>JHipster</entry>
         <entry>hvcs</entry>
         <entry>saver</entry>
         <entry>async</entry>
@@ -772,6 +764,7 @@
         <entry>li</entry>
         <entry>conferenceApproval</entry>
         <entry>conferenceApp</entry>
+        <entry>h2</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

@@ -262,6 +262,13 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500878433853">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="155" column="55" />
+        <mark key="]" line="156" column="57" />
+        <mark key="^" line="156" column="57" />
+        <mark key="." line="156" column="57" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="19" />
@@ -274,11 +281,11 @@
         <mark key="^" line="115" column="6" />
         <mark key="." line="115" column="6" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500877805177">
-        <mark key="[" line="265" column="35" />
-        <mark key="]" line="266" column="40" />
-        <mark key="." line="266" column="40" />
-        <mark key="^" line="266" column="40" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500878459657">
+        <mark key="[" line="266" column="12" />
+        <mark key="]" line="266" column="13" />
+        <mark key="." line="266" column="13" />
+        <mark key="^" line="266" column="24" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1498719360500">
         <mark key="'" line="25" column="0" />
@@ -325,6 +332,12 @@
         <mark key="]" line="33" column="16" />
         <mark key="^" line="33" column="16" />
         <mark key="." line="33" column="16" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/UserRepository.java" timestamp="1500878487548">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="16" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="16" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/logback-spring.xml" timestamp="1500507993624">
         <mark key="[" line="62" column="36" />
@@ -657,10 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/User.java" />
-      <jump line="25" column="63" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-detail.component.html" />
-      <jump line="159" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.html" />
-      <jump line="151" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="217" column="134" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="227" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
       <jump line="94" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
@@ -757,16 +766,20 @@
       <jump line="264" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="267" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="20" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
+      <jump line="55" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="157" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="184" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="53" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>conference</text>
+        <text>userRepo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
@@ -803,9 +816,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conference</last-search>
+      <last-search>userRepo</last-search>
       <last-offset />
-      <last-pattern>conference</last-pattern>
+      <last-pattern>userRepo</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -813,7 +826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>register</entry>
         <entry>log</entry>
         <entry>serucity</entry>
@@ -833,6 +845,7 @@
         <entry>Conference</entry>
         <entry>conference_id</entry>
         <entry>conference</entry>
+        <entry>userRepo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

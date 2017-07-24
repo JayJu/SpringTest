@@ -199,12 +199,11 @@
         <mark key="." line="85" column="72" />
         <mark key="^" line="85" column="72" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500880902377">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1500883476832">
         <mark key="'" line="155" column="43" />
-        <mark key="[" line="183" column="30" />
-        <mark key="]" line="183" column="56" />
-        <mark key="^" line="183" column="56" />
-        <mark key="." line="183" column="56" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1499321693698">
         <mark key="[" line="33" column="16" />
@@ -596,7 +595,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -608,31 +607,31 @@
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY29uZmVyZW5jZUZpbGUuc2V0QXBwcm92ZXJJZChhcHByb3Zlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFVzZXJSZXBvc2l0b3J5IHVzZXJSZXBvc2l0b3J5Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPFVzZXI+IGZpbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

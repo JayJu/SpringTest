@@ -6,6 +6,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1500970828664" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
         <mark key="[" line="8" column="73" />
         <mark key="]" line="8" column="74" />
@@ -144,21 +145,18 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500969048113">
-        <mark key="[" line="205" column="69" />
-        <mark key="]" line="205" column="93" />
-        <mark key="." line="205" column="93" />
-        <mark key="^" line="205" column="93" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500971007995">
+        <mark key="'" line="196" column="85" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="209" column="7" />
+        <mark key="." line="209" column="7" />
+        <mark key="^" line="209" column="7" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" timestamp="1499158938706">
         <mark key="'" line="16" column="82" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="45" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="47" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="51" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="3" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" />
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" />
@@ -255,55 +253,59 @@
       <jump line="60" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
       <jump line="82" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
       <jump line="48" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
+      <jump line="157" column="84" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="141" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="159" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="196" column="85" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>cors</text>
+        <text>sendConferenceFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShBVFRFTkRFRV9OQU1FLCBhdHRlbmRlZS5nZXRBdHRlbmRlZU5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENvbmZlcmVuY2VGaWxlcyhjb25mZXJlbmNlRmlsZVNlcnZpY2Uuc2F2ZUNvbmZlcmVuY2VGaWxlcyhyZXN1bHQsIGhvc3RJZCwgQXBwcm92YWxDb2RlLkEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudExvZ2luVXNlci5nZXRDb21wYW55KCkuaXNIa21jKCkgJiYgaXNJdGVybmFsKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05GRVJFTkNFX01BSUxfVFlQRSA9ICJtYWlsVHlwZSI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cors</last-search>
+      <last-search>sendConferenceFile</last-search>
       <last-offset />
-      <last-pattern>cors</last-pattern>
+      <last-pattern>sendConferenceFile</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -311,8 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conferenceApproval</entry>
-        <entry>conferenceApp</entry>
         <entry>h2</entry>
         <entry>finish</entry>
         <entry>User</entry>
@@ -331,6 +331,8 @@
         <entry>CSRF</entry>
         <entry>register</entry>
         <entry>cors</entry>
+        <entry>getContext</entry>
+        <entry>sendConferenceFile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

@@ -145,21 +145,18 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500971007995">
-        <mark key="'" line="196" column="85" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="209" column="7" />
-        <mark key="." line="209" column="7" />
-        <mark key="^" line="209" column="7" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500972087121">
+        <mark key="'" line="210" column="32" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="52" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" timestamp="1499158938706">
         <mark key="'" line="16" column="82" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="3" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" />
-      <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" />
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" />
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" />
       <jump line="22" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" />
@@ -257,22 +254,25 @@
       <jump line="141" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
       <jump line="159" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
       <jump line="196" column="85" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="39" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="160" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
+      <jump line="210" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>sendConferenceFile</text>
+        <text>ATTENDEE_NAME</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRWYXJpYWJsZShBVFRFTkRFRV9OQU1FLCBhdHRlbmRlZS5nZXRBdHRlbmRlZU5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbmZlcmVuY2VNYWlsU2VydmljZS5zYXZlKGNvbmZlcmVuY2VNYWlsKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -287,25 +287,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT05GRVJFTkNFX01BSUxfVFlQRSA9ICJtYWlsVHlwZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25mZXJlbmNlTWFpbC5zZXRSZWNlaXZlcihyZWNlaXZlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlTWFpbCBjb25mZXJlbmNlTWFpbCA9IGNvbmZlcmVuY2VNYWlsU2VydmljZS5nZXREZWZhdWx0Q29uZmVyZW5jZUZpbGVBcHByb3ZhbE1haWwoY29uZmVyZW5jZSwgbWFpbEVycm9yVk0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sendConferenceFile</last-search>
+      <last-search>ATTENDEE_NAME</last-search>
       <last-offset />
-      <last-pattern>sendConferenceFile</last-pattern>
+      <last-pattern>ATTENDEE_NAME</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -313,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>h2</entry>
         <entry>finish</entry>
         <entry>User</entry>
         <entry>users</entry>
@@ -333,6 +332,7 @@
         <entry>cors</entry>
         <entry>getContext</entry>
         <entry>sendConferenceFile</entry>
+        <entry>ATTENDEE_NAME</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

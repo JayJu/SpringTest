@@ -41,6 +41,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalEmail.html" timestamp="1500967208934">
+        <mark key="[" line="27" column="41" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="27" column="42" />
+        <mark key="." line="27" column="42" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_ConferenceFile.xml" timestamp="1500874922215">
         <mark key="'" line="60" column="26" />
       </file>
@@ -62,6 +68,18 @@
         <mark key="]" line="126" column="7" />
         <mark key="^" line="126" column="7" />
         <mark key="." line="126" column="7" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500967747336">
+        <mark key="[" line="118" column="36" />
+        <mark key="]" line="118" column="39" />
+        <mark key="." line="118" column="39" />
+        <mark key="^" line="118" column="39" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500967224462">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="27" column="48" />
+        <mark key="^" line="27" column="48" />
+        <mark key="." line="27" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1500874762933">
         <mark key="[" line="0" column="0" />
@@ -240,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonBackReference</text>
+        <text>8080</text>
       </register>
       <register name="-" type="4">
-        <text>JsonBackReference</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>

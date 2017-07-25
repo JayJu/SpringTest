@@ -75,11 +75,11 @@
         <mark key="." line="118" column="39" />
         <mark key="^" line="118" column="39" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500967224462">
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="27" column="48" />
-        <mark key="^" line="27" column="48" />
-        <mark key="." line="27" column="48" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500969033132">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="27" column="55" />
       </file>
       <file name="/Dummy.txt" timestamp="1500874762933">
         <mark key="[" line="0" column="0" />
@@ -144,7 +144,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500876428270">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500969048113">
         <mark key="[" line="205" column="69" />
         <mark key="]" line="205" column="93" />
         <mark key="." line="205" column="93" />
@@ -258,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8080</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>8080</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>
@@ -270,31 +270,31 @@
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENvbmZlcmVuY2VGaWxlcyhjb25mZXJlbmNlRmlsZVNlcnZpY2Uuc2F2ZUNvbmZlcmVuY2VGaWxlcyhyZXN1bHQsIGhvc3RJZCwgQXBwcm92YWxDb2RlLkEpKTsK</text>
+        <text encoding="base64">Pj4+Pj4+PiAxYzQyNmE2YzY0NDAzZjZmNDkxZTcyZjBjMzdhYzk2N2JjODNlZTNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudExvZ2luVXNlci5nZXRDb21wYW55KCkuaXNIa21jKCkgJiYgaXNJdGVybmFsKSB7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LnNldENvbmZlcmVuY2VGaWxlcyhjb25mZXJlbmNlRmlsZVNlcnZpY2Uuc2F2ZUNvbmZlcmVuY2VGaWxlcyhyZXN1bHQsIGhvc3RJZCwgQXBwcm92YWxDb2RlLkEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudExvZ2luVXNlci5nZXRDb21wYW55KCkuaXNIa21jKCkgJiYgaXNJdGVybmFsKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFuZCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

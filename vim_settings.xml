@@ -6,11 +6,11 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1498629238102">
         <mark key="'" line="158" column="36" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501049086907">
-        <mark key="[" line="135" column="9" />
-        <mark key="]" line="135" column="8" />
-        <mark key="^" line="135" column="8" />
-        <mark key="." line="135" column="8" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501052867268">
+        <mark key="[" line="134" column="49" />
+        <mark key="]" line="135" column="7" />
+        <mark key="^" line="135" column="7" />
+        <mark key="." line="135" column="7" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
         <mark key="[" line="8" column="73" />
@@ -177,6 +177,12 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1498722195782">
         <mark key="'" line="22" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailIdNotFoundException.java" timestamp="1501052655362">
+        <mark key="[" line="2" column="79" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500979844927">
         <mark key="'" line="210" column="32" />
         <mark key="[" line="226" column="0" />
@@ -195,6 +201,12 @@
         <mark key="]" line="36" column="29" />
         <mark key="^" line="36" column="41" />
         <mark key="." line="36" column="29" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailException.java" timestamp="1501052559117">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" timestamp="1499158938706">
         <mark key="'" line="16" column="82" />
@@ -303,8 +315,8 @@
       <jump line="114" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIm1haWxJZDogIiArIGNvbmZlcmVuY2VNYWlsSWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -316,31 +328,31 @@
         <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iY29sb3I6IHdoaXRlOyIgdGg6dXRleHQ9IiR7JyZsdDshLS0gQG1pZDonICsgbWFpbElkICsgJy0tJmd0Oyd9IiB0aDpyZW1vdmU9InRhZyI+PC9zcGFuPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iY29sb3I6IHdoaXRlOyIgdGg6dXRleHQ9IiR7bWFpbElkfSI+dHR0dDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIm1haWxJZDogIiArIGNvbmZlcmVuY2VNYWlsSWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iY29sb3I6IHdoaXRlOyIgdGg6dXRleHQ9IiR7bWFpbElkfSI+dHR0dDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEN1c3RvbVBhcmFtZXRlcml6ZWRFeGNlcHRpb24oZXJyb3JNZXNzYWdlLCAic2F2ZSBjb25mZXJlbmNlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Zm9udGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXVzZXIuaXNQcmVzZW50KCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXJyb3JNZXNzYWdlID0gImh2Y3NBcHAuY29uZmVyZW5jZS5lcnJvck1lc3NhZ2Uubm90RXhpc3RIb3N0SWQiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVjZWl2ZXJGcm9tUmV0dXJuTWVzc2FnZShTdHJpbmcgcmV0dXJuTWVzc2FnZSkgewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

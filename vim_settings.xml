@@ -83,11 +83,11 @@
         <mark key="." line="242" column="0" />
         <mark key="^" line="242" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501060588376">
-        <mark key="[" line="182" column="40" />
-        <mark key="]" line="182" column="40" />
-        <mark key="." line="182" column="40" />
-        <mark key="^" line="182" column="40" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501061340771">
+        <mark key="[" line="182" column="26" />
+        <mark key="]" line="182" column="37" />
+        <mark key="." line="182" column="37" />
+        <mark key="^" line="182" column="37" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1501048793616">
         <mark key="[" line="28" column="96" />
@@ -95,7 +95,7 @@
         <mark key="." line="28" column="96" />
         <mark key="^" line="28" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501046196874">
+      <file name="/Dummy.txt" timestamp="1501061776708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="22" />
@@ -281,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>

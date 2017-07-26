@@ -24,7 +24,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" timestamp="1500891356693">
         <mark key="'" line="118" column="26" />
       </file>
-      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/java/com/hds/collector/netbackup/biz/BackupConfig.java" timestamp="1501027107335" />
+      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/java/com/hds/collector/netbackup/biz/BackupConfig.java" timestamp="1501028467581" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1498615883870">
         <mark key="'" line="3" column="11" />
       </file>
@@ -76,13 +76,13 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared.module.ts" timestamp="1499324894032">
         <mark key="'" line="28" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501027027968">
-        <mark key="[" line="181" column="29" />
-        <mark key="]" line="181" column="35" />
-        <mark key="." line="181" column="35" />
-        <mark key="^" line="181" column="35" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501028829951">
+        <mark key="[" line="182" column="28" />
+        <mark key="]" line="182" column="41" />
+        <mark key="." line="182" column="41" />
+        <mark key="^" line="182" column="41" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500979063178">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1501028574858">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="35" />
         <mark key="." line="27" column="35" />
@@ -281,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>메일아이디</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>메일아이디</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>

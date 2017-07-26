@@ -24,6 +24,7 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" timestamp="1500891356693">
         <mark key="'" line="118" column="26" />
       </file>
+      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/java/com/hds/collector/netbackup/biz/BackupConfig.java" timestamp="1501027107335" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1498615883870">
         <mark key="'" line="3" column="11" />
       </file>
@@ -52,6 +53,7 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="D:/Dev/Source/IntelliJWorkspace/NetbackupLogCollector/src/main/java/com/hds/collector/netbackup/biz/PolicyParser.java" timestamp="1501027101875" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalEmail.html" timestamp="1500979049526">
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="35" />
@@ -74,11 +76,11 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared.module.ts" timestamp="1499324894032">
         <mark key="'" line="28" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1500967747336">
-        <mark key="[" line="118" column="36" />
-        <mark key="]" line="118" column="39" />
-        <mark key="." line="118" column="39" />
-        <mark key="^" line="118" column="39" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501027027968">
+        <mark key="[" line="181" column="29" />
+        <mark key="]" line="181" column="35" />
+        <mark key="." line="181" column="35" />
+        <mark key="^" line="181" column="35" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1500979063178">
         <mark key="[" line="27" column="35" />
@@ -278,11 +280,11 @@
       <jump line="114" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>메일아이디</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>메일아이디</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>

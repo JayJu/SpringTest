@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501056684215">
-        <mark key="[" line="132" column="86" />
-        <mark key="]" line="132" column="92" />
-        <mark key="^" line="132" column="92" />
-        <mark key="." line="132" column="92" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501058677692">
+        <mark key="[" line="37" column="65" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="58" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
         <mark key="[" line="8" column="73" />
@@ -18,6 +18,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1501058545013">
+        <mark key="'" line="3" column="11" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501045345152">
         <mark key="[" line="68" column="0" />
@@ -77,11 +83,11 @@
         <mark key="." line="242" column="0" />
         <mark key="^" line="242" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501032643054">
-        <mark key="[" line="182" column="27" />
-        <mark key="]" line="183" column="11" />
-        <mark key="." line="183" column="11" />
-        <mark key="^" line="183" column="11" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501058064560">
+        <mark key="[" line="182" column="40" />
+        <mark key="]" line="182" column="40" />
+        <mark key="." line="182" column="40" />
+        <mark key="^" line="182" column="40" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1501048793616">
         <mark key="[" line="28" column="96" />
@@ -276,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>receiver</text>
@@ -288,31 +294,31 @@
         <text encoding="base64">ICAgICAgICA8c3BhbiBzdHlsZT0iY29sb3I6IHdoaXRlOyIgdGg6dXRleHQ9IiR7JyZsdDshLS0gQG1pZDonICsgbWFpbElkICsgJy0tJmd0Oyd9IiB0aDpyZW1vdmU9InRhZyI+PC9zcGFuPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJldHVybiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihleCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDb25mZXJlbmNlTWFpbEV4Y2VwdGlvbihFeGNlcHRpb24gZXgpIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihleCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBDb25mZXJlbmNlTWFpbEV4Y2VwdGlvbihFeGNlcHRpb24gZXgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

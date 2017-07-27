@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501115570272">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501117291279">
         <mark key="'" line="139" column="47" />
-        <mark key="[" line="147" column="76" />
-        <mark key="]" line="149" column="20" />
-        <mark key="." line="149" column="20" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
         <mark key="^" line="149" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
@@ -95,6 +95,12 @@
         <mark key="." line="242" column="0" />
         <mark key="^" line="242" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/ConferenceMailService.java" timestamp="1501117754640">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501061340771">
         <mark key="[" line="183" column="26" />
         <mark key="]" line="183" column="37" />
@@ -106,6 +112,12 @@
         <mark key="]" line="28" column="96" />
         <mark key="." line="28" column="96" />
         <mark key="^" line="28" column="68" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/UserMailService.java" timestamp="1501117261670">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1501061926989">
         <mark key="[" line="0" column="0" />
@@ -138,6 +150,11 @@
         <mark key="." line="266" column="13" />
         <mark key="^" line="266" column="24" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1501117748117">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1500871312216">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="17" />
@@ -165,7 +182,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1500979844927">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" timestamp="1501117108834">
         <mark key="'" line="210" column="32" />
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
@@ -191,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="169" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="170" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="171" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
@@ -291,13 +307,14 @@
       <jump line="102" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="106" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="139" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" />
+      <jump line="16" column="3" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/ConferenceMailService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>con</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>con</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Response</text>
@@ -309,31 +326,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZlcmVuY2VGaWxlU2VydmljZSA9IGNvbmZlcmVuY2VGaWxlU2VydmljZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJldHVybiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbmZlcmVuY2VNYWlsU2VydmljZSA9IGNvbmZlcmVuY2VNYWlsU2VydmljZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIGNvbmZlcmVuY2UuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBBc3luY2RkZGQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -386,9 +403,9 @@
         <entry>186</entry>
         <entry>44</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>%</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

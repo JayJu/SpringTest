@@ -3,39 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501120164794">
-        <mark key="'" line="139" column="47" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="146" column="20" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501121041696">
+        <mark key="'" line="153" column="47" />
+        <mark key="[" line="120" column="64" />
+        <mark key="]" line="120" column="65" />
+        <mark key="." line="120" column="65" />
+        <mark key="^" line="116" column="50" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
-        <mark key="[" line="8" column="73" />
-        <mark key="]" line="8" column="74" />
-        <mark key="." line="8" column="74" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1501120069023">
-        <mark key="[" line="139" column="16" />
-        <mark key="]" line="141" column="18" />
-        <mark key="^" line="137" column="15" />
-        <mark key="." line="141" column="18" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/UserRepository.java" timestamp="1500880693734">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1501122431337">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="155" column="70" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1501058545013">
         <mark key="'" line="3" column="11" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="38" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501045345152">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceException.java" timestamp="1501056459910">
         <mark key="[" line="2" column="58" />
@@ -62,21 +48,11 @@
         <mark key="." line="108" column="0" />
         <mark key="^" line="108" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceFileRepository.java" timestamp="1501119631018">
-        <mark key="[" line="24" column="79" />
-        <mark key="]" line="24" column="80" />
-        <mark key="^" line="26" column="91" />
-        <mark key="." line="24" column="80" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1500859663290">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management.component.ts" timestamp="1499158340400">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceFileRepository.java" timestamp="1501122218778">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ApplicationProperties.java" timestamp="1501032414086">
         <mark key="[" line="158" column="9" />
@@ -142,12 +118,12 @@
         <mark key="^" line="60" column="17" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1501119779044">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1501122291744">
         <mark key="'" line="165" column="43" />
-        <mark key="[" line="131" column="61" />
-        <mark key="]" line="131" column="64" />
-        <mark key="." line="131" column="64" />
-        <mark key="^" line="131" column="64" />
+        <mark key="[" line="134" column="29" />
+        <mark key="]" line="134" column="29" />
+        <mark key="." line="134" column="29" />
+        <mark key="^" line="134" column="29" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" timestamp="1500881051277">
         <mark key="'" line="60" column="58" />
@@ -178,6 +154,12 @@
         <mark key="]" line="37" column="17" />
         <mark key="." line="37" column="17" />
         <mark key="^" line="37" column="17" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/enumeration/ConferenceMailType.java" timestamp="1501120985674">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="49" />
+        <mark key="^" line="6" column="49" />
+        <mark key="." line="6" column="49" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" timestamp="1500882742648">
         <mark key="'" line="48" column="4" />
@@ -218,17 +200,11 @@
         <mark key="^" line="36" column="41" />
         <mark key="." line="36" column="29" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailException.java" timestamp="1501056582697">
-        <mark key="[" line="2" column="66" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1501118379396">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="170" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="171" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="173" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
@@ -328,55 +304,56 @@
       <jump line="106" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="139" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" />
       <jump line="16" column="3" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/ConferenceMailService.java" />
+      <jump line="36" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC/ub7guN7Az8DMuOkgLT4gsLO8s8Dav6Gw1CDF67q4CiAgICAgICAgLy8gvcLAzrjewM/AzLjpIC0+IL73t8609b+hsNQgxeu6uAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>Response</text>
+        <text>CONFERENCE_FILES</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIlJlcXVlc3QgdG8gZ2V0IGNvbmZlcmVuY2VGaWxlSWQgOiB7fSwge30sIHt9IiwgbmFtZSwgY29uZmVyZW5jZUlkLCB1cGxvYWRlcklkKTsKICAgICAgICBDb25mZXJlbmNlRmlsZSBjb25mZXJlbmNlRmlsZSA9IGNvbmZlcmVuY2VGaWxlUmVwb3NpdG9yeS5maW5kT25lQnlOYW1lQW5kQ29uZmVyZW5jZUlkQW5kVXBsb2FkZXJJZChuYW1lLCBjb25mZXJlbmNlSWQsIHVwbG9hZGVySWQpOwogICAgICAgIHJldHVybiBjb25mZXJlbmNlRmlsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRDb25mZXJlbmNlTWFpbChjb25mZXJlbmNlTWFpbCwgY29udGV4dCwgY29uZmVyZW5jZS5nZXRIb3N0KCkuZ2V0TG9naW4oKSwgIiIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC/ub7guN7Az8DMuOkgLT4gsLO8s8Dav6Gw1CDF67q4CiAgICAgICAgLy8gvcLAzrjewM/AzLjpIC0+IL73t8609b+hsNQgxeu6uAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hdXRvZXZlci5odmNzLnNlcnZpY2UuQ29uZmVyZW5jZUZpbGVTZXJ2aWNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VNYWlsLnNldFJlY2VpdmVyKGNvbmZlcmVuY2UuZ2V0SG9zdCgpLmdldExvZ2luKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29uZmVyZW5jZUZpbGVTZXJ2aWNlIGNvbmZlcmVuY2VGaWxlU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Response</last-search>
+      <last-search>CONFERENCE_FILES</last-search>
       <last-offset />
-      <last-pattern>Response</last-pattern>
+      <last-pattern>CONFERENCE_FILES</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forien</entry>
         <entry>foreign</entry>
         <entry>For</entry>
         <entry>Conference</entry>
@@ -404,6 +380,7 @@
         <entry>loadPart</entry>
         <entry>loadParti</entry>
         <entry>Response</entry>
+        <entry>CONFERENCE_FILES</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>
@@ -460,6 +437,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

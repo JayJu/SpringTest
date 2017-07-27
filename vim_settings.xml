@@ -10,12 +10,12 @@
         <mark key="." line="120" column="65" />
         <mark key="^" line="116" column="50" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1501122431337">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1501123942740">
         <mark key="'" line="36" column="29" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-        <mark key="^" line="155" column="70" />
+        <mark key="[" line="158" column="81" />
+        <mark key="]" line="158" column="98" />
+        <mark key="^" line="158" column="98" />
+        <mark key="." line="158" column="98" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1501058545013">
         <mark key="'" line="3" column="11" />
@@ -307,11 +307,11 @@
       <jump line="36" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>CONFERENCE_FILES</text>
@@ -320,31 +320,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbmRDb25mZXJlbmNlTWFpbChjb25mZXJlbmNlTWFpbCwgY29udGV4dCwgY29uZmVyZW5jZS5nZXRIb3N0KCkuZ2V0TG9naW4oKSwgIiIsICIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSB0aGlzLmNvbmZlcmVuY2VTZXJ2aWNlLmZpbmRPbmUoY29uZmVyZW5jZUlkKSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGpqampqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VNYWlsLnNldFJlY2VpdmVyKGNvbmZlcmVuY2UuZ2V0SG9zdCgpLmdldExvZ2luKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbmZlcmVuY2VGaWxlLmdldFVwbG9hZGVySWQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB1cGxvYWRlckVtYWlsID0gY29uZmVyZW5jZUZpbGVzLnN0cmVhbSgpLmZpbmRGaXJzdCgpLmdldCgpLmdldFVwbG9hZGVySWQoKSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC/ub7guN7Az8DMuOkgLT4gsLO8s8Dav6Gw1CDF67q4CiAgICAgICAgLy8gvcLAzrjewM/AzLjpIC0+IL73t8609b+hsNQgxeu6uAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

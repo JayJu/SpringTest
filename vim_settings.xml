@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501058677692">
-        <mark key="[" line="37" column="65" />
-        <mark key="]" line="38" column="58" />
-        <mark key="." line="38" column="58" />
-        <mark key="^" line="38" column="58" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" timestamp="1501115570272">
+        <mark key="'" line="139" column="47" />
+        <mark key="[" line="147" column="76" />
+        <mark key="]" line="149" column="20" />
+        <mark key="." line="149" column="20" />
+        <mark key="^" line="149" column="20" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-detail.component.ts" timestamp="1499325474449">
         <mark key="[" line="8" column="73" />
@@ -49,12 +50,12 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/company/company.service.ts" timestamp="1501112034018" />
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/participant.component.ts" timestamp="1501113470983">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/participant.component.ts" timestamp="1501114873454">
         <mark key="'" line="222" column="0" />
-        <mark key="[" line="102" column="36" />
-        <mark key="]" line="102" column="36" />
-        <mark key="." line="102" column="36" />
-        <mark key="^" line="102" column="39" />
+        <mark key="[" line="102" column="38" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="108" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" timestamp="1500859663290">
         <mark key="[" line="38" column="0" />
@@ -72,7 +73,7 @@
         <mark key="^" line="160" column="40" />
         <mark key="." line="160" column="40" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" timestamp="1501113797820">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" timestamp="1501114175292">
         <mark key="'" line="106" column="34" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalEmail.html" timestamp="1501112883504">
@@ -190,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="89" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="167" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="169" column="68" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
       <jump line="170" column="72" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
@@ -290,13 +290,14 @@
       <jump line="91" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="102" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="106" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
+      <jump line="139" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>con</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>con</text>
       </register>
       <register name="/" type="4">
         <text>Response</text>
@@ -308,31 +309,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJldHVybiIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInJldHVybiIpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihleCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%</text>
       </register>
     </registers>
     <search>
@@ -376,18 +377,18 @@
         <entry>%s/firstname/firstName/g</entry>
         <entry>%s/lastname/lastName/g</entry>
         <entry>%s/department/departmentName/g</entry>
-        <entry>q</entry>
         <entry>0</entry>
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
         <entry>q!</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>176</entry>
-        <entry>%</entry>
         <entry>186</entry>
         <entry>44</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>%</entry>
       </history-cmd>
       <history-expr />
       <history-input />

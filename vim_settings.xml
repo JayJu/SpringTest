@@ -192,6 +192,12 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailConferenceService.java" timestamp="1501134465095">
+        <mark key="[" line="156" column="89" />
+        <mark key="]" line="156" column="91" />
+        <mark key="." line="156" column="91" />
+        <mark key="^" line="156" column="91" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073119_added_entity_ConferenceMail.xml" timestamp="1500974257872">
         <mark key="[" line="30" column="39" />
         <mark key="]" line="30" column="42" />
@@ -313,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>file</text>

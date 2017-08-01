@@ -9,18 +9,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1501203088710">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1501058545013">
         <mark key="'" line="3" column="11" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="38" />
         <mark key="." line="23" column="38" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501207328331">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="39" column="76" />
@@ -68,6 +63,12 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
+        <mark key="[" line="23" column="47" />
+        <mark key="]" line="23" column="48" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -80,11 +81,11 @@
         <mark key="." line="36" column="18" />
         <mark key="^" line="28" column="68" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501061340771">
-        <mark key="[" line="183" column="26" />
-        <mark key="]" line="183" column="37" />
-        <mark key="." line="183" column="37" />
-        <mark key="^" line="183" column="37" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501577620197">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+        <mark key="^" line="28" column="52" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1501145202812">
         <mark key="[" line="15" column="135" />
@@ -109,6 +110,9 @@
         <mark key="]" line="245" column="0" />
         <mark key="^" line="60" column="17" />
         <mark key="." line="245" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1501577612065">
+        <mark key="'" line="81" column="14" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1501203209937">
         <mark key="'" line="268" column="12" />
@@ -199,14 +203,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1501118379396">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="156" column="94" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.html" />
-      <jump line="19" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="15" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="5" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/account/register/register.component.ts" />
       <jump line="16" column="82" filename="D:/Biz/05.Project/17.HVCS/Source/kurento-typescript/src/app/service/KASLocalStream.ts" />
@@ -304,55 +302,58 @@
       <jump line="264" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="150" column="80" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
       <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
+      <jump line="89" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="25" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
+      <jump line="81" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QExhenkK</text>
+      <register name="&quot;" type="4">
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>hvcs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cCB0aDp0ZXh0PSIje2VtYWlsLmNvbmZlcmVuY2UucmVzZXJ2YXRpb24uZmFpbC5ncmVldGluZygke3JlY2VpdmVyTmFtZX0pfSI+CiAgICAgICAgICAgIERlYXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
+        <text encoding="base64">QExhenkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFByaW1hcnkK</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFByaW1hcnkK</text>
+        <text encoding="base64">ICAgIEBQb3N0Q29uc3RydWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFByaW1hcnlkZAo=</text>
+        <text encoding="base64">QFByaW1hcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
+        <text encoding="base64">QFByaW1hcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">QFByaW1hcnlkZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QExhenkK</text>
+        <text encoding="base64">ICAgIEBQcmltYXJ5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>hvcs</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
+      <last-pattern>hvcs</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Conference</entry>
         <entry>conference_id</entry>
         <entry>conference</entry>
         <entry>userRepo</entry>
@@ -380,6 +380,7 @@
         <entry>CONFERENCE_FILES</entry>
         <entry>mailConference</entry>
         <entry>file</entry>
+        <entry>hvcs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>
@@ -399,8 +400,8 @@
         <entry>186</entry>
         <entry>44</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>%</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

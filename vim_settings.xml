@@ -9,6 +9,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073110_added_entity_Company.xml" timestamp="1501582145860">
+        <mark key="[" line="45" column="29" />
+        <mark key="]" line="45" column="32" />
+        <mark key="^" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1501058545013">
         <mark key="'" line="3" column="11" />
         <mark key="[" line="23" column="37" />
@@ -20,6 +26,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="39" column="76" />
         <mark key="^" line="36" column="13" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501582378448">
+        <mark key="[" line="78" column="33" />
+        <mark key="]" line="78" column="35" />
+        <mark key="." line="78" column="35" />
+        <mark key="^" line="78" column="35" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceException.java" timestamp="1501056459910">
         <mark key="[" line="2" column="58" />
@@ -81,12 +93,13 @@
         <mark key="." line="36" column="18" />
         <mark key="^" line="28" column="68" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501577620197">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="28" column="52" />
-        <mark key="^" line="28" column="52" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1501582479127">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
+        <mark key="^" line="45" column="46" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" timestamp="1501582309552" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1501145202812">
         <mark key="[" line="15" column="135" />
         <mark key="]" line="15" column="143" />
@@ -308,16 +321,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>root</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>hvcs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cCB0aDp0ZXh0PSIje2VtYWlsLmNvbmZlcmVuY2UucmVzZXJ2YXRpb24uZmFpbC5ncmVldGluZygke3JlY2VpdmVyTmFtZX0pfSI+CiAgICAgICAgICAgIERlYXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJhY3R1YWxfYmVnaW5fZGF0ZXRpbWUiIHR5cGU9InRpbWVzdGFtcCIvPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IAo=</text>

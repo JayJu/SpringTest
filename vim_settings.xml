@@ -27,11 +27,11 @@
         <mark key="." line="39" column="76" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501582378448">
-        <mark key="[" line="78" column="33" />
-        <mark key="]" line="78" column="35" />
-        <mark key="." line="78" column="35" />
-        <mark key="^" line="78" column="35" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501583334164">
+        <mark key="[" line="56" column="41" />
+        <mark key="]" line="56" column="46" />
+        <mark key="." line="56" column="46" />
+        <mark key="^" line="56" column="46" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceException.java" timestamp="1501056459910">
         <mark key="[" line="2" column="58" />
@@ -86,6 +86,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="49" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_ConferenceFile.xml" timestamp="1501583542934">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/ConferenceMailService.java" timestamp="1501118258405">
         <mark key="[" line="36" column="18" />
@@ -321,10 +327,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hvcs</text>

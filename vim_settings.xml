@@ -27,11 +27,11 @@
         <mark key="." line="39" column="76" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501583334164">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="46" />
-        <mark key="." line="56" column="46" />
-        <mark key="^" line="56" column="46" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501655080206">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="54" />
+        <mark key="." line="20" column="54" />
+        <mark key="^" line="20" column="54" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceException.java" timestamp="1501056459910">
         <mark key="[" line="2" column="58" />
@@ -45,11 +45,10 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073116_added_entity_ConferenceVideo.xml" timestamp="1501649084315">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="56" />
-        <mark key="." line="40" column="56" />
-        <mark key="^" line="40" column="56" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073116_added_entity_ConferenceVideo.xml" timestamp="1501655254473">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/StringUtil.java" timestamp="1501060389998">
         <mark key="[" line="19" column="0" />
@@ -123,6 +122,9 @@
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501654845543">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1501119123530">
         <mark key="[" line="245" column="0" />
@@ -354,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OjkyMmNkZjFjMDE0MTZiYTkxNjU0YjczM2UwNzNlNmJiPC92YWxpZENoZWNrU3VtPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>company</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>liqu</text>
@@ -366,31 +368,31 @@
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAibmFtZSIsCiAgICAgICAgICAgICJqYXZhZG9jIjogIsDMuKciLAogICAgICAgICAgICAiZmllbGRUeXBlIjogIlN0cmluZyIsCiAgICAgICAgICAgICJmaWVsZFZhbGlkYXRlUnVsZXMiOiBbCiAgICAgICAgICAgICAgICAicmVxdWlyZWQiCiAgICAgICAgICAgIF0KICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OjkyMmNkZjFjMDE0MTZiYTkxNjU0YjczM2UwNzNlNmJiPC92YWxpZENoZWNrU3VtPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OmQ1ODE3NGE4MDlmMjM1MmQ5NDY3MjQ2YjlkNjlkY2IxPC92YWxpZENoZWNrU3VtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5UmVsYXRpb25zaGlwTmFtZSI6ICJjb21wYW55Igo=</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5TmFtZSI6ICJtZW1iZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbGF0aW9uc2hpcE5hbWUiOiAibWVtYmVyIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5UmVsYXRpb25zaGlwTmFtZSI6ICJjb21wYW55Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlbGF0aW9uc2hpcFR5cGUiOiAib25lLXRvLW1hbnkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5TmFtZSI6ICJtZW1iZXIiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJlbGF0aW9uc2hpcE5hbWUiOiAibWVtYmVyIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZWxhdGlvbnNoaXBzIjogWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJlbGF0aW9uc2hpcFR5cGUiOiAib25lLXRvLW1hbnkiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

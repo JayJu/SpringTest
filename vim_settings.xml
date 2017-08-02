@@ -50,6 +50,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceAttendHistory.java" timestamp="1501657239145" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/StringUtil.java" timestamp="1501060389998">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -248,19 +249,11 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="35" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1501650904690">
-        <mark key="'" line="91" column="20" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1501657635264">
+        <mark key="'" line="49" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared.module.ts" />
-      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="59" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/web/rest/AccountResource.java" />
-      <jump line="143" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
-      <jump line="110" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
-      <jump line="103" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
-      <jump line="106" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
-      <jump line="109" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/domain/Conference.java" />
       <jump line="75" column="61" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/hae/hvcs/config/ImapMailConfiguration.java" />
       <jump line="100" column="60" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="125" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
@@ -346,13 +339,21 @@
       <jump line="25" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
       <jump line="81" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
       <jump line="50" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="54" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="87" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="81" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="89" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="229" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="162" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="163" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="200" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="91" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="54" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="87" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="81" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="170" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="85" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="235" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="239" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="243" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -362,7 +363,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>liqu</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAibmFtZSIsCiAgICAgICAgICAgICJqYXZhZG9jIjogIsDMuKciLAogICAgICAgICAgICAiZmllbGRUeXBlIjogIlN0cmluZyIsCiAgICAgICAgICAgICJmaWVsZFZhbGlkYXRlUnVsZXMiOiBbCiAgICAgICAgICAgICAgICAicmVxdWlyZWQiCiAgICAgICAgICAgIF0KICAgICAgICB9LAo=</text>
@@ -399,9 +400,9 @@
       </register>
     </registers>
     <search>
-      <last-search>liqu</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>liqu</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -409,10 +410,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conferenceFile</entry>
-        <entry>crsf</entry>
-        <entry>CSRF</entry>
-        <entry>register</entry>
         <entry>cors</entry>
         <entry>getContext</entry>
         <entry>sendConferenceFile</entry>
@@ -429,6 +426,10 @@
         <entry>liqui</entry>
         <entry>lqui</entry>
         <entry>liqu</entry>
+        <entry>Diff</entry>
+        <entry>DiffCh</entry>
+        <entry>liq</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

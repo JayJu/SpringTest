@@ -50,6 +50,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceAttendHistory.java" timestamp="1502235950549">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="56" column="3" />
+        <mark key="^" line="56" column="3" />
+        <mark key="." line="56" column="3" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/StringUtil.java" timestamp="1501060389998">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -222,11 +228,11 @@
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceVideo.java" timestamp="1501648926894">
-        <mark key="[" line="129" column="56" />
-        <mark key="]" line="131" column="19" />
-        <mark key="." line="131" column="19" />
-        <mark key="^" line="131" column="19" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceVideo.java" timestamp="1502235940719">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="30" />
+        <mark key="." line="67" column="30" />
+        <mark key="^" line="67" column="30" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailConferenceService.java" timestamp="1501135629999">
         <mark key="[" line="154" column="89" />
@@ -359,17 +365,17 @@
       <jump line="105" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OjkyMmNkZjFjMDE0MTZiYTkxNjU0YjczM2UwNzNlNmJiPC92YWxpZENoZWNrU3VtPgo=</text>
+      <register name="&quot;" type="4">
+        <text>attendeeId</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>attendeeId</text>
       </register>
       <register name="/" type="4">
         <text>npm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAibmFtZSIsCiAgICAgICAgICAgICJqYXZhZG9jIjogIsDMuKciLAogICAgICAgICAgICAiZmllbGRUeXBlIjogIlN0cmluZyIsCiAgICAgICAgICAgICJmaWVsZFZhbGlkYXRlUnVsZXMiOiBbCiAgICAgICAgICAgICAgICAicmVxdWlyZWQiCiAgICAgICAgICAgIF0KICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogwvy/qcDaIL7GwMy18AogICAgICovCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLC/L+pwNogvsbAzLXwIikKICAgIEBDb2x1bW4obmFtZSA9ICJhdHRlbmRlZV9pZCIpCiAgICBwcml2YXRlIFN0cmluZyBhdHRlbmRlZUlkOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OjkyMmNkZjFjMDE0MTZiYTkxNjU0YjczM2UwNzNlNmJiPC92YWxpZENoZWNrU3VtPgo=</text>

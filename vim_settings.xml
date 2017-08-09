@@ -9,6 +9,12 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="76" column="28" />
+        <mark key="^" line="76" column="28" />
+        <mark key="." line="76" column="28" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -349,13 +355,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>npm</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJhdHRlbmRlZV9pZCIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4KICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
@@ -388,13 +394,13 @@
         <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5TmFtZSI6ICJtZW1iZXIiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>npm</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>npm</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ATTENDEE_NAME</entry>
         <entry>reveiver</entry>
         <entry>receiver</entry>
         <entry>loadPart</entry>
@@ -422,6 +427,7 @@
         <entry>kurento</entry>
         <entry>media</entry>
         <entry>npm</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>
@@ -441,9 +447,9 @@
         <entry>44</entry>
         <entry>q</entry>
         <entry>%</entry>
-        <entry>wq</entry>
         <entry>q!</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

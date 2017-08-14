@@ -33,6 +33,12 @@
         <mark key="^" line="23" column="48" />
         <mark key="." line="23" column="48" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalOrg.json" timestamp="1502683952634">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -233,7 +239,7 @@
         <mark key="^" line="44" column="12" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1501649619772">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1502683900831">
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="17" />
         <mark key="." line="37" column="17" />
@@ -386,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Boolean</text>
+        <text>company</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text>ApprovalCode</text>

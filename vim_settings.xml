@@ -15,17 +15,23 @@
         <mark key="^" line="76" column="28" />
         <mark key="." line="76" column="28" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" timestamp="1502677362848">
+        <mark key="[" line="431" column="27" />
+        <mark key="]" line="431" column="41" />
+        <mark key="^" line="431" column="41" />
+        <mark key="." line="431" column="41" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="39" column="76" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1501655080206">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="54" />
-        <mark key="." line="20" column="54" />
-        <mark key="^" line="20" column="54" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1502677990618">
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="72" />
+        <mark key="." line="20" column="72" />
+        <mark key="^" line="20" column="72" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceException.java" timestamp="1501056459910">
         <mark key="[" line="2" column="58" />
@@ -39,7 +45,7 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="14" column="12" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073116_added_entity_ConferenceVideo.xml" timestamp="1502244918633">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073116_added_entity_ConferenceVideo.xml" timestamp="1502677928614">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="56" />
         <mark key="." line="20" column="56" />
@@ -50,6 +56,12 @@
         <mark key="]" line="113" column="19" />
         <mark key="^" line="113" column="19" />
         <mark key="." line="113" column="19" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.model.ts" timestamp="1502677642956">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="55" />
+        <mark key="." line="36" column="55" />
+        <mark key="^" line="36" column="55" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/StringUtil.java" timestamp="1501060389998">
         <mark key="[" line="19" column="0" />
@@ -229,17 +241,20 @@
         <mark key="." line="154" column="91" />
         <mark key="^" line="154" column="91" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073119_added_entity_ConferenceMail.xml" timestamp="1500974257872">
-        <mark key="[" line="30" column="39" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073119_added_entity_ConferenceMail.xml" timestamp="1502678003764">
+        <mark key="[" line="19" column="55" />
+        <mark key="]" line="20" column="72" />
+        <mark key="." line="20" column="72" />
+        <mark key="^" line="20" column="72" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalSendFailEmail.html" timestamp="1501144535693">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" timestamp="1502676964163">
+        <mark key="'" line="59" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-video/conference-video.model.ts" timestamp="1501649210498">
         <mark key="[" line="8" column="34" />
@@ -252,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="64" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
       <jump line="57" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
       <jump line="107" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
       <jump line="110" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
@@ -352,55 +366,56 @@
       <jump line="162" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="172" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="81" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="59" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>255</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>255</text>
       </register>
       <register name="/" type="4">
-        <text>liq</text>
+        <text>MailType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJhdHRlbmRlZV9pZCIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4KICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogS01TILy8vMcgvsbAzLXwCiAgICAgKi8KICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIktNUyC8vLzHIL7GwMy18CIpCiAgICBAQ29sdW1uKG5hbWUgPSAia21zX3Nlc3Npb25faWQiKQogICAgcHJpdmF0ZSBTdHJpbmcga21zU2Vzc2lvbklkOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OjkyMmNkZjFjMDE0MTZiYTkxNjU0YjczM2UwNzNlNmJiPC92YWxpZENoZWNrU3VtPgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzRW5hYmxlZCA9IGlzRW5hYmxlZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dmFsaWRDaGVja1N1bT43OmQ1ODE3NGE4MDlmMjM1MmQ5NDY3MjQ2YjlkNjlkY2IxPC92YWxpZENoZWNrU3VtPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElzRW5hYmxlZChCb29sZWFuIGlzRW5hYmxlZCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5UmVsYXRpb25zaGlwTmFtZSI6ICJjb21wYW55Igo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm90aGVyRW50aXR5TmFtZSI6ICJtZW1iZXIiLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzRW5hYmxlZCA9IGlzRW5hYmxlZDsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>liq</last-search>
+      <last-search>MailType</last-search>
       <last-offset />
-      <last-pattern>liq</last-pattern>
+      <last-pattern>MailType</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -408,8 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>receiver</entry>
-        <entry>loadPart</entry>
         <entry>loadParti</entry>
         <entry>Response</entry>
         <entry>CONFERENCE_FILES</entry>
@@ -428,6 +441,8 @@
         <entry>liqui</entry>
         <entry>liw</entry>
         <entry>liq</entry>
+        <entry>mailType</entry>
+        <entry>MailType</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>
@@ -448,8 +463,8 @@
         <entry>q</entry>
         <entry>%</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

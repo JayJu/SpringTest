@@ -33,11 +33,11 @@
         <mark key="^" line="23" column="48" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalOrg.json" timestamp="1502683952634">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="38" column="33" />
-        <mark key="^" line="38" column="33" />
-        <mark key="." line="38" column="33" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalOrg.json" timestamp="1502686202026">
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="9" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="55" column="9" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
@@ -233,6 +233,7 @@
         <mark key="." line="266" column="13" />
         <mark key="^" line="266" column="24" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceFile.json" timestamp="1502685880445" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1501142107162">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="4" />
@@ -286,6 +287,12 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1502257563970">
         <mark key="'" line="162" column="18" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalUser.json" timestamp="1502686710057">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="11" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -392,43 +399,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>company</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>company</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>ApprovalCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJhdHRlbmRlZV9pZCIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4KICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzRW5hYmxlZCA9IGlzRW5hYmxlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElzRW5hYmxlZChCb29sZWFuIGlzRW5hYmxlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImphdmFkb2MiOiAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpZWxkTmFtZSI6ICJvcmdfIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzRW5hYmxlZCA9IGlzRW5hYmxlZDsK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -475,7 +482,6 @@
         <entry>%s/firstname/firstName/g</entry>
         <entry>%s/lastname/lastName/g</entry>
         <entry>%s/department/departmentName/g</entry>
-        <entry>0</entry>
         <entry>%s/JHipster/HVCS/g</entry>
         <entry>%s/hvcs/HVCS/g</entry>
         <entry>%s/&quot;/'/g</entry>
@@ -486,6 +492,7 @@
         <entry>%</entry>
         <entry>q!</entry>
         <entry>wq</entry>
+        <entry>0</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -33,11 +33,11 @@
         <mark key="^" line="23" column="48" />
         <mark key="." line="23" column="48" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalOrg.json" timestamp="1502686202026">
-        <mark key="[" line="55" column="9" />
-        <mark key="]" line="55" column="9" />
-        <mark key="^" line="53" column="27" />
-        <mark key="." line="55" column="9" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalOrg.json" timestamp="1502686862986">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="38" />
+        <mark key="^" line="54" column="38" />
+        <mark key="." line="54" column="38" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
@@ -72,7 +72,7 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Conference.json" timestamp="1502679316303">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Conference.json" timestamp="1502686852298">
         <mark key="'" line="65" column="26" />
         <mark key="[" line="60" column="26" />
         <mark key="]" line="60" column="44" />
@@ -90,6 +90,13 @@
         <mark key="]" line="43" column="52" />
         <mark key="^" line="43" column="52" />
         <mark key="." line="43" column="52" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" timestamp="1502687593035">
+        <mark key="'" line="1" column="5" />
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceAttendHistory.json" timestamp="1502244610661">
         <mark key="[" line="34" column="0" />
@@ -120,6 +127,12 @@
         <mark key="]" line="431" column="41" />
         <mark key="^" line="431" column="41" />
         <mark key="." line="431" column="41" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1502687609747">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
@@ -288,17 +301,14 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1502257563970">
         <mark key="'" line="162" column="18" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalUser.json" timestamp="1502686710057">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="13" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="11" column="13" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalUser.json" timestamp="1502686877553">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="38" />
+        <mark key="^" line="58" column="38" />
+        <mark key="." line="58" column="38" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
-      <jump line="111" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Company.java" />
-      <jump line="88" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" />
       <jump line="118" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" />
       <jump line="104" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" />
       <jump line="123" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/User.java" />
@@ -396,19 +406,22 @@
       <jump line="59" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
       <jump line="77" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Conference.json" />
       <jump line="65" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Conference.json" />
+      <jump line="16" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
+      <jump line="17" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
+      <jump line="1" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>Org</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Org</text>
       </register>
       <register name="/" type="4">
-        <text>ApprovalCode</text>
+        <text>global</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJnbG9iYWxPcmciOiAiR2xvYmFsIE9yZyIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
@@ -442,9 +455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ApprovalCode</last-search>
+      <last-search>global</last-search>
       <last-offset />
-      <last-pattern>ApprovalCode</last-pattern>
+      <last-pattern>global</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Response</entry>
         <entry>CONFERENCE_FILES</entry>
         <entry>mailConference</entry>
         <entry>file</entry>
@@ -472,6 +484,7 @@
         <entry>mailType</entry>
         <entry>MailType</entry>
         <entry>ApprovalCode</entry>
+        <entry>global</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

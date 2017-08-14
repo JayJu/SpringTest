@@ -9,6 +9,12 @@
         <mark key="^" line="76" column="28" />
         <mark key="." line="76" column="28" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/conference.csv" timestamp="1502696881415">
+        <mark key="[" line="1" column="66" />
+        <mark key="]" line="1" column="67" />
+        <mark key="." line="1" column="67" />
+        <mark key="^" line="1" column="67" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073116_added_entity_ConferenceVideo.xml" timestamp="1502677928614">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="56" />
@@ -140,11 +146,11 @@
         <mark key="." line="39" column="76" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1502677990618">
-        <mark key="[" line="20" column="7" />
-        <mark key="]" line="20" column="72" />
-        <mark key="." line="20" column="72" />
-        <mark key="^" line="20" column="72" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073113_added_entity_Conference.xml" timestamp="1502697077482">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceRepository.java" timestamp="1502678857484">
         <mark key="[" line="29" column="41" />
@@ -414,10 +420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
+        <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
       </register>
       <register name="/" type="4">
         <text>global</text>
@@ -453,7 +459,7 @@
         <text encoding="base64">ICAgICAgICAgICAgImphdmFkb2MiOiAiIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -506,9 +512,9 @@
         <entry>q</entry>
         <entry>%</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>0</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

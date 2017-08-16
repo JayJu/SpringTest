@@ -128,7 +128,7 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" timestamp="1502679195209">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" timestamp="1502841174170">
         <mark key="[" line="431" column="27" />
         <mark key="]" line="431" column="41" />
         <mark key="^" line="431" column="41" />
@@ -152,7 +152,7 @@
         <mark key="." line="20" column="57" />
         <mark key="^" line="20" column="57" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceRepository.java" timestamp="1502678857484">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceRepository.java" timestamp="1502840678598">
         <mark key="[" line="29" column="41" />
         <mark key="]" line="29" column="43" />
         <mark key="." line="29" column="43" />
@@ -254,7 +254,6 @@
         <mark key="." line="266" column="13" />
         <mark key="^" line="266" column="24" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceFile.json" timestamp="1502685880445" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1501142107162">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="4" />
@@ -426,7 +425,7 @@
         <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
       </register>
       <register name="/" type="4">
-        <text>global</text>
+        <text>isEnabled</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJnbG9iYWxPcmciOiAiR2xvYmFsIE9yZyIsCg==</text>
@@ -463,9 +462,9 @@
       </register>
     </registers>
     <search>
-      <last-search>global</last-search>
+      <last-search>isEnabled</last-search>
       <last-offset />
-      <last-pattern>global</last-pattern>
+      <last-pattern>isEnabled</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -473,8 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CONFERENCE_FILES</entry>
-        <entry>mailConference</entry>
         <entry>file</entry>
         <entry>hvcs</entry>
         <entry>lqui</entry>
@@ -493,6 +490,8 @@
         <entry>MailType</entry>
         <entry>ApprovalCode</entry>
         <entry>global</entry>
+        <entry>enable</entry>
+        <entry>isEnabled</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

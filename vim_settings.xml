@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1503530226248">
+        <mark key="'" line="30" column="39" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
@@ -188,7 +191,6 @@
         <mark key="^" line="26" column="23" />
         <mark key="." line="26" column="23" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.module.ts" timestamp="1502937668515" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ApplicationProperties.java" timestamp="1501032414086">
         <mark key="[" line="158" column="9" />
         <mark key="]" line="160" column="40" />
@@ -317,13 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/Conference.java" />
-      <jump line="104" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" />
-      <jump line="123" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/User.java" />
-      <jump line="122" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/User.java" />
-      <jump line="19" column="54" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_ConferenceFile.xml" />
-      <jump line="60" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_ConferenceFile.xml" />
-      <jump line="38" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="97" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="178" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
       <jump line="181" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
@@ -417,6 +412,13 @@
       <jump line="16" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="17" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
       <jump line="1" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
+      <jump line="185" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="210" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="55" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="187" column="51" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="186" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="127" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="30" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -426,7 +428,7 @@
         <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
       </register>
       <register name="/" type="4">
-        <text>isEnabled</text>
+        <text>Future</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJnbG9iYWxPcmciOiAiR2xvYmFsIE9yZyIsCg==</text>
@@ -463,9 +465,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isEnabled</last-search>
+      <last-search>Future</last-search>
       <last-offset />
-      <last-pattern>isEnabled</last-pattern>
+      <last-pattern>Future</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -473,9 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
-        <entry>hvcs</entry>
-        <entry>lqui</entry>
         <entry>liqu</entry>
         <entry>Diff</entry>
         <entry>DiffCh</entry>
@@ -493,6 +492,9 @@
         <entry>global</entry>
         <entry>enable</entry>
         <entry>isEnabled</entry>
+        <entry>conferenceServnce.</entry>
+        <entry>conferenceService</entry>
+        <entry>Future</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

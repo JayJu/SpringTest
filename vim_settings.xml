@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1503530226248">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1503533503150">
         <mark key="'" line="30" column="39" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="208" column="74" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
@@ -12,6 +16,7 @@
         <mark key="^" line="76" column="28" />
         <mark key="." line="76" column="28" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.9.RELEASE/a83a9d920e596f4397273a53eec3254ec0f4fb84/spring-tx-4.3.9.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionCallback.java" timestamp="1503533499993" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/conference.csv" timestamp="1502696881415">
         <mark key="[" line="1" column="66" />
         <mark key="]" line="1" column="67" />
@@ -60,17 +65,11 @@
         <mark key="." line="15" column="143" />
         <mark key="^" line="15" column="143" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1501119123530">
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="60" column="17" />
-        <mark key="." line="245" column="0" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" timestamp="1502088005914">
-        <mark key="'" line="105" column="27" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1501577612065">
-        <mark key="'" line="81" column="14" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1503533622736">
+        <mark key="[" line="74" column="32" />
+        <mark key="]" line="247" column="0" />
+        <mark key="^" line="61" column="17" />
+        <mark key="." line="247" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceMail.json" timestamp="1502679492378">
         <mark key="[" line="39" column="22" />
@@ -93,6 +92,12 @@
         <mark key="]" line="20" column="61" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/media/MediaController.java" timestamp="1503534620154">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+        <mark key="^" line="51" column="13" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1501142676669">
         <mark key="[" line="43" column="39" />
@@ -228,10 +233,8 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502950515674">
+      <file name="/Dummy.txt" timestamp="1503533840762">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
         <mark key="[" line="20" column="23" />
@@ -299,17 +302,11 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" timestamp="1502676964163">
-        <mark key="'" line="59" column="36" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-video/conference-video.model.ts" timestamp="1501649210498">
         <mark key="[" line="8" column="34" />
         <mark key="]" line="8" column="35" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="35" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1502257563970">
-        <mark key="'" line="162" column="18" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/GlobalUser.json" timestamp="1502688440760">
         <mark key="[" line="8" column="32" />
@@ -422,46 +419,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
+        <text>통합계정용(GUBB) 엔티티 추가
+1. GlobalOrg - 조직정보
+2. GlobalUser - 사용자정보</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NzpmNDhmYmU2ZTllZjBhMDQ0OGVlZjFiYjM5NTZmOGJhNTw=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>Future</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJnbG9iYWxPcmciOiAiR2xvYmFsIE9yZyIsCg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
+        <text>통합계정용(GUBB) 엔티티 추가
+1. GlobalOrg - 조직정보
+2. GlobalUser - 사용자정보</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmdDb2RlIgo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb21wYW55Q29kZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgICJmaWVsZE5hbWUiOiAiIiwKICAgICAgICAgICAgImphdmFkb2MiOiAiIiwKICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCiAgICAgICAgfSwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZpZWxkVHlwZSI6ICJTdHJpbmciCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmdDb2RlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImphdmFkb2MiOiAiIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb21wYW55Q29kZSIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -512,11 +513,11 @@
         <entry>186</entry>
         <entry>44</entry>
         <entry>q</entry>
-        <entry>%</entry>
         <entry>q!</entry>
         <entry>0</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>%</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

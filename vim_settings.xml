@@ -16,7 +16,6 @@
         <mark key="^" line="76" column="28" />
         <mark key="." line="76" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/4.3.9.RELEASE/a83a9d920e596f4397273a53eec3254ec0f4fb84/spring-tx-4.3.9.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionCallback.java" timestamp="1503533499993" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/conference.csv" timestamp="1502696881415">
         <mark key="[" line="1" column="66" />
         <mark key="]" line="1" column="67" />
@@ -67,9 +66,7 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1503533622736">
         <mark key="[" line="74" column="32" />
-        <mark key="]" line="247" column="0" />
         <mark key="^" line="61" column="17" />
-        <mark key="." line="247" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceMail.json" timestamp="1502679492378">
         <mark key="[" line="39" column="22" />
@@ -92,12 +89,6 @@
         <mark key="]" line="20" column="61" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/media/MediaController.java" timestamp="1503534620154">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="51" column="13" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1501142676669">
         <mark key="[" line="43" column="39" />

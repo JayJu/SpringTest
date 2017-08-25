@@ -10,6 +10,7 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="208" column="74" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1503649411111" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
@@ -220,7 +221,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503533840762">
+      <file name="/Dummy.txt" timestamp="1503648859386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
@@ -235,6 +236,7 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1503649346357" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1502244624473">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="40" column="8" />

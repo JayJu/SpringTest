@@ -10,12 +10,18 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="208" column="74" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1503651740833" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1503894211023" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
         <mark key="^" line="76" column="28" />
         <mark key="." line="76" column="28" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" timestamp="1503894507621">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/conference.csv" timestamp="1502696881415">
         <mark key="[" line="1" column="66" />
@@ -64,6 +70,12 @@
         <mark key="]" line="15" column="143" />
         <mark key="." line="15" column="143" />
         <mark key="^" line="15" column="143" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" timestamp="1503894951442">
+        <mark key="'" line="65" column="11" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceMail.json" timestamp="1502679492378">
         <mark key="[" line="39" column="22" />
@@ -236,7 +248,6 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1503649346357" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceVideo.json" timestamp="1502244624473">
         <mark key="[" line="35" column="9" />
         <mark key="]" line="40" column="8" />
@@ -305,18 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="178" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="181" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="182" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="186" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="187" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="263" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="264" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="267" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="20" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceFile.java" />
-      <jump line="55" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="52" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="184" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="156" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
       <jump line="258" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
@@ -405,59 +404,69 @@
       <jump line="186" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
       <jump line="127" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
       <jump line="30" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="18" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="20" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="24" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="26" column="55" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="28" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="34" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="36" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/AddressGroupService.java" />
+      <jump line="19" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
+      <jump line="64" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
+      <jump line="21" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
+      <jump line="57" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
+      <jump line="65" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>통합계정용(GUBB) 엔티티 추가
-1. GlobalOrg - 조직정보
-2. GlobalUser - 사용자정보</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>Future</text>
+        <text>chrome</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5BZGRyZXNzOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>통합계정용(GUBB) 엔티티 추가
 1. GlobalOrg - 조직정보
 2. GlobalUser - 사용자정보</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmdDb2RlIgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb21wYW55Q29kZSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Future</last-search>
+      <last-search>chrome</last-search>
       <last-offset />
-      <last-pattern>Future</last-pattern>
+      <last-pattern>chrome</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -465,9 +474,6 @@
     </search>
     <history>
       <history-search>
-        <entry>liqu</entry>
-        <entry>Diff</entry>
-        <entry>DiffCh</entry>
         <entry>task</entry>
         <entry>kurento</entry>
         <entry>media</entry>
@@ -485,6 +491,9 @@
         <entry>conferenceServnce.</entry>
         <entry>conferenceService</entry>
         <entry>Future</entry>
+        <entry>Address</entry>
+        <entry>dev</entry>
+        <entry>chrome</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

@@ -10,7 +10,6 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="208" column="74" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1505099813168" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
@@ -53,6 +52,18 @@
         <mark key="]" line="81" column="51" />
         <mark key="^" line="81" column="51" />
         <mark key="." line="81" column="51" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.ts" timestamp="1505111804359">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505111862970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="33" column="45" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
@@ -110,6 +121,14 @@
         <mark key="]" line="20" column="61" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-simple/conference-simple.component.ts" timestamp="1505111629913">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-simple/conference-simple.component.html" timestamp="1505111609732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_en.properties" timestamp="1501142676669">
         <mark key="[" line="43" column="39" />
@@ -446,10 +465,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bold</text>
@@ -457,34 +476,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVzc2FnZXMuaW5mby5yZWdpc3Rlci5ub2FjY291bnQiPr7GwfcgsOjBpMDMIL74wLi9xbChv+Q/PC9zcGFuPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVzc2FnZXMuaW5mby5yZWdpc3Rlci5ub2FjY291bnQiPr7GwfcgsOjBpMDMIL74wLi9xbChv+Q/PC9zcGFuPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5BZGRyZXNzOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>통합계정용(GUBB) 엔티티 추가
 1. GlobalOrg - 조직정보
 2. GlobalUser - 사용자정보</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -47,6 +47,13 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" timestamp="1505110437593">
+        <mark key="'" line="79" column="31" />
+        <mark key="[" line="81" column="50" />
+        <mark key="]" line="81" column="51" />
+        <mark key="^" line="81" column="51" />
+        <mark key="." line="81" column="51" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="48" />
@@ -152,6 +159,18 @@
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.ts" timestamp="1505109034479">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505110054030">
+        <mark key="[" line="56" column="60" />
+        <mark key="]" line="56" column="60" />
+        <mark key="." line="56" column="60" />
+        <mark key="^" line="54" column="128" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
@@ -289,6 +308,9 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" timestamp="1505109306132">
+        <mark key="'" line="27" column="65" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailIdNotFoundException.java" timestamp="1501052655362">
         <mark key="[" line="2" column="79" />
         <mark key="]" line="10" column="0" />
@@ -321,25 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="53" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="157" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
-      <jump line="57" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
-      <jump line="60" column="58" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/CacheConfiguration.java" />
-      <jump line="82" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
-      <jump line="48" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
-      <jump line="157" column="84" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="141" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="159" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="196" column="85" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="39" column="62" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="160" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="210" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/MailService.java" />
-      <jump line="35" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
-      <jump line="54" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
-      <jump line="105" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
-      <jump line="108" column="42" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
       <jump line="109" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
       <jump line="113" column="35" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
       <jump line="114" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
@@ -421,57 +424,76 @@
       <jump line="65" column="11" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
       <jump line="19" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="170" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="23" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="29" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="31" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="32" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="33" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="38" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="39" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="40" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="41" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="42" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="46" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="47" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="53" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="54" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="55" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="74" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="27" column="65" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
+      <jump line="70" column="71" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
+      <jump line="79" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGQK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>media</text>
+        <text>bold</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVzc2FnZXMuaW5mby5yZWdpc3Rlci5ub2FjY291bnQiPr7GwfcgsOjBpMDMIL74wLi9xbChv+Q/PC9zcGFuPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5BZGRyZXNzOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>통합계정용(GUBB) 엔티티 추가
 1. GlobalOrg - 조직정보
 2. GlobalUser - 사용자정보</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>media</last-search>
+      <last-search>bold</last-search>
       <last-offset />
-      <last-pattern>media</last-pattern>
+      <last-pattern>bold</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -479,11 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>task</entry>
-        <entry>kurento</entry>
-        <entry>npm</entry>
-        <entry>init</entry>
-        <entry>liqui</entry>
         <entry>liw</entry>
         <entry>liq</entry>
         <entry>mailType</entry>
@@ -499,6 +516,11 @@
         <entry>dev</entry>
         <entry>chrome</entry>
         <entry>media</entry>
+        <entry>img-login</entry>
+        <entry>img</entry>
+        <entry>login</entry>
+        <entry>find</entry>
+        <entry>bold</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

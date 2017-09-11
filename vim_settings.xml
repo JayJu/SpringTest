@@ -192,11 +192,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505112549607">
-        <mark key="[" line="60" column="50" />
-        <mark key="]" line="61" column="44" />
-        <mark key="." line="61" column="44" />
-        <mark key="^" line="61" column="44" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505114397595">
+        <mark key="[" line="60" column="44" />
+        <mark key="]" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
@@ -289,7 +289,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505100468309">
+      <file name="/Dummy.txt" timestamp="1505114207515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
@@ -483,14 +483,14 @@
       <jump line="1" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIdmNzQ29uZmVyZW5jZU1vZHVsZQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>switch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiAqbmdTd2l0Y2hDYXNlPSJmYWxzZSI+Cg==</text>
@@ -527,9 +527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>switch</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>switch</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -537,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>liq</entry>
         <entry>mailType</entry>
         <entry>MailType</entry>
         <entry>ApprovalCode</entry>
@@ -557,6 +556,7 @@
         <entry>find</entry>
         <entry>bold</entry>
         <entry>&quot;</entry>
+        <entry>switch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

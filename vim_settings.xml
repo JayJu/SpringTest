@@ -47,12 +47,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" timestamp="1505123108453">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" timestamp="1505172649087">
         <mark key="'" line="79" column="31" />
-        <mark key="[" line="81" column="50" />
-        <mark key="]" line="81" column="51" />
-        <mark key="^" line="81" column="51" />
-        <mark key="." line="81" column="51" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="15" />
+        <mark key="^" line="85" column="15" />
+        <mark key="." line="85" column="15" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared-common.module.ts" timestamp="1505122097166">
         <mark key="[" line="15" column="0" />
@@ -66,11 +66,11 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505126716263">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505172768157">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
@@ -346,8 +346,12 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" timestamp="1505109306132">
-        <mark key="'" line="27" column="65" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" timestamp="1505173462582">
+        <mark key="'" line="167" column="30" />
+        <mark key="[" line="170" column="5" />
+        <mark key="]" line="173" column="4" />
+        <mark key="^" line="173" column="4" />
+        <mark key="." line="173" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailIdNotFoundException.java" timestamp="1501052655362">
         <mark key="[" line="2" column="79" />
@@ -381,10 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/domain/ConferenceMail.java" />
-      <jump line="227" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/participant.component.ts" />
-      <jump line="222" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/participant.component.ts" />
-      <jump line="37" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="91" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="102" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
       <jump line="106" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
@@ -481,55 +481,59 @@
       <jump line="79" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
       <jump line="1" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.module.ts" />
       <jump line="14" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.ts" />
+      <jump line="51" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
+      <jump line="151" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
+      <jump line="218" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
+      <jump line="167" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LmNhcmQudHlwZTJ7YmFja2dyb3VuZDojMDBhYmFhOyB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>conference-card</text>
+        <text>768</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLWNhcmQuY29tcG9uZW50JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">LmNhcmQudHlwZTJ7YmFja2dyb3VuZDojMDBhYmFhOyB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1lZXQgbWVldC1udW0yIj4K</text>
+        <text encoding="base64">LmNhcmQudHlwZTEge2JhY2tncm91bmQ6IzAyNTk4NTsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmNhcmQge292ZXJmbG93OmhpZGRlbjtib3gtc2hhZG93OjJweCAycHggMXB4IHJnYmEoMCwwLDAsLjIpO21hcmdpbi10b3A6NXB4OyBib3JkZXItcmFkaXVzOjEwcHh9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb25mZXJlbmNlLWNhcmQ+PC9jb25mZXJlbmNlLWNhcmQ+Cg==</text>
+        <text encoding="base64">LmNhcmQudHlwZTJ7YmFja2dyb3VuZDojMDBhYmFhOyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgKm5nU3dpdGNoQ2FzZT0iZmFsc2UiPgo=</text>
+        <text encoding="base64">LmNhcmQudHlwZTEge2JhY2tncm91bmQ6IzAyNTk4NTsgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgKm5nU3dpdGNoQ2FzZT0idHJ1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZlcmVuY2UtY2FyZD48L2NvbmZlcmVuY2UtY2FyZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">LmNhcmQge292ZXJmbG93OmhpZGRlbjtib3gtc2hhZG93OjJweCAycHggMXB4IHJnYmEoMCwwLDAsLjIpO21hcmdpbi10b3A6NXB4OyBib3JkZXItcmFkaXVzOjEwcHh9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">LmNhcmQudHlwZTJ7YmFja2dyb3VuZDojMDBhYmFhOyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2Pgo=</text>
+        <text encoding="base64">LmNhcmQudHlwZTEge2JhY2tncm91bmQ6IzAyNTk4NTsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiAqbmdTd2l0Y2hDYXNlPSJ0cnVlIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZlcmVuY2UtY2FyZD48L2NvbmZlcmVuY2UtY2FyZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">LmNhcmQge292ZXJmbG93OmhpZGRlbjtib3gtc2hhZG93OjJweCAycHggMXB4IHJnYmEoMCwwLDAsLjIpO21hcmdpbi10b3A6NXB4OyBib3JkZXItcmFkaXVzOjEwcHh9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>conference-card</last-search>
+      <last-search>768</last-search>
       <last-offset />
-      <last-pattern>conference-card</last-pattern>
+      <last-pattern>768</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -537,9 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ApprovalCode</entry>
-        <entry>global</entry>
-        <entry>enable</entry>
         <entry>isEnabled</entry>
         <entry>conferenceServnce.</entry>
         <entry>conferenceService</entry>
@@ -557,6 +558,9 @@
         <entry>switch</entry>
         <entry>ngSwit</entry>
         <entry>conference-card</entry>
+        <entry>info</entry>
+        <entry>container</entry>
+        <entry>768</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

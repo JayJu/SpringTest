@@ -10,7 +10,7 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="208" column="74" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1503894211023" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/util/DocumentSecurity.java" timestamp="1505099813168" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
@@ -58,6 +58,11 @@
         <mark key="]" line="54" column="38" />
         <mark key="^" line="54" column="38" />
         <mark key="." line="54" column="38" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/date-time-format-pipe.ts" timestamp="1505100251438">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
@@ -233,7 +238,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503900129239">
+      <file name="/Dummy.txt" timestamp="1505100468309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
@@ -419,7 +424,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -431,33 +436,33 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5qdm0uaG90c3BvdC5kZWJ1Z2dlci5BZGRyZXNzOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>통합계정용(GUBB) 엔티티 추가
 1. GlobalOrg - 조직정보
 2. GlobalUser - 사용자정보</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlIGNvbmZlcmVuY2UgPSBjb25mZXJlbmNlU2VydmljZS5maW5kT25lKGNvbmZlcmVuY2VJZCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">v6PGvMa8ILzTvLogu+jBpiAmIMPfsKEKKiBDb25mZXJlbmNlIC0gaXNFbmFibGVkILvowaYsIGNvbmZlcmVuY2VTdGF0ZUNvZGUgw9+woQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

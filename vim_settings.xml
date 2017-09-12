@@ -47,13 +47,6 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" timestamp="1505172649087">
-        <mark key="'" line="79" column="31" />
-        <mark key="[" line="85" column="15" />
-        <mark key="]" line="85" column="15" />
-        <mark key="^" line="85" column="15" />
-        <mark key="." line="85" column="15" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/shared-common.module.ts" timestamp="1505122097166">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -66,11 +59,12 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505184790791">
-        <mark key="[" line="100" column="5" />
-        <mark key="]" line="100" column="5" />
-        <mark key="." line="100" column="5" />
-        <mark key="^" line="100" column="5" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505191849047">
+        <mark key="'" line="98" column="16" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
@@ -284,7 +278,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505126760503">
+      <file name="/Dummy.txt" timestamp="1505191884405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
@@ -346,12 +340,11 @@
         <mark key="^" line="59" column="17" />
         <mark key="." line="59" column="17" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" timestamp="1505173462582">
-        <mark key="'" line="167" column="30" />
-        <mark key="[" line="170" column="5" />
-        <mark key="]" line="173" column="4" />
-        <mark key="^" line="173" column="4" />
-        <mark key="." line="173" column="4" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" timestamp="1505189973140">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="216" column="1" />
+        <mark key="." line="216" column="1" />
+        <mark key="^" line="216" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/errors/ConferenceMailIdNotFoundException.java" timestamp="1501052655362">
         <mark key="[" line="2" column="79" />
@@ -385,47 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
-      <jump line="102" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
-      <jump line="106" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
-      <jump line="139" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceMailService.java" />
-      <jump line="16" column="3" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/ConferenceMailService.java" />
-      <jump line="36" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="42" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="57" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="264" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="150" column="80" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" />
-      <jump line="89" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="25" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="81" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" />
-      <jump line="50" column="39" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="54" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="87" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="89" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="229" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="170" column="66" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="85" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="235" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="239" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="243" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="152" column="7" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
-      <jump line="96" column="31" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="105" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="107" column="18" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="58" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
-      <jump line="8" column="3" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="95" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="106" column="41" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="107" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="108" column="69" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="109" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="113" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="99" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="103" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="104" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
-      <jump line="105" column="27" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/package.json" />
       <jump line="251" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="163" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="200" column="53" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
@@ -485,55 +437,138 @@
       <jump line="151" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
       <jump line="218" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
       <jump line="167" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
+      <jump line="38" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="39" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="40" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="41" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="42" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="43" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="44" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="47" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="48" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="49" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="50" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="53" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="54" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="55" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="56" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="57" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="58" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="61" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="62" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="63" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="64" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="76" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="77" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="78" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="79" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="83" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="86" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="87" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="89" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="90" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="91" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="92" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="93" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="94" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="95" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="96" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="10" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="88" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="110" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="113" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
+      <jump line="114" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+dl {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>768</text>
+        <text>info-m</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLWNhcmQuY29tcG9uZW50JzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ym9vdHN0cmFwLm1pbi5jc3M6NQo=</text>
+      <register name="1" type="4">
+        <text>.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+dl {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyrIuMDHwM/BpCC++MC7tqcqLwoubm8tbWVldCB7IGRpc3BsYXk6IHRhYmxlOyB3aWR0aDoxMDAlO30KLm5vLW1lZXQ+ZGl2IHsgZGlzcGxheTp0YWJsZS1jZWxsOyB2ZXJ0aWNhbC1hbGlnbjptaWRkbGU7fQoubm8tbWVldCAuYnRuLW5ldy1tZWV0IHt0ZXh0LWFsaWduOmNlbnRlcjt9Ci5uby1tZWV0IC5idG4tbmV3LW1lZXQgaSB7IGZvbnQtc2l6ZTozcmVtO30KLm5vLW1lZXQgLmJ0bi1uZXctbWVldHsgZm9udC1zaXplOjI3cHg7IGZvbnQtd2VpZ2h0OjYwMDt9Ci5uby1tZWV0IC5zdWItdHh0IHtjb2xvcjojOThhN2FmOyBmb250LXNpemU6MThweDsgdGV4dC1hbGlnbjpjZW50ZXI7fQoKLyrIuMDHwM/BpMDMIDGws8DPtqcqLwoubWVldC1udW0xIHsgcGFkZGluZzoyMHB4IDEwcHggMjBweCA0MHB4O30KLm1lZXQtbnVtMSAuY2FyZCB7IGhlaWdodDoxODBweDt9Ci5tZWV0LW51bTEgLmNhcmQ+ZGl2Om50aC1jaGlsZCgxKSB7IG1pbi1oZWlnaHQ6MTgwcHg7fQoubWVldC1udW0xIC5jYXJkPmRpdjpudGgtY2hpbGQoMikge2JvcmRlci1sZWZ0OjFweCBkYXNoZWQgcmdiYSgyNTUsMjU1LDI1NSwuNSk7ICB9Ci5tZWV0LW51bTEgLmluZm8tbWVldCBkdCB7IGZvbnQtc2l6ZToyNXB4OyBtYXJnaW4tYm90dG9tOjVweH0KLm1lZXQtbnVtMSAuaW5mby1tZWV0IGRkIHsgZm9udC1zaXplOjE4cHg7IGhlaWdodDoxMDBweDtkaXNwbGF5OmJsb2NrO2Rpc3BsYXk6CiAgICAtd2Via2l0LWJveDstd2Via2l0LWxpbmUtY2xhbXA6NDstd2Via2l0LWJveC1vcmllbnQ6dmVydGljYWw7CiAgICBvdmVyZmxvdzpoaWRkZW47dGV4dC1vdmVyZmxvdzplbGxpcHNpc30KLm1lZXQtbnVtMSAubWVldC10aW1lIC5pY28tY2FsIHsgbWFyZ2luLWJvdHRvbToxMHB4fQoubWVldC1udW0xIC5tZWV0LXRpbWUgaSB7IGZvbnQtc2l6ZTozNXB4O30KLm1lZXQtbnVtMSAubWVldC10aW1lIC5kYXRlIHsgZm9udC1zaXplOjE4cHg7fQoubWVldC1udW0xIC5tZWV0LXRpbWUgLnRpbWUgeyBmb250LXdlaWdodDpib2xkOyBmb250LXNpemU6NDBweDtsaW5lLWhlaWdodDoxO30KCi8qyLjAx8DPwaTAzCAxsLPAzLvzIMDPtqcqLwoubWVldC1udW0yIHsgcGFkZGluZzowIDEwcHggMCA0MHB4O30KLm1lZXQtbnVtMiAuY2FyZCB7IGhlaWdodDoxMjBweDt9Ci5tZWV0LW51bTIgLmNhcmQ+ZGl2Om50aC1jaGlsZCgxKSB7IG1pbi1oZWlnaHQ6MTIwcHg7fQoubWVldC1udW0yIC5jYXJkPmRpdjpudGgtY2hpbGQoMikge2JvcmRlci1sZWZ0OjFweCBkYXNoZWQgcmdiYSgyNTUsMjU1LDI1NSwuNSk7ICB9Ci5tZWV0LW51bTIgLmluZm8tbWVldCBkdCB7IGZvbnQtc2l6ZToxOHB4OyBtYXJnaW4tYm90dG9tOjVweH0KLm1lZXQtbnVtMiAuaW5mby1tZWV0IGRkIHsgZm9udC1zaXplOjE0cHg7aGVpZ2h0OjU4cHg7ZGlzcGxheTpibG9jaztkaXNwbGF5OgogICAgLXdlYmtpdC1ib3g7LXdlYmtpdC1saW5lLWNsYW1wOjM7LXdlYmtpdC1ib3gtb3JpZW50OnZlcnRpY2FsOwogICAgb3ZlcmZsb3c6aGlkZGVuO3RleHQtb3ZlcmZsb3c6ZWxsaXBzaXN9Ci5tZWV0LW51bTIgLm1lZXQtdGltZSAuaWNvLWNhbCB7IG1hcmdpbi1ib3R0b206MTBweH0KLm1lZXQtbnVtMiAubWVldC10aW1lIGkgeyBmb250LXNpemU6MzBweDt9Ci5tZWV0LW51bTIgLm1lZXQtdGltZSAuZGF0ZSB7IGZvbnQtc2l6ZToxNXB4O30=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KQm9vdHN0cmFwIHR3ZWFrcwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0qLwoKYm9keSB7CiAgICBmb250LXdlaWdodDogMzAwOwogICAgYmFja2dyb3VuZDogdXJsKCcuLi8uLi9jb250ZW50L2ltYWdlcy9sb2dpbl9iZy5qcGcnKSBuby1yZXBlYXQgY2VudGVyIGNlbnRlciBmaXhlZDsKICAgIC13ZWJraXQtYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICAgIC1tb3otYmFja2dyb3VuZC1zaXplOiBjb3ZlcjsKICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7CiAgICAtby1iYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwogICAgZm9udC1mYW1pbHk6ICJIZWx2ZXRpY2EgTmV1ZSIsSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsIri8wLqw7bXxIjsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCkJyb3dzZXIgVXBncmFkZSBQcm9tcHQKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLmJyb3dzZXJ1cGdyYWRlIHsKICAgIG1hcmdpbjogMC4yZW0gMDsKICAgIGJhY2tncm91bmQ6ICNjY2M7CiAgICBjb2xvcjogIzAwMDsKICAgIHBhZGRpbmc6IDAuMmVtIDA7Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CkdlbmVyaWMgc3R5bGVzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCgovKiBFcnJvciBoaWdobGlnaHQgb24gaW5wdXQgZmllbGRzICovCi5uZy12YWxpZFtyZXF1aXJlZF0sIC5uZy12YWxpZC5yZXF1aXJlZCAgewogIGJvcmRlci1sZWZ0OiA1cHggc29saWQgZ3JlZW47Cn0KCi5uZy1pbnZhbGlkOm5vdChmb3JtKSAgewogIGJvcmRlci1sZWZ0OiA1cHggc29saWQgcmVkOwp9CgovKiBvdGhlciBnZW5lcmljIHN0eWxlcyAqLwoKLmpoLWNhcmQgewogICAgcGFkZGluZzogMS41JTsKICAgIG1hcmdpbi10b3A6IDIwcHg7CiAgICBib3JkZXI6IG5vbmU7Cn0KCi5lcnJvciB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cn0KCi5wYWQgewogICAgcGFkZGluZzogMTBweDsKfQoKLnctNDAgewogICAgd2lkdGg6IDQwJSAhaW1wb3J0YW50Owp9Cgoudy02MCB7CiAgICB3aWR0aDogNjAlICFpbXBvcnRhbnQ7Cn0KCi5icmVhayB7CiAgICB3aGl0ZS1zcGFjZTogbm9ybWFsOwogICAgd29yZC1icmVhazpicmVhay1hbGw7Cn0KCi5yZWFkb25seSB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZWVlOwogICAgb3BhY2l0eTogMTsKfQoKLmZvb3RlciB7CiAgICBib3JkZXItdG9wOiAxcHggc29saWQgcmdiYSgwLDAsMCwuMTI1KTsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KbWFrZSBzdXJlIGJyb3dzZXJzIHVzZSB0aGUgcG9pbnRlciBjdXJzb3IgZm9yIGFuY2hvcnMsIGV2ZW4gd2l0aCBubyBocmVmCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCmE6aG92ZXIgewogIGN1cnNvcjogcG9pbnRlcjsKfQoKLmhhbmQsIFtqaGlzb3J0YnldIHsKICAgIGN1cnNvcjogcG9pbnRlcjsKfQoKLyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KQ3VzdG9tIGFsZXJ0cyBmb3Igbm90aWZpY2F0aW9uCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCi5hbGVydHMgLmFsZXJ0ewogICAgdGV4dC1vdmVyZmxvdzogZWxsaXBzaXM7Cn0KLmFsZXJ0IHByZXsKICAgIGJhY2tncm91bmQ6IG5vbmU7CiAgICBib3JkZXI6IG5vbmU7CiAgICBmb250OiBpbmhlcml0OwogICAgY29sb3I6IGluaGVyaXQ7CiAgICBwYWRkaW5nOiAwOwogICAgbWFyZ2luOiAwOwp9CgouYWxlcnQgLnBvcG92ZXIgcHJlIHsKICAgIGZvbnQtc2l6ZTogMTBweDsKfQoKLmFsZXJ0cyAudG9hc3QgewogICAgcG9zaXRpb246IGZpeGVkOwogICAgd2lkdGg6IDEwMCU7Cn0KCi5hbGVydHMgLnRvYXN0LmxlZnQgewogICAgbGVmdDogNXB4Owp9CgouYWxlcnRzIC50b2FzdC5yaWdodCB7CiAgICByaWdodDogNXB4Owp9CgouYWxlcnRzIC50b2FzdC50b3AgewogICAgdG9wOiA1NXB4Owp9CgouYWxlcnRzIC50b2FzdC5ib3R0b20gewogICAgYm90dG9tOiA1NXB4Owp9CgpAbWVkaWEgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA0ODBweCkgewogICAgLmFsZXJ0cyAudG9hc3QgewogICAgICAgIHdpZHRoOiA1MCU7CiAgICB9Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmVudGl0eSB0YWJsZXMgaGVscGVycwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqLwovKiBSZW1vdmUgQm9vdHN0cmFwIHBhZGRpbmcgZnJvbSB0aGUgZWxlbWVudAogICBodHRwOi8vc3RhY2tvdmVyZmxvdy5jb20vcXVlc3Rpb25zLzE5NTYyOTAzL3JlbW92ZS1wYWRkaW5nLWZyb20tY29sdW1ucy1pbi1ib290c3RyYXAtMyAqLwoubm8tcGFkZGluZy1sZWZ0IHsgcGFkZGluZy1sZWZ0OiAwICFpbXBvcnRhbnQ7IH0KLm5vLXBhZGRpbmctcmlnaHQgeyBwYWRkaW5nLXJpZ2h0OiAwICFpbXBvcnRhbnQ7IH0KLm5vLXBhZGRpbmctdG9wIHsgcGFkZGluZy10b3A6IDAgIWltcG9ydGFudDsgfQoubm8tcGFkZGluZy1ib3R0b20geyBwYWRkaW5nLWJvdHRvbTogMCAhaW1wb3J0YW50OyB9Ci5uby1wYWRkaW5nIHsgcGFkZGluZzogMCAhaW1wb3J0YW50OyB9CgovKiBib290c3RyYXAgMyBpbnB1dC1ncm91cCAxMDAlIHdpZHRoCiAgIGh0dHA6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMjM0MzY0MzAvYm9vdHN0cmFwLTMtaW5wdXQtZ3JvdXAtMTAwLXdpZHRoICovCi53aWR0aC1taW4geyB3aWR0aDogMSUgIWltcG9ydGFudDsgfQoKLyogTWFrZXMgdG9vbGJhciBub3Qgd3JhcCBvbiBzbWFsbGVyIHNjcmVlbnMKIGh0dHA6Ly93d3cuc2tldGNoaW5nd2l0aGNzcy5jb20vc2FtcGxlY2hhcHRlci9jaGVhdHNoZWV0Lmh0bWwjcmlnaHQgKi8KLmZsZXgtYnRuLWdyb3VwLWNvbnRhaW5lciB7CiAgIGRpc3BsYXk6IC13ZWJraXQtZmxleDsKICAgZGlzcGxheTogZmxleDsKICAgLXdlYmtpdC1mbGV4LWRpcmVjdGlvbjogcm93OwogICBmbGV4LWRpcmVjdGlvbjogcm93OwogICAtd2Via2l0LWp1c3RpZnktY29udGVudDogZmxleC1lbmQ7CiAgIGp1c3RpZnktY29udGVudDogZmxleC1lbmQ7Cn0KCi8qID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmVudGl0eSBkZXRhaWwgcGFnZSBjc3MKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8KLnJvdy5qaC1lbnRpdHktZGV0YWlscyA+IGRkIHsKICAgIG1hcmdpbi1ib3R0b206IDE1cHg7Cn0KCkBtZWRpYSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDc2OHB4KSB7CiAgICAucm93LmpoLWVudGl0eS1kZXRhaWxzID4gZHQgewogICAgICAgIG1hcmdpbi1ib3R0b206IDE1cHg7CiAgICB9CiAgICAuY29udGFpbmVyIHsKICAgICAgICB3aWR0aDogNzUwcHg7CiAgICB9CgogICAgLnJvdy5qaC1lbnRpdHktZGV0YWlscyA+IGRkIHsKICAgICAgICBib3JkZXItYm90dG9tOiAxcHggc29saWQgI2VlZTsKICAgICAgICBwYWRkaW5nLWxlZnQ6IDE4MHB4OwogICAgICAgIG1hcmdpbi1sZWZ0OiAwOwogICAgfQp9CgovKiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQp1aSBib290c3RyYXAgdHdlYWtzCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ICovCi5uYXYsIC5wYWdpbmF0aW9uLCAuY2Fyb3VzZWwsIC5wYW5lbC10aXRsZSBhIHsKICAgIGN1cnNvcjogcG9pbnRlcjsKfQoKLmRhdGV0aW1lLXBpY2tlci1kcm9wZG93biA+IGxpLmRhdGUtcGlja2VyLW1lbnUgZGl2ID4gdGFibGUgLmJ0bi1kZWZhdWx0LAoudWliLWRhdGVwaWNrZXItcG9wdXAgID4gbGkgPiBkaXYudWliLWRhdGVwaWNrZXIgPiB0YWJsZSAuYnRuLWRlZmF1bHQgewogICAgYm9yZGVyOiAwOwp9CgouZGF0ZXRpbWUtcGlja2VyLWRyb3Bkb3duID4gbGkuZGF0ZS1waWNrZXItbWVudSBkaXYgPiB0YWJsZTpmb2N1cywKLnVpYi1kYXRlcGlja2VyLXBvcHVwICA+IGxpID4gZGl2LnVpYi1kYXRlcGlja2VyID4gdGFibGU6Zm9jdXMgewogICAgb3V0bGluZTogbm9uZTsKfQoKLyogamhpcHN0ZXItbmVlZGxlLWNzcy1hZGQtbWFpbiBKSGlwc3RlciB3aWxsIGFkZCBuZXcgY3NzIHN0eWxlICovCgouY2FyZCB7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBkaXNwbGF5OiAtd2Via2l0LWJveDsKICAgIGRpc3BsYXk6IC13ZWJraXQtZmxleDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC13ZWJraXQtYm94LW9yaWVudDogdmVydGljYWw7CiAgICAtd2Via2l0LWJveC1kaXJlY3Rpb246IG5vcm1hbDsKICAgIC13ZWJraXQtZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgIC1tcy1mbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgIGJhY2tncm91bmQ6cmdiYSgyNTUsMjU1LDI1NSwuOTUpOwogICAgYm9yZGVyOiAxcHggc29saWQgcmdiYSgwLDAsMCwuMTI1KTsKICAgIGJvcmRlci1yYWRpdXM6IDFyZW07CiAgICBtYXJnaW4tdG9wOiAxJTsKICAgIG1hcmdpbi1sZWZ0OiAxMCU7CiAgICBtYXJnaW4tcmlnaHQ6IDEwJTsKICAgIHBhZGRpbmctdG9wOiAxJTsKfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyrIuMDHwM/BpCCw+MXru+fH1yovCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KTWFpbiBwYWdlIHN0eWxlcwo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSAqLwoKLmhpcHN0ZXIgewogICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgd2lkdGg6IDM0N3B4OwogICAgaGVpZ2h0OiA0OTdweDsKICAgIGJhY2tncm91bmQ6IHVybCgiLi4vLi4vY29udGVudC9pbWFnZXMvaGlwc3Rlci5wbmciKSBuby1yZXBlYXQgY2VudGVyIHRvcDsKICAgIGJhY2tncm91bmQtc2l6ZTogY29udGFpbjsKfQoKLyohKiB3YWl0IGF1dG9wcmVmaXhlciB1cGRhdGUgdG8gYWxsb3cgc2ltcGxlIGdlbmVyYXRpb24gb2YgaGlnaCBwaXhlbCBkZW5zaXR5IG1lZGlhIHF1ZXJ5ICohKi8KLypAbWVkaWEqLwovKm9ubHkgc2NyZWVuIGFuZCAoLXdlYmtpdC1taW4tZGV2aWNlLXBpeGVsLXJhdGlvOiAyKSwqLwovKm9ubHkgc2NyZWVuIGFuZCAoICAgbWluLS1tb3otZGV2aWNlLXBpeGVsLXJhdGlvOiAyKSwqLwovKm9ubHkgc2NyZWVuIGFuZCAoICAgICAtby1taW4tZGV2aWNlLXBpeGVsLXJhdGlvOiAyLzEpLCovCi8qb25seSBzY3JlZW4gYW5kICggICAgICAgIG1pbi1kZXZpY2UtcGl4ZWwtcmF0aW86IDIpLCovCi8qb25seSBzY3JlZW4gYW5kICggICAgICAgICAgICAgICAgbWluLXJlc29sdXRpb246IDE5MmRwaSksKi8KLypvbmx5IHNjcmVlbiBhbmQgKCAgICAgICAgICAgICAgICBtaW4tcmVzb2x1dGlvbjogMmRwcHgpIHsqLwogICAgLyouaGlwc3RlciB7Ki8KICAgICAgICAvKmJhY2tncm91bmQ6IHVybCgiLi4vLi4vY29udGVudC9pbWFnZXMvaGlwc3RlcjJ4LnBuZyIpIG5vLXJlcGVhdCBjZW50ZXIgdG9wOyovCiAgICAgICAgLypiYWNrZ3JvdW5kLXNpemU6IGNvbnRhaW47Ki8KICAgIC8qfSovCi8qfSovCgppeyBmb250LXN0eWxlOm5vcm1hbDt9CmF7IHRleHQtZGVjb3JhdGlvbjpub25lICFpbXBvcnRhbnQ7fQoKLypsb2dpbsTBxdnD9yovCi5jb250YWluZXIge3Bvc2l0aW9uOnJlbGF0aXZlO30KLmxvZ2luQ29ue21hcmdpbi10b3A6MTAlOyBib3gtc2l6aW5nOmJvcmRlci1ib3g7IHBhZGRpbmc6NDBweCAzMHB4OyBiYWNrZ3JvdW5kOnJnYmEoMjU1LDI1NSwyNTUsLjg1KTsgYm9yZGVyLXJhZGl1czogMjBweDsgYm94LXNoYWRvdzo1cHggNXB4IDEwcHggcmdiYSgwLDAsMCwuMyk7fQoubG9naW4tbGVmdCB7IG1hcmdpbi10b3A6MTAlO30KLmxvZ2luLWxlZnQgc3BhbntkaXNwbGF5OmJsb2NrO30KLnRpbWUtdHh0IHsgdGV4dC1hbGlnbjpjZW50ZXI7ICBsaW5lLWhlaWdodDoxLjF9Ci50aW1lLXR4dCAudGltZSB7IGZvbnQtc2l6ZTo1LjVyZW07IGZvbnQtd2VpZ2h0OmJvbGQ7IGNvbG9yOiMxZDFjMWU7fQoudGltZS10eHQgLmdyZWV0LXR4dCB7IGZvbnQtc2l6ZToycmVtOyBjb2xvcjojNmU2ZjZmOyB9Ci5ncmVldC10eHQgc3BhbntkaXNwbGF5OmlubGluZS1ibG9jazt9Ci5sb2dpbi1yaWdodCB7cGFkZGluZzo1MHB4OyBib3JkZXItbGVmdDoxcHggc29saWQgI2QyZDFjYzsgfQoubG9naW4tcmlnaHQgbGFiZWwgeyBkaXNwbGF5Om5vbmU7fQoubG9naW4tcmlnaHQgaW5wdXQgeyBib3JkZXItcmFkaXVzOjA7IGJhY2tncm91bmQ6I2VmZjBmMTtoZWlnaHQ6NDVweDt9Ci5sb2dpbi1yaWdodCAuYnRuIHsgYm9yZGVyLXJhZGl1czowOyBiYWNrZ3JvdW5kOiMwMjM2NWY7IGNvbG9yOiNmZmY7IGZvbnQtc2l6ZToxNXB4OyBmb250LXdlaWdodDpib2xkO2hlaWdodDo0OHB4OyBib3gtc2hhZG93OjJweCAycHggMnB4IHJnYmEoMCwwLDAsLjIpfQoubG9naW4tcmlnaHQgLmlucHV0LWxnIHsgaGVpZ2h0OjQ1cHg7IHBhZGRpbmctbGVmdDozNXB4O30KLmZpbmQtaWQgeyBtYXJnaW4tdG9wOjE1cHg7fQouZmluZC1pZCBhIHsgZm9udC1zaXplOjE1cHg7IGNvbG9yOiM1MjUyNTI7IGRpc3BsYXk6YmxvY2s7IHRleHQtZGVjb3JhdGlvbjpub25lO30KLmZpbmQtaWQgYTpudGgtY2hpbGQoMil7IG1hcmdpbi10b3A6NXB4O30KLmxvZ2luLXJpZ2h0IC5mb3JtLWdyb3VwIHsgcG9zaXRpb246IHJlbGF0aXZlO30KLmxvZ2luLXJpZ2h0IC5mb3JtLWdyb3VwIGkgeyBjb2xvcjojNzI3MzczO2ZvbnQtc2l6ZToxNnB4OyBmb250LXdlaWdodDogYm9sZDsgcG9zaXRpb246IGFic29sdXRlO3RvcDoxNXB4OyBsZWZ0OjE1cHg7IH0KLmNvcHlyaWdodCB7IGNvbG9yOiNmZmY7IGZvbnQtd2VpZ2h0Om5vcm1hbDt9CgpAbWVkaWEgKG1heC13aWR0aDoxMDI0cHgpIHsKICAgIC50aW1lLXR4dCAudGltZSB7IGZvbnQtc2l6ZTozLjVyZW19CiAgICAudGltZS10eHQgLmdyZWV0LXR4dCB7IGZvbnQtc2l6ZToycmVtO30KICAgIC5sb2dpbkNvbiB7IHBhZGRpbmc6MzBweH0KICAgIC5sb2dpbi1sZWZ0IHsgbWFyZ2luLXRvcDozMHB4O30KICAgIC5sb2dpbi1yaWdodCB7IHBhZGRpbmc6MzBweH0KfQovKm1vYmlsZSovCkBtZWRpYSAobWF4LXdpZHRoOjc2N3B4KSB7CiAgICAvKm5hdmlnYXRpb24qLwogICAgLm5hdmJhci1pbnZlcnNleyBiYWNrZ3JvdW5kOnJnYmEoMjU1LDI1NSwyNTUsLjk1KTt9CiAgICAubmF2YmFyLWludmVyc2UgLm5hdmJhci1icmFuZCB7IGZvbnQtc2l6ZToycmVtO30KICAgIC5uYXZiYXItaW52ZXJzZSAubmF2YmFyLWJyYW5kLC5uYXZiYXItaW52ZXJzZSAubmF2YmFyLWJyYW5kOmhvdmVyLAogICAgLm5hdmJhci1pbnZlcnNlIC5uYXZiYXItYnJhbmQ6YWN0aXZlLC5uYXZiYXItaW52ZXJzZSAubmF2YmFyLWJyYW5kOnZpc2l0ZWR7IGNvbG9yOiMxZDFjMWV9CiAgICAubmF2YmFyLWludmVyc2UgLm5hdmJhci1uYXY+bGkgYSwubmF2YmFyLWludmVyc2UgLm5hdmJhci1uYXY+bGkgYTpob3ZlciwKICAgIC5uYXZiYXItaW52ZXJzZSAubmF2YmFyLW5hdj5saSBhOmFjdGl2ZSwubmF2YmFyLWludmVyc2UgLm5hdmJhci1uYXY+bGkgYTp2aXNpdGVkCiAgICB7IGNvbG9yOiM2ZTZmNmYgIWltcG9ydGFudDt9CiAgICAubmF2YmFyLWludmVyc2UgLm5hdmJhci1jb2xsYXBzZSwgLm5hdmJhci1pbnZlcnNlIC5uYXZiYXItZm9ybSB7CiAgICAgICAgYm9yZGVyLWNvbG9yOnJnYmEoMTc5LDE4NywxODksLjMpfQogICAgLm5hdmJhci1pbnZlcnNlIC5uYXZiYXItdG9nZ2xlIC5pY29uLWJhciB7Y29sb3I6IzZlNmY2Zjt9CiAgICAubmF2YmFyLWludmVyc2UgLm5hdmJhci10b2dnbGUgLmljb24tYmFyIHtiYWNrZ3JvdW5kLWNvbG9yOiM2ZTZmNmY7fQogICAgLm5hdmJhci1pbnZlcnNlIC5uYXZiYXItdG9nZ2xlIHsgYm9yZGVyLWNvbG9yOiM2ZTZmNmY7fQogICAgLnVzZXItbmFtZXtkaXNwbGF5Om5vbmU7fQogICAgLmJ0bi1sb2dvdXQsLmJ0bi1sb2dvdXQ6aG92ZXIsLmJ0bi1sb2dvdXQ6YWN0aXZlICwuYnRuLWxvZ291dDp2aXNpdGVkIHsgY29sb3I6IzZlNmY2Zjt9CiAgICAvKmxvZ2luxMHF2cP3Ki8KICAgIC5sb2dpbkNvbiB7IHdpZHRoOjkwJTsgbWFyZ2luOjAgYXV0b30KICAgIC50aW1lLXR4dCAudGltZSB7IGZvbnQtc2l6ZTo0cmVtfQogICAgLnRpbWUtdHh0IC5ncmVldC10eHQgeyBmb250LXNpemU6MS41cmVtO30KICAgIC5sb2dpbkNvbiB7IHBhZGRpbmc6MjBweH0KICAgIC5sb2dpbi1sZWZ0IHsgbWFyZ2luLXRvcDowO30KICAgIC5sb2dpbi1yaWdodCB7Ym9yZGVyLWxlZnQ6MDsgcGFkZGluZzoyMHB4IDAgMTBweCAwfQogICAgLmZpbmQtaWQgYSB7IGZvbnQtc2l6ZToxNHB4OyBmb250LXdlaWdodDogYm9sZGVyO30KfQoKLyogbWlzc2luZyBib290c3RyYXAgY2xhc3MgKi8KLmNlbnRlci1ibG9jayB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIG1hcmdpbi1yaWdodDogYXV0bzsKICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwp9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LmhnMTAwIHsKICAgICBoZWlnaHQ6IDEwMCU7CiB9Cg==</text>
+      <register name="7" type="4">
+        <text>.hipster {
+    display: inline-block;
+    width: 347px;
+    height: 497px;
+    background: url(&quot;../../content/images/hipster.png&quot;) no-repeat center top;
+    background-size: contain;
+}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LmNhcmQudHlwZTJ7YmFja2dyb3VuZDojMDBhYmFhOyB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CkBtZWRpYSAobWF4LXdpZHRoOjEwMjRweCkgewogICAgLnRpbWUtdHh0IC50aW1lIHsgZm9udC1zaXplOjMuNXJlbX0KICAgIC50aW1lLXR4dCAuZ3JlZXQtdHh0IHsgZm9udC1zaXplOjJyZW07fQogICAgLmxvZ2luQ29uIHsgcGFkZGluZzozMHB4fQogICAgLmxvZ2luLWxlZnQgeyBtYXJnaW4tdG9wOjMwcHg7fQogICAgLmxvZ2luLXJpZ2h0IHsgcGFkZGluZzozMHB4fQp9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LmNhcmQudHlwZTEge2JhY2tncm91bmQ6IzAyNTk4NTsgfQo=</text>
+      <register name="9" type="4">
+        <text>.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>768</last-search>
+      <last-search>info-m</last-search>
       <last-offset />
-      <last-pattern>768</last-pattern>
+      <last-pattern>info-m</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -541,8 +576,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isEnabled</entry>
-        <entry>conferenceServnce.</entry>
         <entry>conferenceService</entry>
         <entry>Future</entry>
         <entry>Address</entry>
@@ -561,6 +594,8 @@
         <entry>info</entry>
         <entry>container</entry>
         <entry>768</entry>
+        <entry>meet</entry>
+        <entry>info-m</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

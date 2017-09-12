@@ -114,9 +114,6 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/web/rest/ConferenceResource.java" timestamp="1505195186318">
         <mark key="'" line="159" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceMail.json" timestamp="1502679492378">
-        <mark key="[" line="39" column="22" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationSendFailEmail.html" timestamp="1501144546582">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="17" column="11" />
@@ -136,9 +133,6 @@
         <mark key="]" line="20" column="61" />
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-simple/conference-simple.component.ts" timestamp="1505111629913">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.module.ts" timestamp="1505202638490" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conferenceStateCode.ts" timestamp="1505206919917" />
@@ -308,7 +302,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505200204871">
+      <file name="/Dummy.txt" timestamp="1505213350834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">

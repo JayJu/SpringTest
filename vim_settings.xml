@@ -342,11 +342,11 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1501142107162">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="^" line="44" column="12" />
-        <mark key="." line="31" column="4" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505346528231">
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="84" column="14" />
+        <mark key="^" line="84" column="14" />
+        <mark key="." line="84" column="14" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1502683900831">
         <mark key="[" line="37" column="16" />
@@ -510,11 +510,11 @@
       <jump line="31" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ctx</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>ctx</text>
       </register>
       <register name="/" type="4">
         <text>ConferenceStateCode</text>

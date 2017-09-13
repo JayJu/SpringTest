@@ -6,12 +6,12 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" timestamp="1505207525589">
         <mark key="'" line="6" column="123" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1503533503150">
-        <mark key="'" line="30" column="39" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-        <mark key="^" line="208" column="74" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1505345743484">
+        <mark key="'" line="29" column="39" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="207" column="74" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
@@ -71,13 +71,6 @@
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="17" column="45" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505193910298">
-        <mark key="'" line="98" column="16" />
-        <mark key="[" line="59" column="51" />
-        <mark key="]" line="59" column="51" />
-        <mark key="^" line="59" column="51" />
-        <mark key="." line="59" column="51" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
@@ -518,7 +511,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -530,31 +523,31 @@
         <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLWNhcmQuY29tcG9uZW50JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImNvbmZlcmVuY2UuY29uZmVyZW5jZVN0YXRlQ29kZSAhPT0gQ29uZmVyZW5jZVN0YXRlQ29kZS5XIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGR0Pnt7Y29uZmVyZW5jZS5uYW1lfX08L2R0PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGQ+e3tjb25mZXJlbmNlLmNvbW1lbnRzfX08L2RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImNvbmZlcmVuY2UuY29uZmVyZW5jZVN0YXRlQ29kZSAhPT0gQ29uZmVyZW5jZVN0YXRlQ29kZS5XIj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlU3RhdGVDb2RlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGR0Pnt7Y29uZmVyZW5jZS5uYW1lfX08L2R0PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGQ+e3tjb25mZXJlbmNlLmNvbW1lbnRzfX08L2RkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLnJvdXRlJzsK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlU3RhdGVDb2RlJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLnJvdXRlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlU3RhdGVDb2RlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlU3RhdGVDb2RlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

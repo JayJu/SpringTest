@@ -310,6 +310,7 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/ConferenceFileService.java" timestamp="1505362803267" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/index.ts" timestamp="1505122163017">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="38" />
@@ -342,12 +343,12 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505358907038">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505362303429">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="73" column="45" />
-        <mark key="]" line="77" column="79" />
-        <mark key="." line="77" column="79" />
-        <mark key="^" line="77" column="79" />
+        <mark key="[" line="77" column="49" />
+        <mark key="]" line="77" column="69" />
+        <mark key="." line="77" column="69" />
+        <mark key="^" line="77" column="69" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1502683900831">
         <mark key="[" line="37" column="16" />
@@ -511,11 +512,11 @@
       <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5hZGRJbgo=</text>
+      <register name="&quot;" type="4">
+        <text>imageSource</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>imageSource</text>
       </register>
       <register name="/" type="4">
         <text>ConferenceStateCode</text>

@@ -121,12 +121,12 @@
         <mark key="." line="20" column="61" />
         <mark key="^" line="20" column="61" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1505367889214">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/activationEmail.html" timestamp="1505369529118">
         <mark key="'" line="16" column="28" />
-        <mark key="[" line="19" column="89" />
-        <mark key="]" line="19" column="89" />
-        <mark key="^" line="19" column="89" />
-        <mark key="." line="19" column="89" />
+        <mark key="[" line="30" column="74" />
+        <mark key="]" line="30" column="83" />
+        <mark key="^" line="30" column="83" />
+        <mark key="." line="30" column="83" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.module.ts" timestamp="1505202638490" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conferenceStateCode.ts" timestamp="1505206919917" />
@@ -344,12 +344,12 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505367050084">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505369154854">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="^" line="85" column="66" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="107" column="53" />
+        <mark key="]" line="107" column="56" />
+        <mark key="^" line="107" column="56" />
+        <mark key="." line="107" column="56" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1502683900831">
         <mark key="[" line="37" column="16" />
@@ -514,10 +514,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>img</text>

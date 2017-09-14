@@ -342,11 +342,12 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505346528231">
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="84" column="14" />
-        <mark key="^" line="84" column="14" />
-        <mark key="." line="84" column="14" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" timestamp="1505348172897">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="45" />
+        <mark key="]" line="77" column="79" />
+        <mark key="." line="77" column="79" />
+        <mark key="^" line="77" column="79" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Company.json" timestamp="1502683900831">
         <mark key="[" line="37" column="16" />
@@ -408,8 +409,6 @@
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/language/language.pipe.ts" timestamp="1505200079446" />
     </filemarks>
     <jumps>
-      <jump line="29" column="2" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
-      <jump line="31" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
       <jump line="32" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
       <jump line="33" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
       <jump line="38" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.css" />
@@ -508,46 +507,48 @@
       <jump line="34" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="9" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="31" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
+      <jump line="35" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" />
+      <jump line="0" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ctx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5hZGRJbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>ctx</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>ConferenceStateCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLWNhcmQuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldFZhcmlhYmxlKElNQUdFX0tFWV9PRl9CQUNLR1JPVU5ELCBJTUFHRV9OQU1FX09GX0JBQ0tHUk9VTkQpOwogICAgICAgIGNvbnRleHQuc2V0VmFyaWFibGUoSU1BR0VfS0VZX09GX0xPR08sIElNQUdFX05BTUVfT0ZfTE9HTyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS5hZGRJbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImNvbmZlcmVuY2UuY29uZmVyZW5jZVN0YXRlQ29kZSAhPT0gQ29uZmVyZW5jZVN0YXRlQ29kZS5XIj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGR0Pnt7Y29uZmVyZW5jZS5uYW1lfX08L2R0PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGQ+e3tjb25mZXJlbmNlLmNvbW1lbnRzfX08L2RkPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlU3RhdGVDb2RlJzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9jb25mZXJlbmNlLnJvdXRlJzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uYW5ub3RhdGlvbi5UcmFuc2FjdGlvbmFsOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImNvbmZlcmVuY2UuY29uZmVyZW5jZVN0YXRlQ29kZSAhPT0gQ29uZmVyZW5jZVN0YXRlQ29kZS5XIj4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25mZXJlbmNlU3RhdGVDb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGR0Pnt7Y29uZmVyZW5jZS5uYW1lfX08L2R0PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGQ+e3tjb25mZXJlbmNlLmNvbW1lbnRzfX08L2RkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

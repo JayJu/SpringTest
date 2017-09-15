@@ -81,12 +81,12 @@
         <mark key="^" line="14" column="40" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1505379225422">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1505438173027">
         <mark key="'" line="51" column="36" />
-        <mark key="[" line="56" column="88" />
-        <mark key="]" line="56" column="88" />
-        <mark key="^" line="56" column="102" />
-        <mark key="." line="56" column="88" />
+        <mark key="[" line="56" column="71" />
+        <mark key="]" line="56" column="71" />
+        <mark key="^" line="56" column="88" />
+        <mark key="." line="56" column="71" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationSendFailEmail.html" timestamp="1501144546582">
         <mark key="[" line="15" column="12" />
@@ -502,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>resetKey</text>

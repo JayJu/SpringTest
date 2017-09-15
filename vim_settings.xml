@@ -81,11 +81,12 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1505443517046">
-        <mark key="[" line="46" column="30" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="29" />
-        <mark key="." line="46" column="30" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" timestamp="1505449633633">
+        <mark key="'" line="15" column="23" />
+        <mark key="[" line="39" column="228" />
+        <mark key="]" line="9" column="77" />
+        <mark key="^" line="9" column="77" />
+        <mark key="." line="9" column="77" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationSendFailEmail.html" timestamp="1501144546582">
         <mark key="[" line="15" column="12" />
@@ -397,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
-      <jump line="218" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
-      <jump line="167" column="30" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/content/css/global.css" />
       <jump line="38" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="39" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="40" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
@@ -497,6 +495,9 @@
       <jump line="49" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
       <jump line="146" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
       <jump line="150" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
+      <jump line="33" column="137" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
+      <jump line="54" column="182" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
+      <jump line="15" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,7 +507,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>USER</text>
+        <text>background</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW1haWwuY29uZmVyZW5jZS5yZXNlcnZhdGlvbi5hdHRlbmRlZWxpc3Q9wvy8rsDaILjttNw6Cg==</text>
@@ -543,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search>USER</last-search>
+      <last-search>background</last-search>
       <last-offset />
-      <last-pattern>USER</last-pattern>
+      <last-pattern>background</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pipe</entry>
         <entry>Pipe</entry>
         <entry>popup</entry>
         <entry>register</entry>
@@ -573,6 +573,7 @@
         <entry>conference</entry>
         <entry>user</entry>
         <entry>USER</entry>
+        <entry>background</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

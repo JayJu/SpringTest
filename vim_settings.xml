@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" timestamp="1505207525589">
-        <mark key="'" line="6" column="123" />
+        <mark key="'" line="7" column="123" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" timestamp="1505441082911">
         <mark key="'" line="152" column="28" />
@@ -50,12 +50,12 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.ts" timestamp="1505207004167">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="5" column="68" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-        <mark key="^" line="17" column="45" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.ts" timestamp="1505457043167">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="57" column="5" />
+        <mark key="]" line="61" column="4" />
+        <mark key="." line="61" column="4" />
+        <mark key="^" line="61" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
@@ -279,7 +279,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505454042355">
+      <file name="/Dummy.txt" timestamp="1505456530891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
@@ -312,8 +312,8 @@
         <mark key="^" line="40" column="8" />
         <mark key="." line="40" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" timestamp="1505206941778">
-        <mark key="'" line="31" column="4" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" timestamp="1505456873922">
+        <mark key="'" line="103" column="36" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500890220795">
         <mark key="[" line="266" column="12" />
@@ -326,6 +326,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="37" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" timestamp="1505456408776">
+        <mark key="'" line="164" column="78" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/creationEmail.html" timestamp="1505371120033">
         <mark key="[" line="50" column="0" />
@@ -398,22 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="39" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="40" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="41" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="42" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="43" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="44" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="47" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="48" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="49" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="50" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="53" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="54" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="55" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="56" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="57" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="58" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="61" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="62" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
@@ -471,7 +458,6 @@
       <jump line="71" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
       <jump line="83" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
       <jump line="64" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" />
-      <jump line="34" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="9" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="31" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="35" column="47" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailService.java" />
@@ -498,16 +484,33 @@
       <jump line="33" column="137" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
       <jump line="54" column="182" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
       <jump line="15" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
+      <jump line="740" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="784" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="825" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="18" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="68" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="84" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="148" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="157" column="37" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="158" column="56" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="159" column="54" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="160" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="164" column="78" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
+      <jump line="34" column="52" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
+      <jump line="100" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
+      <jump line="40" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
+      <jump line="96" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
+      <jump line="103" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHRoOnRleHQ9IiN7ZW1haWwuY29uZmVyZW5jZS5yZXNlcnZhdGlvbi50b3BpYygke2NvbmZlcmVuY2UubmFtZX0pfSIgc3R5bGU9InBhZGRpbmc6MDsgbWFyZ2luOjA7Y29sb3I6IzU1NTU1NTsgZm9udC1zaXplOjE4cHg7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb3BpYzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHRoOmlmPSIke2NvbmZlcmVuY2UuY29tbWVudHMgIT0gbnVsbH0iIHRoOnRleHQ9IiN7ZW1haWwuY29uZmVyZW5jZS5yZXNlcnZhdGlvbi5jb21tZW50cygke2NvbmZlcmVuY2UuY29tbWVudHN9KX0iIHN0eWxlPSJwYWRkaW5nOjA7IG1hcmdpbjowO2NvbG9yOiM1NTU1NTU7IGZvbnQtc2l6ZToxOHB4OyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29tbWVudHM6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCB0aDp0ZXh0PSIje2VtYWlsLmNvbmZlcmVuY2UucmVzZXJ2YXRpb24udGltZSgkeyNjYWxlbmRhcnMuZm9ybWF0KGNvbmZlcmVuY2UucmVzZXJ2ZWRCZWdpbkRhdGV0aW1lLCAneXl5eS5NTS5kZCBISDptbScpfSwgJHsjY2FsZW5kYXJzLmZvcm1hdChjb25mZXJlbmNlLnJlc2VydmVkRW5kRGF0ZXRpbWUsICd5eXl5Lk1NLmRkIEhIOm1tJyl9KX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZT0icGFkZGluZzowOyBtYXJnaW46MDtjb2xvcjojNTU1NTU1OyBmb250LXNpemU6MThweDsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFdoZW46CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCB0aDp0ZXh0PSIje2VtYWlsLmNvbmZlcmVuY2UucmVzZXJ2YXRpb24uYXR0ZW5kZWVsaXN0fSIgc3R5bGU9InBhZGRpbmc6MDsgbWFyZ2luOjA7Y29sb3I6IzU1NTU1NTsgZm9udC1zaXplOjE4cHg7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBBdHRlbmRlZSBMaXN0OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHRoOmVhY2g9ImF0dGVuZGVlOiAke2F0dGVuZGVlc30iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIHRoOnRleHQ9Inwke2F0dGVuZGVlLmF0dGVuZGVlTmFtZX0oJHthdHRlbmRlZS5hdHRlbmRlZUlkfSktJHthdHRlbmRlZS5jb21wYW55TmFtZX18IiAgc3R5bGU9InBhZGRpbmc6MDsgbWFyZ2luOjA7Y29sb3I6IzU1NTU1NTsgZm9udC1zaXplOjE4cHg7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLSC59sawLS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJib3JkZXItdG9wOjFweCBzb2xpZCAjZTNlM2UzOyBwYWRkaW5nLXRvcDoyMHB4O21hcmdpbi10b3A6MjBweDsgbWFyZ2luLWJvdHRvbToxMHB4OyB0ZXh0LWFsaWduOmNlbnRlcjsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIHRoOmhyZWY9IkB7fCR7YmFzZVVybH0vIy9jb25mZXJlbmNlLyR7Y29uZmVyZW5jZS5pZH0vJHtyZWNlaXZlckVtYWlsfXx9IiB0aDp0ZXh0PSIje2VtYWlsLmNvbmZlcmVuY2UucmVzZXJ2YXRpb24uZW50ZXJ9IiBzdHlsZT0iYm9yZGVyLXJhZGl1czo1cHg7IGJhY2tncm91bmQ6IzFkNGU2YjsgY29sb3I6I2ZmZjsgZm9udC1zaXplOjIwcHg7IGZvbnQtd2VpZ2h0OmJvbGQ7IGRpc3BsYXk6aW5saW5lLWJsb2NrOyBwYWRkaW5nOjEwcHggMjVweDsgdGV4dC1kZWNvcmF0aW9uOm5vbmU7Ij4gRW50ZXIgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCB0aDp0ZXh0PSIje2VtYWlsLnJlc2V0LnRleHQyfSIgc3R5bGU9InBhZGRpbmc6MDsgbWFyZ2luOjA7Y29sb3I6IzU1NTU1NTsgZm9udC1zaXplOjE4cHg7Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZWdhcmRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGVtIHRoOnRleHQ9IiN7ZW1haWwuc2lnbmF0dXJlfSI+SEFNLjwvZW0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPHNwYW4gc3R5bGU9ImNvbG9yOiB3aGl0ZTsiIHRoOnV0ZXh0PSIkeycmbHQ7ISYjNDU7JiM0NTsgQG1pZDonICsgbWFpbElkICsgJyYjNDU7JiM0NTsmZ3Q7J30iIHRoOnJlbW92ZT0idGFnIj48L3NwYW4+Jm5kYXNoOyZndDstLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHN0eWxlPSJjb2xvcjogd2hpdGU7IiB0aDp1dGV4dD0iJHsnQG1pZDonICsgbWFpbElkICsgJ0AnfSIgdGg6cmVtb3ZlPSJ0YWciPjwvc3Bhbj4=</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>background</text>
+        <text>eventManager</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZW1haWwuY29uZmVyZW5jZS5yZXNlcnZhdGlvbi5hdHRlbmRlZWxpc3Q9wvy8rsDaILjttNw6Cg==</text>
@@ -544,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>background</last-search>
+      <last-search>eventManager</last-search>
       <last-offset />
-      <last-pattern>background</last-pattern>
+      <last-pattern>eventManager</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -554,11 +557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pipe</entry>
-        <entry>popup</entry>
-        <entry>register</entry>
-        <entry>new</entry>
-        <entry>Router</entry>
         <entry>reouter</entry>
         <entry>router</entry>
         <entry>ConferenceStateCode</entry>
@@ -574,6 +572,11 @@
         <entry>user</entry>
         <entry>USER</entry>
         <entry>background</entry>
+        <entry>save</entry>
+        <entry>Event</entry>
+        <entry>event</entry>
+        <entry>eventSub</entry>
+        <entry>eventManager</entry>
       </history-search>
       <history-cmd>
         <entry>%s/companies/companyList/g</entry>

@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" timestamp="1505207525589">
-        <mark key="'" line="7" column="123" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/webpack/webpack.dev.js" timestamp="1502246453576">
         <mark key="[" line="76" column="28" />
         <mark key="]" line="76" column="28" />
@@ -106,7 +103,7 @@
         <mark key="^" line="40" column="52" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.css" timestamp="1505784681495">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.css" timestamp="1505786137982">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -167,11 +164,11 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.ts" timestamp="1505109034479">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.ts" timestamp="1505786203740">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505781594075">
         <mark key="[" line="17" column="164" />
@@ -310,9 +307,7 @@
         <mark key="^" line="40" column="8" />
         <mark key="." line="40" column="8" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" timestamp="1505456873922">
-        <mark key="'" line="103" column="36" />
-      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock1.css" timestamp="1505786144543" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500890220795">
         <mark key="[" line="266" column="12" />
         <mark key="]" line="266" column="13" />
@@ -352,9 +347,6 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/@ngx-translate/core/src/translate.service.d.ts" timestamp="1505777826438">
-        <mark key="'" line="168" column="29" />
-      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/DatabaseConfiguration.java" timestamp="1501658312330">
         <mark key="[" line="59" column="66" />
         <mark key="]" line="59" column="17" />
@@ -390,9 +382,6 @@
         <mark key="]" line="154" column="3" />
         <mark key="." line="154" column="3" />
         <mark key="^" line="154" column="3" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.route.ts" timestamp="1505207607060">
-        <mark key="'" line="48" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalSendFailEmail.html" timestamp="1501144535693">
         <mark key="[" line="15" column="12" />

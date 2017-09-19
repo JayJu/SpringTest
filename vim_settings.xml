@@ -150,11 +150,11 @@
         <mark key="^" line="45" column="32" />
         <mark key="." line="45" column="32" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/test/src/Main.java" timestamp="1505798678476">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="27" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="18" column="27" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/test/src/Main.java" timestamp="1505802552821">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="30" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" timestamp="1505777960830">
         <mark key="[" line="34" column="30" />
@@ -515,44 +515,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBuYW1lPSJ0aXRsZSIgdHlwZT0idmFyY2hhcigyNTUpIj4KICAgICAgICAgICAgICAgIDxjb25zdHJhaW50cyBudWxsYWJsZT0idHJ1ZSIgLz4KICAgICAgICAgICAgPC9jb2x1bW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHV1aWQuZ2V0TW9zdFNpZ25pZmljYW50Qml0cygpJkxvbmcuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG51bSA9IDBMOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>메인화면 회의카드 시안적용완료
-- 회의없을때, 1개일때, 2개이상일때 분기적용</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaXplIG9mIG51bTogIitudW1zLnNpemUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaXplIG9mIG51bTogIitudW1zLnNpemUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHJhbnNsYXRlU2VydmljZSB9IGZyb20gJ0BuZ3gtdHJhbnNsYXRlL2NvcmUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFVVSUQucmFuZG9tVVVJRCgpLmdldE1vc3RTaWduaWZpY2FudEJpdHMoKSZMb25nLk1BWF9WQUxVRSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHRyYW5zbGF0ZVNlcnZpY2U6IFRyYW5zbGF0ZVNlcnZpY2UsCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8RT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

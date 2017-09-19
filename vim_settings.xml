@@ -51,6 +51,11 @@
         <mark key="^" line="53" column="59" />
         <mark key="." line="53" column="59" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.ts" timestamp="1505809920980">
+        <mark key="]" line="30" column="19" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="48" />
@@ -75,11 +80,16 @@
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" timestamp="1505781085557">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" timestamp="1505809818777">
+        <mark key="'" line="104" column="17" />
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="^" line="49" column="34" />
         <mark key="." line="2" column="23" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/address-book/address-book-detail.component.ts" timestamp="1505809274383" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" timestamp="1505809576602">
+        <mark key="'" line="34" column="33" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceAttend.json" timestamp="1505782534057">
         <mark key="[" line="47" column="28" />
@@ -92,6 +102,12 @@
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/conference.json" timestamp="1505807036386">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="38" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="14" column="38" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073117_added_entity_constraints_ConferenceFile.xml" timestamp="1500873881668">
         <mark key="[" line="20" column="54" />
@@ -156,7 +172,8 @@
         <mark key="." line="25" column="28" />
         <mark key="^" line="25" column="30" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" timestamp="1505777960830">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" timestamp="1505809309361">
+        <mark key="'" line="58" column="13" />
         <mark key="[" line="34" column="30" />
         <mark key="]" line="35" column="45" />
         <mark key="." line="35" column="45" />
@@ -180,11 +197,11 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505781594075">
-        <mark key="[" line="17" column="164" />
-        <mark key="]" line="17" column="164" />
-        <mark key="." line="17" column="164" />
-        <mark key="^" line="17" column="162" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505810212051">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="15" column="162" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
@@ -282,10 +299,10 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505803101368">
+      <file name="/Dummy.txt" timestamp="1505810619686">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
         <mark key="[" line="20" column="23" />
@@ -293,11 +310,11 @@
         <mark key="." line="20" column="56" />
         <mark key="^" line="20" column="56" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.html" timestamp="1505797303854">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="61" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="46" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.html" timestamp="1505810465437">
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="18" column="72" />
+        <mark key="^" line="18" column="74" />
+        <mark key="." line="18" column="72" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Title.json" timestamp="1501650597184">
         <mark key="[" line="2" column="0" />
@@ -398,6 +415,13 @@
         <mark key="." line="154" column="3" />
         <mark key="^" line="154" column="3" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/conference.json" timestamp="1505807432051">
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.component.html" timestamp="1505807218282" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalSendFailEmail.html" timestamp="1501144535693">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="17" column="11" />
@@ -418,16 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="77" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="78" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="79" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="83" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="86" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="87" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="89" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="90" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="91" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="92" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="93" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="94" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
@@ -518,55 +532,65 @@
       <jump line="168" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/@ngx-translate/core/src/translate.service.d.ts" />
       <jump line="25" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/alert/confirm.component.html" />
       <jump line="3" column="25" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/alert/confirm.component.html" />
+      <jump line="47" column="10" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="50" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="106" column="56" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="32" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="80" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="104" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
+      <jump line="35" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" />
+      <jump line="58" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" />
+      <jump line="23" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" />
+      <jump line="34" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>changeLan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHV1aWQuZ2V0TW9zdFNpZ25pZmljYW50Qml0cygpJkxvbmcuTUFYX1ZBTFVFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImhvbWUuY29tcG9uZW50LnRzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG51bSA9IDBMOwo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2VudGl0aWVzL2NvbmZlcmVuY2UtY2FyZC9jb25mZXJlbmNlLWNhcmQubW9kdWxlLnRzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaXplIG9mIG51bTogIitudW1zLnNpemUoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uLy4uL2hvbWUvaG9tZS5jb21wb25lbnQudHMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iLi4vY29uZmVyZW5jZS9jb25mZXJlbmNlLnNlcnZpY2UudHMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iY29uZmVyZW5jZS1jYXJkLmNvbXBvbmVudC50cyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzaXplIG9mIG51bTogIitudW1zLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFVVSUQucmFuZG9tVVVJRCgpLmdldE1vc3RTaWduaWZpY2FudEJpdHMoKSZMb25nLk1BWF9WQUxVRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8RT4K</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG51bSA9IDBMOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>changeLan</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>changeLan</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -574,7 +598,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ConferenceStateCode</entry>
         <entry>path</entry>
         <entry>gif</entry>
         <entry>png</entry>
@@ -591,9 +614,10 @@
         <entry>Event</entry>
         <entry>event</entry>
         <entry>eventSub</entry>
-        <entry>eventManager</entry>
         <entry>instant</entry>
         <entry>title</entry>
+        <entry>eventManager</entry>
+        <entry>changeLan</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -608,13 +632,13 @@
         <entry>176</entry>
         <entry>186</entry>
         <entry>44</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>0</entry>
         <entry>wq</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%</entry>
         <entry>2</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

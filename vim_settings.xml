@@ -74,6 +74,12 @@
         <mark key="^" line="15" column="49" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/login.json" timestamp="1507862646457">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="42" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages.properties" timestamp="1505441644175">
         <mark key="[" line="30" column="35" />
         <mark key="]" line="30" column="39" />
@@ -87,7 +93,6 @@
         <mark key="^" line="49" column="34" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/address-book/address-book-detail.component.ts" timestamp="1505809274383" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" timestamp="1505809576602">
         <mark key="'" line="34" column="33" />
       </file>
@@ -135,6 +140,12 @@
         <mark key="]" line="30" column="39" />
         <mark key="^" line="30" column="39" />
         <mark key="." line="30" column="39" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" timestamp="1507862632631">
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+        <mark key="^" line="55" column="42" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/ConferenceAttendHistory.json" timestamp="1502244610661">
         <mark key="[" line="34" column="0" />
@@ -185,11 +196,12 @@
         <mark key="^" line="431" column="41" />
         <mark key="." line="431" column="41" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1505781408977">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="41" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="41" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" timestamp="1507862556643">
+        <mark key="'" line="3" column="129" />
+        <mark key="[" line="88" column="47" />
+        <mark key="]" line="88" column="50" />
+        <mark key="." line="88" column="50" />
+        <mark key="^" line="88" column="50" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.ts" timestamp="1505786203740">
         <mark key="[" line="10" column="31" />
@@ -197,11 +209,11 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1505810212051">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="15" column="162" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" timestamp="1507862431055">
+        <mark key="[" line="58" column="48" />
+        <mark key="]" line="58" column="51" />
+        <mark key="^" line="58" column="51" />
+        <mark key="." line="58" column="51" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/ImapMailConfiguration.java" timestamp="1501237938420">
         <mark key="[" line="41" column="0" />
@@ -244,12 +256,6 @@
         <mark key="]" line="36" column="55" />
         <mark key="." line="36" column="55" />
         <mark key="^" line="36" column="55" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/i18n/messages_ko.properties" timestamp="1505441618872">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-        <mark key="^" line="30" column="37" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceFileRepository.java" timestamp="1501122218778">
         <mark key="[" line="26" column="23" />
@@ -299,8 +305,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505810619686">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1507862836586">
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
       </file>
@@ -309,12 +314,6 @@
         <mark key="]" line="20" column="56" />
         <mark key="." line="20" column="56" />
         <mark key="^" line="20" column="56" />
-      </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.component.html" timestamp="1505873316595">
-        <mark key="[" line="18" column="72" />
-        <mark key="]" line="18" column="72" />
-        <mark key="^" line="18" column="74" />
-        <mark key="." line="18" column="72" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/.jhipster/Title.json" timestamp="1501650597184">
         <mark key="[" line="2" column="0" />
@@ -421,12 +420,17 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-file/conference-file.component.html" timestamp="1505807218282" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalSendFailEmail.html" timestamp="1501144535693">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="17" column="11" />
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="11" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/login.json" timestamp="1507862359100">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-video/conference-video.model.ts" timestamp="1501649210498">
         <mark key="[" line="8" column="34" />
@@ -442,9 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="93" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
-      <jump line="94" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="95" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="96" column="5" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
       <jump line="10" column="6" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" />
@@ -542,16 +543,19 @@
       <jump line="58" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.ts" />
       <jump line="23" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" />
       <jump line="34" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/node_modules/ng-jhipster/src/language/language.service.js" />
+      <jump line="74" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
+      <jump line="6" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
+      <jump line="3" column="129" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/global.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
-        <text>changeLan</text>
+        <text>당신의</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHV1aWQuZ2V0TW9zdFNpZ25pZmljYW50Qml0cygpJkxvbmcuTUFYX1ZBTFVFKTsK</text>
@@ -588,9 +592,9 @@
       </register>
     </registers>
     <search>
-      <last-search>changeLan</last-search>
+      <last-search>당신의</last-search>
       <last-offset />
-      <last-pattern>changeLan</last-pattern>
+      <last-pattern>당신의</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -598,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
         <entry>gif</entry>
         <entry>png</entry>
         <entry>img</entry>
@@ -618,6 +621,7 @@
         <entry>title</entry>
         <entry>eventManager</entry>
         <entry>changeLan</entry>
+        <entry>당신의</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -632,13 +636,13 @@
         <entry>176</entry>
         <entry>186</entry>
         <entry>44</entry>
-        <entry>q!</entry>
         <entry>0</entry>
         <entry>wq</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>%</entry>
         <entry>2</entry>
         <entry>q</entry>
+        <entry>q!</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -56,6 +56,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/admin/user-management/user-management-dialog.component.html" timestamp="1507873177604">
+        <mark key="[" line="100" column="48" />
+        <mark key="]" line="100" column="48" />
+        <mark key="." line="100" column="48" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-prod.yml" timestamp="1501577534545">
         <mark key="[" line="23" column="47" />
         <mark key="]" line="23" column="48" />
@@ -565,17 +570,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ddressBook 네비게이션바 이동
-2. Entities 숨김처</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>menu</text>
+        <text>pass</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGgtbGlzdCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgW2Rpc2FibGVkXT0idXNlci5pZCA9PT0gbnVsbCIgdHlwZT0iY2hlY2tib3giIGlkPSJhY3RpdmF0ZWQiIG5hbWU9ImFjdGl2YXRlZCIgWyhuZ01vZGVsKV09InVzZXIuYWN0aXZhdGVkIj4K</text>
       </register>
       <register name="1" type="4">
         <text>ddressBook 네비게이션바 이동
@@ -611,9 +615,9 @@
       </register>
     </registers>
     <search>
-      <last-search>menu</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>menu</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -621,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry>png</entry>
         <entry>img</entry>
         <entry>resetKey</entry>
         <entry>multi</entry>
@@ -641,6 +644,7 @@
         <entry>changeLan</entry>
         <entry>당신의</entry>
         <entry>menu</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>

@@ -172,10 +172,11 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1507868596653">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="120" />
-        <mark key="." line="36" column="0" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1507870955283">
+        <mark key="[" line="127" column="17" />
+        <mark key="]" line="128" column="14" />
+        <mark key="." line="128" column="14" />
+        <mark key="^" line="128" column="14" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073110_added_entity_Company.xml" timestamp="1501582145860">
         <mark key="[" line="45" column="29" />
@@ -311,9 +312,10 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507862836586">
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="/Dummy.txt" timestamp="1507871025088">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
         <mark key="[" line="20" column="23" />
@@ -345,6 +347,12 @@
         <mark key="^" line="67" column="73" />
         <mark key="." line="67" column="73" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/app.route.ts" timestamp="1507869880538">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="43" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500890220795">
         <mark key="[" line="266" column="12" />
         <mark key="]" line="266" column="13" />
@@ -366,6 +374,7 @@
         <mark key="^" line="38" column="289" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/address-book/address-book.route.ts" timestamp="1507869825259" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/ko/home.json" timestamp="1505782055103">
         <mark key="[" line="10" column="29" />
         <mark key="]" line="10" column="39" />
@@ -426,6 +435,7 @@
         <mark key="." line="14" column="42" />
         <mark key="^" line="14" column="42" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/address-book/address-book.component.html" timestamp="1507869617287" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceFileApprovalSendFailEmail.html" timestamp="1501144535693">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="17" column="11" />
@@ -554,44 +564,46 @@
       <jump line="64" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/i18n/en/global.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgcm91dGVyTGluaz0iYWRkcmVzcy1ib29rIiByb3V0ZXJMaW5rQWN0aXZlPSJhY3RpdmUiIChjbGljayk9ImNvbGxhcHNlTmF2YmFyKCkiPgo=</text>
+      <register name="&quot;" type="4">
+        <text>. favicon 변경
+2. 로그인페이지 message 변경</text>
       </register>
       <register name="-" type="4">
-        <text>Home</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImRyb3Bkb3duLWl0ZW0iIHJvdXRlckxpbms9ImFkZHJlc3MtYm9vayIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiAoY2xpY2spPSJjb2xsYXBzZU5hdmJhcigpIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGgtbGlzdCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iZHJvcGRvd24taXRlbSIgcm91dGVyTGluaz0iYWRkcmVzcy1ib29rIiByb3V0ZXJMaW5rQWN0aXZlPSJhY3RpdmUiIChjbGljayk9ImNvbGxhcHNlTmF2YmFyKCkiPgo=</text>
+      <register name="1" type="4">
+        <text>. favicon 변경
+2. 로그인페이지 message 변경</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtbGluayIgW3JvdXRlckxpbmtdPSJbJy8nLCB7IG91dGxldHM6IHsgcG9wdXA6IFsnc2V0dGluZ3MnXSB9IH1dIiByb3V0ZXJMaW5rQWN0aXZlPSJhY3RpdmUiIHJvdXRlckxpbms9Ii8iIChjbGljayk9ImNvbGxhcHNlTmF2YmFyKCkiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIGpoaXBzdGVyLW5lZWRsZS1hZGQtZW50aXR5LXRvLW1lbnUgLSBKSGlwc3RlciB3aWxsIGFkZCBlbnRpdGllcyB0byB0aGUgbWVudSBoZXJlIC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtaG9tZSIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIHJvdXRlckxpbms9Ii8iIChjbGljayk9ImNvbGxhcHNlTmF2YmFyKCkiPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1xdWVzdGlvbi1jaXJjbGUiIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gamhpVHJhbnNsYXRlPSJnbG9iYWwubWVudS51c2VyLWd1aWRlIj5Vc2VyIGd1aWRlPC9zcGFuPgogICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImhvbWUuY29tcG9uZW50LnRzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBqaGlUcmFuc2xhdGU9Imdsb2JhbC5tZW51LmFkZHJlc3NCb29rIj5BZGRyZXNzQm9vazwvc3Bhbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2VudGl0aWVzL2NvbmZlcmVuY2UtY2FyZC9jb25mZXJlbmNlLWNhcmQubW9kdWxlLnRzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGgtbGlzdCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiByb3V0ZXJMaW5rPSJhZGRyZXNzLWJvb2siIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uLy4uL2hvbWUvaG9tZS5jb21wb25lbnQudHMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iLi4vY29uZmVyZW5jZS9jb25mZXJlbmNlLnNlcnZpY2UudHMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iY29uZmVyZW5jZS1jYXJkLmNvbXBvbmVudC50cyI+PC9zY3JpcHQ+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtaG9tZSIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

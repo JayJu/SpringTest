@@ -172,11 +172,11 @@
         <mark key="." line="14" column="5" />
         <mark key="^" line="14" column="5" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1507870955283">
-        <mark key="[" line="127" column="17" />
-        <mark key="]" line="128" column="14" />
-        <mark key="." line="128" column="14" />
-        <mark key="^" line="128" column="14" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/layouts/navbar/navbar.component.html" timestamp="1507871998325">
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="23" />
+        <mark key="." line="65" column="23" />
+        <mark key="^" line="42" column="34" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073110_added_entity_Company.xml" timestamp="1501582145860">
         <mark key="[" line="45" column="29" />
@@ -312,10 +312,10 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507871025088">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1507872060418">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
         <mark key="[" line="20" column="23" />
@@ -565,11 +565,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>. favicon 변경
-2. 로그인페이지 message 변경</text>
+        <text>ddressBook 네비게이션바 이동
+2. Entities 숨김처</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
@@ -578,32 +578,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGgtbGlzdCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
       </register>
       <register name="1" type="4">
+        <text>ddressBook 네비게이션바 이동
+2. Entities 숨김처</text>
+      </register>
+      <register name="2" type="4">
         <text>. favicon 변경
 2. 로그인페이지 message 변경</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIGpoaXBzdGVyLW5lZWRsZS1hZGQtZW50aXR5LXRvLW1lbnUgLSBKSGlwc3RlciB3aWxsIGFkZCBlbnRpdGllcyB0byB0aGUgbWVudSBoZXJlIC0tPgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBqaGlUcmFuc2xhdGU9Imdsb2JhbC5tZW51LmFkZHJlc3NCb29rIj5BZGRyZXNzQm9vazwvc3Bhbj4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtdGgtbGlzdCIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJkcm9wZG93bi1pdGVtIiByb3V0ZXJMaW5rPSJhZGRyZXNzLWJvb2siIHJvdXRlckxpbmtBY3RpdmU9ImFjdGl2ZSIgKGNsaWNrKT0iY29sbGFwc2VOYXZiYXIoKSI+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtaG9tZSIgYXJpYS1oaWRkZW49InRydWUiPjwvaT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSIgcm91dGVyTGlua0FjdGl2ZT0iYWN0aXZlIiBbcm91dGVyTGlua0FjdGl2ZU9wdGlvbnNdPSJ7ZXhhY3Q6IHRydWV9Ij4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

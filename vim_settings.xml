@@ -10,6 +10,13 @@
         <mark key="." line="76" column="28" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationCancelEmail.html" timestamp="1508112894745" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" timestamp="1508117437125">
+        <mark key="'" line="25" column="20" />
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.css" timestamp="1505795212458">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="20" />
@@ -68,6 +75,9 @@
         <mark key="]" line="54" column="38" />
         <mark key="^" line="54" column="38" />
         <mark key="." line="54" column="38" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" timestamp="1508117307513">
+        <mark key="'" line="92" column="32" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
@@ -343,7 +353,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508112272136">
+      <file name="/Dummy.txt" timestamp="1508117494216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -500,14 +510,15 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1508117673469">
+        <mark key="'" line="101" column="32" />
+        <mark key="[" line="99" column="32" />
+        <mark key="]" line="99" column="35" />
+        <mark key="^" line="99" column="35" />
+        <mark key="." line="99" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
-      <jump line="62" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
-      <jump line="76" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
-      <jump line="20" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/index.ts" />
-      <jump line="13" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" />
-      <jump line="8" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" />
       <jump line="5" column="123" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.html" />
       <jump line="22" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
       <jump line="92" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
@@ -602,55 +613,61 @@
       <jump line="155" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
       <jump line="116" column="26" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/templates/error.html" />
       <jump line="136" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/templates/error.html" />
+      <jump line="37" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
+      <jump line="96" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
+      <jump line="92" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
+      <jump line="25" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
+      <jump line="25" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="99" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>container</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jaGVjay1pbnB1dCIgW2Rpc2FibGVkXT0idXNlci5pZCA9PT0gbnVsbCIgdHlwZT0iY2hlY2tib3giIGlkPSJhY3RpdmF0ZWQiIG5hbWU9ImFjdGl2YXRlZCIgWyhuZ01vZGVsKV09InVzZXIuYWN0aXZhdGVkIj4K</text>
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV9wcm9kLmdyYWRsZScK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgIG1hcmdpbjogMCAxMHB4OwogICAgICAgICAgICBmb250LXNpemU6IDUwcHg7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICB9CgogICAgICAgIGgxIHNwYW4gewogICAgICAgICAgICBjb2xvcjogI2JiYjsKICAgICAgICB9</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDxoMSB0aDp0ZXh0PSIje2Vycm9yLnRpdGxlfSI+WW91ciByZXF1ZXN0IGNhbm5vdCBiZSBwcm9jZXNzZWQgPHNwYW4+Oig8L3NwYW4+PC9oMT4KCiAgICA8cCB0aDp0ZXh0PSIje2Vycm9yLnN1YnRpdGxlfSI+U29ycnksIGFuIGVycm9yIGhhcyBvY2N1cnJlZC48L3A+CgogICAgPHNwYW4gdGg6dGV4dD0iI3tlcnJvci5zdGF0dXN9Ij5TdGF0dXM6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+Jm5ic3A7KDxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+KTxici8+CiAgICA8c3BhbiB0aDppZj0iJHshI3N0cmluZ3MuaXNFbXB0eShtZXNzYWdlKX0iPgogICAgICAgIDxzcGFuIHRoOnRleHQ9IiN7ZXJyb3IubWVzc2FnZX0iPk1lc3NhZ2U6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZX0iPjwvc3Bhbj48YnIvPgogICAgPC9zcGFuPgoKICAgIDxzY3JpcHQgdGg6aW5saW5lPSJ0ZXh0Ij4KICAgICAgICAvKjwhW0NEQVRBWyovCiAgICAgICAgdmFyIEdPT0dfRklYVVJMX0xBTkcgPSAnW1skeyNsb2NhbGUubGFuZ3VhZ2V9XV0nLCBHT09HX0ZJWFVSTF9TSVRFID0gbG9jYXRpb24uaG9zdDsKICAgICAgICAvKl1dPiovCiAgICA8L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2xpbmtoZWxwLmNsaWVudHMuZ29vZ2xlLmNvbS90YnByb3h5L2xoL3dtL2ZpeHVybC5qcyI+PC9zY3JpcHQ+</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLWV4dGVuc2lvbi1pZDogbGJvbmNkbWZpZ2dtamliaWZkb2draGZobG1ubnBva2QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQ6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lZGlhOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YXBwbGljYXRpb246Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgIG1hcmdpbjogMCAxMHB4OwogICAgICAgICAgICBmb250LXNpemU6IDUwcHg7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICB9CgogICAgICAgIGgxIHNwYW4gewogICAgICAgICAgICBjb2xvcjogI2JiYjsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxoMSB0aDp0ZXh0PSIje2Vycm9yLnRpdGxlfSI+WW91ciByZXF1ZXN0IGNhbm5vdCBiZSBwcm9jZXNzZWQgPHNwYW4+Oig8L3NwYW4+PC9oMT4KCiAgICA8cCB0aDp0ZXh0PSIje2Vycm9yLnN1YnRpdGxlfSI+U29ycnksIGFuIGVycm9yIGhhcyBvY2N1cnJlZC48L3A+CgogICAgPHNwYW4gdGg6dGV4dD0iI3tlcnJvci5zdGF0dXN9Ij5TdGF0dXM6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+Jm5ic3A7KDxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+KTxici8+CiAgICA8c3BhbiB0aDppZj0iJHshI3N0cmluZ3MuaXNFbXB0eShtZXNzYWdlKX0iPgogICAgICAgIDxzcGFuIHRoOnRleHQ9IiN7ZXJyb3IubWVzc2FnZX0iPk1lc3NhZ2U6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZX0iPjwvc3Bhbj48YnIvPgogICAgPC9zcGFuPgoKICAgIDxzY3JpcHQgdGg6aW5saW5lPSJ0ZXh0Ij4KICAgICAgICAvKjwhW0NEQVRBWyovCiAgICAgICAgdmFyIEdPT0dfRklYVVJMX0xBTkcgPSAnW1skeyNsb2NhbGUubGFuZ3VhZ2V9XV0nLCBHT09HX0ZJWFVSTF9TSVRFID0gbG9jYXRpb24uaG9zdDsKICAgICAgICAvKl1dPiovCiAgICA8L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2xpbmtoZWxwLmNsaWVudHMuZ29vZ2xlLmNvbS90YnByb3h5L2xoL3dtL2ZpeHVybC5qcyI+PC9zY3JpcHQ+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLWV4dGVuc2lvbi1pZDogbGJvbmNkbWZpZ2dtamliaWZkb2draGZobG1ubnBva2QK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjbGllbnQ6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG1lZGlhOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YXBwbGljYXRpb246Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlLXVybDogaHR0cDovL215LXNlcnZlci11cmwtdG8tY2hhbmdlICMgTW9kaWZ5IGFjY29yZGluZyB0byB5b3VyIHNlcnZlcidzIFVSTAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tOiB0ZXN0QGxvY2FsaG9zdGRkZGQK</text>
+        <text encoding="base64">ICAgICAgICBiYXNlLXVybDogaHR0cDovL215LXNlcnZlci11cmwtdG8tY2hhbmdlICMgTW9kaWZ5IGFjY29yZGluZyB0byB5b3VyIHNlcnZlcidzIFVSTAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>container</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>container</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -658,8 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>USER</entry>
-        <entry>background</entry>
         <entry>save</entry>
         <entry>Event</entry>
         <entry>event</entry>
@@ -678,6 +693,8 @@
         <entry>swagger</entry>
         <entry>hvcs</entry>
         <entry>container</entry>
+        <entry>profile</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -698,8 +715,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

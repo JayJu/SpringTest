@@ -75,8 +75,8 @@
         <mark key="^" line="54" column="38" />
         <mark key="." line="54" column="38" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" timestamp="1508117307513">
-        <mark key="'" line="92" column="32" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" timestamp="1508372001744">
+        <mark key="'" line="99" column="67" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/repository/ConferenceMailRepository.java" timestamp="1501046184969">
         <mark key="[" line="15" column="0" />
@@ -112,7 +112,7 @@
         <mark key="." line="47" column="29" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1508111920504">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application.yml" timestamp="1508372043645">
         <mark key="'" line="85" column="42" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationSendFailEmail.html" timestamp="1501144546582">
@@ -346,14 +346,17 @@
         <mark key="." line="186" column="0" />
         <mark key="^" line="147" column="16" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1508374681845">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/UserMailService.java" timestamp="1501117261670">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="10" column="7" />
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508118420103">
-        <mark key="[" line="0" column="3" />
+      <file name="/Dummy.txt" timestamp="1508374789371">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="3" />
       </file>
@@ -516,26 +519,15 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1508117673469">
-        <mark key="'" line="101" column="32" />
-        <mark key="[" line="99" column="32" />
-        <mark key="]" line="99" column="35" />
-        <mark key="^" line="99" column="35" />
-        <mark key="." line="99" column="35" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" timestamp="1508374423538">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="98" column="1" />
+        <mark key="]" line="98" column="5" />
+        <mark key="^" line="98" column="5" />
+        <mark key="." line="98" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="43" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="43" column="13" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="48" column="1" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.route.ts" />
-      <jump line="18" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="3" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="33" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="69" column="73" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="70" column="59" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="71" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
-      <jump line="83" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.ts" />
       <jump line="64" column="21" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/home/home.component.html" />
       <jump line="9" column="9" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
       <jump line="31" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference.component.ts" />
@@ -620,50 +612,59 @@
       <jump line="96" column="36" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
       <jump line="92" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
       <jump line="25" column="20" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle.properties" />
-      <jump line="25" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="99" column="32" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
       <jump line="12" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle/profile_test.gradle" />
       <jump line="11" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle/profile_test.gradle" />
       <jump line="10" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/gradle/profile_test.gradle" />
+      <jump line="99" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/HvcsApp.java" />
+      <jump line="25" column="22" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="107" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="85" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="240" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="244" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="248" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="49" column="4" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="3" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="98" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="123" column="15" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
+      <jump line="32" column="14" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>관리자 사용자관리메뉴 일부 수정
-2.  mail 인증 주소 수정</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV90ZXN0LmdyYWRsZScK</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>bootRun</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV9wcm9kLmdyYWRsZScK</text>
+        <text encoding="base64">fSBlbHNlIGlmIChwcm9qZWN0Lmhhc1Byb3BlcnR5KCd0ZXN0JykpIHsKICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV90ZXN0LmdyYWRsZScKfSBlbHNlIHsK</text>
       </register>
-      <register name="1" type="4">
-        <text>관리자 사용자관리메뉴 일부 수정
-2.  mail 인증 주소 수정</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV90ZXN0LmdyYWRsZScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKHByb2plY3QuaGFzUHJvcGVydHkoJ3Rlc3QnKSkgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBoMSB7CiAgICAgICAgICAgIG1hcmdpbjogMCAxMHB4OwogICAgICAgICAgICBmb250LXNpemU6IDUwcHg7CiAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICB9CgogICAgICAgIGgxIHNwYW4gewogICAgICAgICAgICBjb2xvcjogI2JiYjsKICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIDxoMSB0aDp0ZXh0PSIje2Vycm9yLnRpdGxlfSI+WW91ciByZXF1ZXN0IGNhbm5vdCBiZSBwcm9jZXNzZWQgPHNwYW4+Oig8L3NwYW4+PC9oMT4KCiAgICA8cCB0aDp0ZXh0PSIje2Vycm9yLnN1YnRpdGxlfSI+U29ycnksIGFuIGVycm9yIGhhcyBvY2N1cnJlZC48L3A+CgogICAgPHNwYW4gdGg6dGV4dD0iI3tlcnJvci5zdGF0dXN9Ij5TdGF0dXM6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+Jm5ic3A7KDxzcGFuIHRoOnRleHQ9IiR7ZXJyb3J9Ij48L3NwYW4+KTxici8+CiAgICA8c3BhbiB0aDppZj0iJHshI3N0cmluZ3MuaXNFbXB0eShtZXNzYWdlKX0iPgogICAgICAgIDxzcGFuIHRoOnRleHQ9IiN7ZXJyb3IubWVzc2FnZX0iPk1lc3NhZ2U6PC9zcGFuPiZuYnNwOzxzcGFuIHRoOnRleHQ9IiR7bWVzc2FnZX0iPjwvc3Bhbj48YnIvPgogICAgPC9zcGFuPgoKICAgIDxzY3JpcHQgdGg6aW5saW5lPSJ0ZXh0Ij4KICAgICAgICAvKjwhW0NEQVRBWyovCiAgICAgICAgdmFyIEdPT0dfRklYVVJMX0xBTkcgPSAnW1skeyNsb2NhbGUubGFuZ3VhZ2V9XV0nLCBHT09HX0ZJWFVSTF9TSVRFID0gbG9jYXRpb24uaG9zdDsKICAgICAgICAvKl1dPiovCiAgICA8L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2xpbmtoZWxwLmNsaWVudHMuZ29vZ2xlLmNvbS90YnByb3h5L2xoL3dtL2ZpeHVybC5qcyI+PC9zY3JpcHQ+</text>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lLWV4dGVuc2lvbi1pZDogbGJvbmNkbWZpZ2dtamliaWZkb2draGZobG1ubnBva2QK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgYXBwbHkgZnJvbTogJ2dyYWRsZS9wcm9maWxlX2Rldi5ncmFkbGUnCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQ6Cg==</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1lZGlhOgo=</text>
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICdncmFkbGUvcHJvZmlsZV9kZXYuZ3JhZGxlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbGljYXRpb246Cg==</text>
+        <text encoding="base64">fSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -673,9 +674,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>bootRun</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern>bootRun</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -683,13 +684,6 @@
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>Event</entry>
-        <entry>event</entry>
-        <entry>eventSub</entry>
-        <entry>instant</entry>
-        <entry>title</entry>
-        <entry>eventManager</entry>
         <entry>changeLan</entry>
         <entry>당신의</entry>
         <entry>menu</entry>
@@ -703,6 +697,13 @@
         <entry>container</entry>
         <entry>profile</entry>
         <entry>dev</entry>
+        <entry>TEST</entry>
+        <entry>DEFAULT</entry>
+        <entry>test</entry>
+        <entry>project</entry>
+        <entry>task</entry>
+        <entry>def</entry>
+        <entry>bootRun</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>

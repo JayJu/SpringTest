@@ -144,10 +144,10 @@
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" timestamp="1508381299897">
         <mark key="'" line="78" column="38" />
-        <mark key="[" line="100" column="59" />
-        <mark key="]" line="100" column="70" />
-        <mark key="." line="100" column="70" />
-        <mark key="^" line="100" column="70" />
+        <mark key="[" line="99" column="59" />
+        <mark key="]" line="99" column="70" />
+        <mark key="." line="99" column="70" />
+        <mark key="^" line="99" column="70" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/passwordResetEmail.html" timestamp="1505377603766">
         <mark key="[" line="50" column="0" />
@@ -368,11 +368,10 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508380805121">
+      <file name="/Dummy.txt" timestamp="1508385473201">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/liquibase/changelog/20170604073118_added_entity_ConferenceAttendHistory.xml" timestamp="1502244956118">
         <mark key="[" line="20" column="23" />
@@ -653,8 +652,8 @@
       <jump line="78" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">MS4gcHJvZmlsZSDD37ChCjIuIA==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -665,35 +664,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydGllcyAnc3ByaW5nLnByb2ZpbGVzLmFjdGl2ZScsICdkZXYnCg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">MS4gcHJvZmlsZSDD37ChCjIuIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmFudE1hdAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">PCEtLVtpZiBsdCBJRSA5XT4KICAgICAgICA8cCBjbGFzcz0iYnJvd3NlcnVwZ3JhZGUiPllvdSBhcmUgdXNpbmcgYW4gPHN0cm9uZz5vdXRkYXRlZDwvc3Ryb25nPiBicm93c2VyLiBQbGVhc2UgPGEgaHJlZj0iaHR0cDovL2Jyb3dzZWhhcHB5LmNvbS8iPnVwZ3JhZGUgeW91ciBicm93c2VyPC9hPiB0byBpbXByb3ZlIHlvdXIgZXhwZXJpZW5jZS48L3A+CiAgICA8IVtlbmRpZl0tLT4KICAgIDxqaGktbWFpbj48L2poaS1tYWluPgogICAgPHNjcmlwdD4KICAgICAgICAvLyBsb2FkIHNoaW0gZm9yIElFCiAgICAgICAgaWYgKHdpbmRvdy5uYXZpZ2F0b3IudXNlckFnZW50LmluZGV4T2YoJ1RyaWRlbnQvJykgPiAwKSB7CiAgICAgICAgICAgIHZhciBzY3JpcHQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgICAgICAgICAgc2NyaXB0LnNyYyA9ICdjb3JlLWpzLXNoaW0ubWluLmpzJzsKICAgICAgICAgICAgc2NyaXB0LnR5cGUgPSAndGV4dC9qYXZhc2NyaXB0JzsKICAgICAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXS5hcHBlbmRDaGlsZChzY3JpcHQpCiAgICAgICAgfQoKICAgICAgICBsb2NhdGlvbi5ocmVmPSdpbmRleDIuaHRtbCcKCiAgICA8L3NjcmlwdD4KICAgIDxub3NjcmlwdD4KICAgICAgICA8aDE+WW91IG11c3QgZW5hYmxlIGphdmFzY3JpcHQgdG8gdmlldyB0aGlzIHBhZ2UuPC9oMT4KICAgIDwvbm9zY3JpcHQ+CiAgICA8IS0tIHVuY29tbWVudCB0aGlzIGZvciBhZGRpbmcgc2VydmljZSB3b3JrZXIKICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICBpZiAoJ3NlcnZpY2VXb3JrZXInIGluIG5hdmlnYXRvcikgewogICAgICAgICAgICAgICAgIG5hdmlnYXRvci5zZXJ2aWNlV29ya2VyCiAgICAgICAgICAgICAgICAgICAgLnJlZ2lzdGVyKCcuL3N3LmpzJykKICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbigpIHsgY29uc29sZS5sb2coJ1NlcnZpY2UgV29ya2VyIFJlZ2lzdGVyZWQnKTsgfSk7CiAgICAgICAgICAgIH0KICAgICAgICA8L3NjcmlwdD4KICAgIC0tPgogICAgPCEtLSBHb29nbGUgQW5hbHl0aWNzOiB1bmNvbW1lbnQgYW5kIGNoYW5nZSBVQS1YWFhYWC1YIHRvIGJlIHlvdXIgc2l0ZSdzIElELgogICAgPHNjcmlwdD4KICAgICAgICAoZnVuY3Rpb24oYixvLGksbCxlLHIpe2IuR29vZ2xlQW5hbHl0aWNzT2JqZWN0PWw7YltsXXx8KGJbbF09CiAgICAgICAgZnVuY3Rpb24oKXsoYltsXS5xPWJbbF0ucXx8W10pLnB1c2goYXJndW1lbnRzKX0pO2JbbF0ubD0rbmV3IERhdGU7CiAgICAgICAgZT1vLmNyZWF0ZUVsZW1lbnQoaSk7cj1vLmdldEVsZW1lbnRzQnlUYWdOYW1lKGkpWzBdOwogICAgICAgIGUuc3JjPScvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnOwogICAgICAgIHIucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZSxyKX0od2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdnYScpKTsKICAgICAgICBnYSgnY3JlYXRlJywnVUEtWFhYWFgtWCcpO2dhKCdzZW5kJywncGFnZXZpZXcnKTsKICAgIDwvc2NyaXB0Pi0t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydHkgJ3NwcmluZy5wcm9maWxlcy5hY3RpdmUnLCAncHJvZHVjdGlvbicK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGV2IHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydHkgJ3NwcmluZy5wcm9maWxlcy5hY3RpdmUnLCAncHJvZHVjdGlvbicK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGV2IHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydGllcyAnc3ByaW5nLnByb2ZpbGVzLmFjdGl2ZScsICdkZXYnCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -747,8 +746,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>q!</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />

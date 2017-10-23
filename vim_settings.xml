@@ -58,6 +58,13 @@
         <mark key="^" line="37" column="34" />
         <mark key="." line="37" column="34" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" timestamp="1508734593857">
+        <mark key="'" line="676" column="102" />
+        <mark key="[" line="330" column="61" />
+        <mark key="]" line="330" column="64" />
+        <mark key="." line="330" column="64" />
+        <mark key="^" line="330" column="64" />
+      </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference-card/conference-card.css" timestamp="1505463940371">
         <mark key="[" line="53" column="58" />
         <mark key="]" line="53" column="59" />
@@ -352,8 +359,8 @@
         <mark key="^" line="251" column="43" />
         <mark key="." line="251" column="43" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1508111946714">
-        <mark key="'" line="155" column="20" />
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" timestamp="1508734497936">
+        <mark key="'" line="189" column="12" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
@@ -368,7 +375,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508385473201">
+      <file name="/Dummy.txt" timestamp="1508734565213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -397,7 +404,8 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" timestamp="1508111359760">
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" timestamp="1508734481693">
+        <mark key="'" line="210" column="19" />
         <mark key="[" line="182" column="57" />
         <mark key="]" line="183" column="64" />
         <mark key="." line="183" column="64" />
@@ -426,6 +434,12 @@
         <mark key="]" line="6" column="43" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="43" />
+      </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/media/Recorder.java" timestamp="1508734142182">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="35" />
+        <mark key="^" line="28" column="35" />
       </file>
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/UserService.java" timestamp="1500890220795">
         <mark key="[" line="266" column="12" />
@@ -550,16 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="48" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="136" column="67" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="54" column="70" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="49" column="24" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="146" column="33" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="150" column="28" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/service/mail/MailConferenceService.java" />
-      <jump line="33" column="137" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
-      <jump line="54" column="182" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
-      <jump line="15" column="23" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/mails/conferenceReservationEmail.html" />
-      <jump line="740" column="8" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
       <jump line="784" column="16" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
       <jump line="825" column="17" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
       <jump line="18" column="29" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/entities/conference/conference-dialog.component.ts" />
@@ -650,16 +654,26 @@
       <jump line="103" column="50" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
       <jump line="115" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
       <jump line="78" column="38" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/java/com/autoever/hvcs/config/SecurityConfiguration.java" />
+      <jump line="190" column="46" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" />
+      <jump line="187" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" />
+      <jump line="188" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" />
+      <jump line="210" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-test.yml" />
+      <jump line="177" column="0" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="190" column="34" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="212" column="19" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="189" column="12" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/resources/config/application-dev.yml" />
+      <jump line="330" column="49" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
+      <jump line="676" column="102" filename="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/media/video-call.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">MS4gcHJvZmlsZSDD37ChCjIuIA==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>record</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydGllcyAnc3ByaW5nLnByb2ZpbGVzLmFjdGl2ZScsICdkZXYnCg==</text>
@@ -692,13 +706,13 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>record</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>record</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -706,8 +720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exten</entry>
-        <entry>swagger</entry>
         <entry>hvcs</entry>
         <entry>container</entry>
         <entry>profile</entry>
@@ -726,6 +738,8 @@
         <entry>testClass</entry>
         <entry>clean</entry>
         <entry>index</entry>
+        <entry>reco</entry>
+        <entry>record</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
@@ -746,8 +760,8 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>q!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

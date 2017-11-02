@@ -16,6 +16,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
+      <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/logs/ham-app-.2017-10-23.log" timestamp="1509595556277" />
       <file name="D:/Biz/05.Project/17.HVCS/Source/hvcs/src/main/webapp/app/shared/clock/clock.component.css" timestamp="1505795212458">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="20" />
@@ -375,7 +376,7 @@
         <mark key="^" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508981860537">
+      <file name="/Dummy.txt" timestamp="1509595557697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -673,7 +674,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>record</text>
+        <text>vp8</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb3RSdW4uc3lzdGVtUHJvcGVydGllcyAnc3ByaW5nLnByb2ZpbGVzLmFjdGl2ZScsICdkZXYnCg==</text>
@@ -710,9 +711,9 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>vp8</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>vp8</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -720,9 +721,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hvcs</entry>
-        <entry>container</entry>
-        <entry>profile</entry>
         <entry>dev</entry>
         <entry>TEST</entry>
         <entry>DEFAULT</entry>
@@ -740,6 +738,9 @@
         <entry>index</entry>
         <entry>reco</entry>
         <entry>record</entry>
+        <entry>vp</entry>
+        <entry>vp9</entry>
+        <entry>vp8</entry>
       </history-search>
       <history-cmd>
         <entry>142</entry>
